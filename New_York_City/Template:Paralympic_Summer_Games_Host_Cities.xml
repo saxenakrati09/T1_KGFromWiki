@@ -1,0 +1,45 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox with columns
+|name = Paralympic Summer Games Host Cities
+|title =  [[Summer Paralympic Games]] [[List of Paralympic Games host cities|host cities]]
+|state = {{{state|autocollapse}}}
+| listclass = plainlist
+| fullwidth = true
+| colstyle = text-align:left; padding-left:0.2em; white-space:nowrap;
+
+| col1 = 
+* '''[[1960 Summer Paralympics|1960]]:''' {{flagicon|ITA}} [[Rome]]
+* '''[[1964 Summer Paralympics|1964]]:''' {{flagicon|JPN|1870}} [[Tokyo]]
+* '''[[1968 Summer Paralympics|1968]]:''' {{flagicon|ISR}} [[Tel Aviv]]
+* '''[[1972 Summer Paralympics|1972]]:''' {{flagicon|FRG}} [[Heidelberg]]
+* '''[[1976 Summer Paralympics|1976]]:''' {{flagicon|CAN}} [[Toronto]]
+| col2 = 
+* '''[[1980 Summer Paralympics|1980]]:''' {{flagicon|NED}} [[Arnhem]]
+* '''[[1984 Summer Paralympics|1984]]:''' {{flagicon|USA}} [[New York City]] / {{flagicon|UK}} [[Stoke Mandeville]]
+* '''[[1988 Summer Paralympics|1988]]:''' {{flagicon|KOR}} [[Seoul]]
+* '''[[1992 Summer Paralympics|1992]]:''' {{flagicon|ESP}} [[Barcelona]] / {{flagicon|ESP}} [[Madrid]]
+* '''[[1996 Summer Paralympics|1996]]:''' {{flagicon|USA}} [[Atlanta]]
+| col3 = 
+* '''[[2000 Summer Paralympics|2000]]:''' {{flagicon|AUS}} [[Sydney]]
+* '''[[2004 Summer Paralympics|2004]]:''' {{flagicon|GRE}} [[Athens]]
+* '''[[2008 Summer Paralympics|2008]]:''' {{flagicon|CHN}} [[Beijing]]
+* '''[[2012 Summer Paralympics|2012]]:''' {{flagicon|GBR}} [[London]]
+| col4 =
+* '''[[2016 Summer Paralympics|2016]]:''' {{flagicon|BRA}} [[Rio de Janeiro]]
+* '''[[2020 Summer Paralympics|2020]]:''' {{flagicon|JPN}} ''[[Tokyo]]''
+* '''[[2024 Summer Paralympics|2024]]:''' {{flagicon|FRA}} ''[[Paris]]''
+* '''[[2028 Summer Paralympics|2028]]:''' {{flagicon|USA}} ''[[Los Angeles]]''
+}}&lt;noinclude&gt;
+{{documentation|content=
+
+{{collapsible option}}
+
+==Use==
+To add this template, use {{tl|{{PAGENAME}}}}
+==See also==
+*[[Template:Paralympic Winter Games Host Cities]]
+
+}}
+
+[[Category:Paralympics navigational boxes]]
+&lt;/noinclude&gt;
+</textarea>

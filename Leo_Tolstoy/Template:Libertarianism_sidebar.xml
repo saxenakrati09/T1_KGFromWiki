@@ -1,0 +1,133 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Sidebar with collapsible lists
+|name = Libertarianism sidebar
+|title = [[Libertarianism]]
+|imagestyle = padding-top:0.6em;
+|image =
+|pretitle = Part of a [[:Category:Libertarianism|series]] on
+|listclass = hlist
+|listtitlestyle = background:transparent;border-top:1px solid #aaa;text-align:center;
+|expanded = {{{expanded|{{{selected|{{{1|}}}}}}}}}
+&lt;!---------------------- Origins --------------------------&gt;
+|list1name = origins
+|list1title = Origins
+|list1 =
+* [[Anarchism]]
+* [[Individualist anarchism]]
+* [[Libertarian communism]]
+* [[Libertarian socialism]]
+* [[Social anarchism]]
+&lt;!--------------------- Concepts --------------------------&gt;
+|list2name = concepts
+|list2title = Concepts
+|list2 =
+* [[Anti-authoritarianism]]
+* [[Anti-capitalism]]
+* [[Anti-militarism]]
+* [[Anti-statism]]
+* [[Civil disobedience]]
+* [[Civil libertarianism]]
+* [[Class struggle]]
+* [[Communes]]
+* [[Decentralization|Decentrali{{#ifeq:{{{sp}}}|uk|s|z}}ation]]
+* [[Decentralized planning (economics)|Decentrali{{#ifeq:{{{sp}}}|uk|s|z}}ed planning]]
+* [[Direct action]]
+* [[Economic democracy]]
+* [[Egalitarianism]]
+* [[Expropriative anarchism]]
+* [[Federalism]]
+* [[Free association (Marxism and anarchism)|Free association]]
+* [[Free love]]
+* [[Free market]]
+* [[Free-market anarchism]]
+* [[Free migration]]
+* [[Freedom of association]]
+* [[Global justice movement]]
+* [[Gift economy]]
+* [[Illegalism]]
+* [[Individualism]]
+* [[Individual reclamation]]
+* [[Left-wing market anarchism]]
+* [[Libertarian possibilism]]
+* [[Liberty]]
+* [[Non-voting]]
+* [[Participatory economics]]
+* [[Propaganda of the deed]]
+* [[Property is theft]]
+* [[Really Really Free Market]]
+* [[Refusal of work]]
+* [[Self-governance]]
+* [[Self-ownership]]
+* [[Social ecology (theory)|Social ecology]]
+* [[Squatting]]
+* [[Stateless society]]
+* [[Workers' councils]]
+* [[Workers' self-management]]
+&lt;!----------------------- People --------------------------&gt;
+|list3name = people
+|list3title = People
+|list3 =
+* [[Stephen Pearl Andrews|Andrews]]
+* [[Émile Armand|Armand]]
+* [[Mikhail Bakunin|Bakunin]]
+* [[Alexander Berkman|Berkman]]
+* [[Murray Bookchin|Bookchin]]
+* [[Kevin Carson|Carson]]
+* [[Voltairine de Cleyre|Cleyre]]
+* [[Noam Chomsky|Chomsky]]
+* [[Joseph Déjacque|Déjacque]]
+* [[Buenaventura Durruti|Durruti]]
+* [[Francisco Ferrer|Ferrer]]
+* [[Ricardo Flores Magón|Magón]]
+* [[Luigi Galleani|Galleani]]
+* [[William Godwin|Godwin]]
+* [[Emma Goldman|Goldman]]
+* [[Paul Goodman|Goodman]]
+* [[David Graeber|Graeber]]
+* [[William Batchelder Greene|Greene]]
+* [[Thomas Hodgskin|Hodgskin]]
+* [[Peter Kropotkin|Kropotkin]]
+* [[Étienne de La Boétie|La Boétie]]
+* [[Gustav Landauer|Landauer]]
+* [[Roderick T. Long|Long]]
+* [[Nestor Makhno|Makhno]]
+* [[Errico Malatesta|Malatesta]]
+* [[Francesc Pi i Margall|Margall]]
+* [[Louise Michel|Michel]]
+* [[Johann Most|Most]]
+* [[Marco Pannella|Pannella]]
+* [[Isabel Paterson|Paterson]]
+* [[Ron Paul|Paul]]
+* [[Pierre-Joseph Proudhon|Proudhon]]
+* [[Rudolf Rocker|Rocker]]
+* [[Lysander Spooner|Spooner]]
+* [[Max Stirner|Stirner]]
+* [[Henry David Thoreau|Thoreau]]
+* [[Leo Tolstoy|Tolstoy]]
+* [[Benjamin Tucker|Tucker]]
+* [[Voline]]
+* [[Josiah Warren|Warren]]
+&lt;!---------------------- Related --------------------------&gt;
+|list4name = related
+|list4title = Related topics
+|list4 =
+* [[Criticism of libertarianism|Criticism]]
+* [[Left-libertarianism]]
+* [[Philosophical anarchism]]
+* [[Right-libertarianism]]
+|belowclass = plainlist
+|below =
+* {{portal-inline|Libertarianism|size=tiny}}
+* {{portal-inline|Anarchism|size=tiny}}
+}}&lt;noinclude&gt;
+{{Documentation
+|content =
+{{caution|{{tl|Libertarianism}} exists as an alternate version of this template. Any content changes made here should be made there as well.}}
+{{collapsible lists option|listnames="origins", "concepts", "schools", "topics" or "related"|example=origins}}
+}}
+&lt;!-- End documentation. --&gt;
+&lt;!-- Categories. --&gt;
+[[Category:Anarchism templates]]
+[[Category:Libertarianism templates| ]]
+[[Category:Sidebar templates by topic]]
+&lt;/noinclude&gt;
+</textarea>

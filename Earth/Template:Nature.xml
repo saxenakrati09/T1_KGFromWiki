@@ -1,0 +1,91 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox
+| name = Nature
+| state = {{{state&lt;includeonly&gt;|{{{1|autocollapse}}}&lt;/includeonly&gt;}}}
+| bodyclass = hlist
+| title = Elements of [[nature]]
+
+| group1 = [[Universe]]
+| list1 =
+* [[Space]]
+* [[Time]]
+* [[Energy]]
+* [[Matter]]
+**[[Particle|particles]]
+**[[Chemical element|chemical elements]]
+* [[Mathematics#Change|Change]]
+
+| group2 = [[Earth]]
+| list2 =
+* [[Earth science]]
+* [[History of Earth|History]]&amp;nbsp;([[Geological history of Earth|geological]])
+* [[Structure of the Earth|Structure]]
+* [[Geology]]
+* [[Plate tectonics]]
+* [[Ocean]]s
+* [[Gaia hypothesis]]
+* [[Future of Earth|Future]]
+
+| group3 = [[Weather]]
+| list3 =
+* [[Meteorology]]
+&lt;!--(Alphabetical:)--&gt;
+* [[Atmosphere of Earth|Atmosphere {{smaller|(Earth)}}]]
+* [[Climate]]
+* [[Cloud]]s
+* [[Rain]]
+* [[Snow]]
+* [[Sunlight]]
+* [[Tide]]s
+* [[Wind]]
+**[[tornado]]
+**[[tropical cyclone]]
+
+| group4 = [[Natural environment]]
+| list4 =
+* [[Ecology]]
+* [[Ecosystem]]
+* [[Field (physics)|Field]]
+* [[Radiation]]
+* [[Wilderness]]
+* [[Wildfire]]s
+
+| group5 = [[Life]]
+| list5 =
+ {{Navbox |child
+  |groupstyle=text-align:center;
+  | list1 =
+* [[Abiogenesis|Origin {{smaller|(abiogenesis)}}]]
+* [[Evolutionary history of life|Evolutionary history]]
+* [[Biosphere]]
+* [[Biological organisation|Hierarchy]]
+* [[Biology]]&amp;nbsp;([[Astrobiology|astrobiology]])
+
+  | list2 =
+* [[Biodiversity]] 
+* [[Organism]]
+* [[Eukaryote|Eukaryota]]
+&lt;!--Lowercase (sublists):--&gt;
+** [[flora]]
+*** [[plant]]s 
+** [[fauna]]
+*** [[animal]]s
+** [[Fungus|fungi]]
+** [[protist]]a
+* [[Prokaryote]]s
+** [[archaea]]
+** [[bacteria]]
+* ''[[Virus]]es''&lt;!--(italics as not universally considered to be alive)--&gt;
+ }}
+
+| below =
+* {{icon|Category}} [[:Category:Nature|Category]]
+
+}}&lt;noinclude&gt;
+{{Documentation
+ | content =
+{{Collapsible option |statename=optional}}
+[[Category:Science and nature templates]]
+[[Category:Environment navigational boxes]]
+}}&lt;!--(end Documentation)--&gt;
+&lt;/noinclude&gt;
+</textarea>

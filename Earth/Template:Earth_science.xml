@@ -1,0 +1,29 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox
+| name      = Earth science
+| title     = [[Earth science]]
+| bodyclass = hlist
+
+| list1 = 
+* [[Atmospheric science]]
+* [[Environmental science]]
+* [[Geodesy]]
+* [[Geology]]
+* [[Geophysics]]
+* [[Glaciology]]
+* [[Hydrology]]
+* [[Meteorology]]
+* [[Oceanography]]
+* [[Physical geography]]
+* [[Soil science]]
+* [[Volcanology]]
+
+| below      = 
+* {{icon|category}}'''[[:Category:Earth sciences|Category]]'''
+* {{icon|portal}}'''[[Portal:Earth sciences|Portal]]'''
+* {{icon|commons}}'''[[commons:Category:Earth sciences|Commons]]'''
+}}&lt;noinclude&gt;
+
+[[Category:Science and nature templates|Earth science]]
+
+&lt;/noinclude&gt;
+</textarea>

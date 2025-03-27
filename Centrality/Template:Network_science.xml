@@ -1,0 +1,139 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Sidebar
+| name = Network science
+| titleclass = navbox-title
+| titlestyle = font-size:175%;
+| title = [[Network science]]
+| image = {{CSS image crop |Image=Internet_map_1024.jpg |bSize=180 |cWidth=180 |cHeight=70 |oTop=50 |oLeft=0 |Location=center}}
+| headingclass = navbox-abovebelow
+| contentclass = hlist
+| contentstyle = padding-top:0.2em;padding-bottom:0.5em;&lt;!--(otherwise too close to headings)--&gt;
+
+| heading1 = {{hlist|[[Network theory|Theory]]|&lt;!--[[History of network science|History]]--&gt;}}
+| content1 =
+* [[Graph (discrete mathematics)|Graph]]
+* [[Complex network]]
+* [[Complex contagion|Contagion]]
+* [[Small-world network|Small-world]]
+* [[Scale-free network|Scale-free]]
+* [[Community structure]]
+* [[Percolation theory|Percolation]]
+* [[Evolving networks|Evolution]]
+* [[Network controllability|Controllability]]
+* [[Graph drawing]]
+* [[Social capital]]
+* [[Link analysis]]
+* [[Combinatorial optimization|Optimization]]
+* [[Reciprocity (network science)|Reciprocity]]
+* [[Triadic closure|Closure]]
+* [[Homophily]]
+* [[Transitive relation|Transitivity]]
+* [[Preferential attachment]]
+* [[Balance theory]]
+* [[Network effect]]
+* [[Social influence]]
+
+| heading2 = Network types
+| content2 =
+* [[Computer network|Informational (computing)]]
+* [[Telecommunications network|Telecommunication]]
+* [[Transport network|Transport]]
+* [[Social network|Social]]
+* [[Scientific collaboration network|Scientific collaboration]]
+* [[Biological network|Biological]]
+* [[Artificial neural network|Artificial neural]]
+* [[Interdependent networks|Interdependent]]
+* [[Semantic network|Semantic]]
+* [[Spatial network|Spatial]]
+* [[Dependency network|Dependency]]
+* [[Flow network|Flow]]
+* [[Network on a chip|on-Chip]]
+
+| heading3 = [[Graph (discrete mathematics)|Graph]]s
+| content3 =
+ {{Sidebar |bodystyle={{subsidebar bodystyle}} |navbar=off
+  |headingstyle=font-weight:normal;font-style:italic;&lt;!--(for distinction from main headings)--&gt;
+  | heading1 = Features
+  | content1 =
+* [[Clique (graph theory)|Clique]]
+* [[Connected component (graph theory)|Component]]
+* [[Cut (graph theory)|Cut]]
+* [[Cycle (graph theory)|Cycle]]
+* [[Graph (abstract data type)|Data structure]]
+* [[Edge (graph theory)|Edge]]
+* [[Loop (graph theory)|Loop]]
+* [[Neighbourhood (graph theory)|Neighborhood]]
+* [[Path (graph theory)|Path]]
+* [[Vertex (graph theory)|Vertex]]
+* {{nowrap|[[Adjacency list]]{{\}}[[Adjacency matrix|matrix]]}}
+* {{nowrap|[[Incidence list]]{{\}}[[Incidence matrix|matrix]]}}
+  | heading2 = Types
+  | content2 =
+* [[Bipartite graph|Bipartite]]
+* [[Complete graph|Complete]]
+* [[Directed graph|Directed]]
+* [[Hypergraph|Hyper]]
+* [[Multigraph|Multi]]
+* [[Random graph|Random]]
+* [[Weighted network|Weighted]]
+ }}
+
+| heading4 = {{hlist|[[Metrics (networking)|Metrics]]|[[List of algorithms#Networking|Algorithms]]}}
+| content4 =
+* [[Centrality]]
+* [[Degree (graph theory)|Degree]]
+* [[Network motif|Motif]]
+* [[Clustering coefficient|Clustering]]
+* [[Degree distribution]]
+* [[Assortativity]]
+* [[Distance (graph theory)|Distance]]
+* [[Modularity (networks)|Modularity]]
+* [[Efficiency (network science)|Efficiency]]
+
+| heading5 = Models
+| content5 =
+ {{Sidebar |bodystyle={{subsidebar bodystyle}} |navbar=off
+  |headingstyle=font-weight:normal;font-style:italic;&lt;!--(for distinction from main headings)--&gt;
+  | heading1 = Topology
+  | content1 =
+* [[Random graph]]
+* [[Erdős–Rényi model|Erdős–Rényi]]
+* [[Barabási–Albert model|Barabási–Albert]]
+* [[Fitness_model_(network_theory)|Fitness model]]
+* [[Watts and Strogatz model|Watts–Strogatz]]
+* [[Exponential random graph models|Exponential random (ERGM)]]
+* [[Random_geometric_graph|Random geometric (RGG)]]
+* [[Hyperbolic_geometric_graph|Hyperbolic (HGN)]]
+* [[Hierarchical network model|Hierarchical]]
+* [[Stochastic block model|Stochastic block]]
+* [[Maximum-entropy random graph model|Maximum entropy]]
+* [[Soft configuration model|Soft configuration]]
+* [[Lancichinetti–Fortunato–Radicchi benchmark|LFR Benchmark]]
+  | heading2 = Dynamics
+  | content2 =
+* [[Boolean network]]
+* [[Agent-based_model|agent based]]
+* [[Epidemic model|Epidemic]]/[[SIR_model|SIR]]
+}}
+
+| heading6 = {{hlist|Lists|Categories}}
+| content6 =
+* [[List of network theory topics|Topics]]
+* [[Social network analysis software|Software]]
+* [[List of network scientists|Network scientists]]
+
+&lt;!--(eponymous category:)--&gt;
+* {{cl|Network theory}}
+&lt;!--(other categories:)--&gt;
+* {{cl|Graph theory}}
+
+}}&lt;noinclude&gt;
+
+&lt;!--Template categories:--&gt;
+[[Category:Computing templates]]
+[[Category:Society and social science navigational boxes]]
+&lt;!--Topic categories:--&gt;
+[[Category:Networks|τ]]
+[[Category:Network analysis|τ]]
+[[Category:Network theory|τ]]
+&lt;/noinclude&gt;
+</textarea>

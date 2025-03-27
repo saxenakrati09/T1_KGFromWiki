@@ -1,0 +1,53 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox
+| name           = Regions of New York navbox
+| title          = [[List of regions of the United_States#New York|Regions of New York]]
+| image          = [[File:Map_of_New_York_Economic_Regions.svg|100px]]
+| bodyclass      = hlist
+
+| group1     = [[Downstate New York|Downstate]]
+| list1          = 
+* [[New York City]]
+* [[Long Island]]
+* [[Hudson Valley]] (lower)
+
+| group2     = [[Upstate New York|Upstate]]
+| list2          = 
+* [[Hudson Valley]] (upper)
+* [[Capital District, New York|Capital District]]
+* [[North Country (New York)|North Country]]
+* [[Southern Tier]]
+* [[Mohawk Valley]]
+* [[Central New York]]
+* [[Finger Lakes]]
+* [[Western New York]]
+
+| group3     = [[Administrative divisions of New York|Administrative divisions]]
+| list3          = 
+* [[List of counties in New York|Counties]]
+* [[List of cities in New York|Cities]]
+* [[List of towns in New York|Towns]]
+* [[List of American Indian Reservations in New York|Indian reservations]]
+* [[List of villages in New York|Villages]]
+* [[List of census-designated places in New York|Census-designated places]]
+* [[List of places in New York|Places (including hamlets)]]
+
+| group4     = Timelines of town creation
+| list4          = 
+* [[Timeline of town creation in Downstate New York|Downstate New York]]
+* [[Timeline of town creation in the Hudson Valley|Hudson Valley]]
+* [[Timeline of town creation in New York's Capital District|Capital District]]
+* [[Timeline of town creation in New York's North Country|North Country]]
+* [[Timeline of town creation in Central New York|Central New York]]
+* [[Timeline of town creation in New York's Southern Tier|Southern Tier]]
+* [[Timeline of town creation in Western New York|Western New York]]
+| belowstyle = font-weight:bold;
+| below = {{icon|Category}} [[:Category:Regions of New York (state)|Category]]
+}}&lt;noinclude&gt;{{doc|content=
+
+For use when the (vertical) [[Template:Regions of New York]] is inappropriate.
+
+[[Category:New York (state) subdivision navigational boxes]]
+[[Category:Regions of New York (state)]]
+[[Category:Geography of New York (state)|τ]]
+}}&lt;/noinclude&gt;
+</textarea>

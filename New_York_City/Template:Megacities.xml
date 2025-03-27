@@ -1,0 +1,69 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox
+| name  = Megacities
+| title = [[Megacity|Megacities]] 
+| listclass = hlist
+| groupstyle = padding:0.35em 1.0em; line-height:1.1em; &lt;!--reduces gap between wrapped groupname lines--&gt;
+| state = {{{state|autocollapse}}}
+
+| group1 = [[Africa]] (3)
+| list1  = 
+* [[Cairo]]
+* [[Kinshasa]]
+* [[Lagos]]
+
+| group2 = [[Asia]] (27)
+| list2  = 
+* [[Bangalore]]
+* [[Bangkok]]
+* [[Beijing]]
+* [[Chengdu]]
+* [[Chennai]]
+* [[Chongqing]]
+* [[Delhi]]
+* [[Dhaka]]
+* [[Guangzhou]]
+* [[Hangzhou]]
+* [[Ho Chi Minh City]]
+* [[Istanbul]]
+* [[Jakarta]]
+* [[Karachi]]
+* [[Kolkata]]
+* [[Kyoto-Osaka-Kobe]] ([[Keihanshin]])
+* [[Lahore]]
+* [[Manila]]
+* [[Mumbai]]
+* [[Nagoya]]
+* [[Seoul]]
+* [[Shanghai]]
+* [[Shenzhen]]
+* [[Tehran]]
+* [[Tianjin]]
+* [[Tokyo]]
+* [[Xiamen]]
+
+| group3 = [[Europe]] (5)
+| list3  = 
+* [[Istanbul]]
+* [[London]]
+* [[Moscow]]
+* [[Paris]]
+* [[Rhine-Ruhr]]
+
+| group4 = [[North America]] (3)
+| list4  = 
+* [[Los Angeles]]
+* [[Mexico City]]
+* [[New York City|New York]]
+
+| group5 = [[South America]] (5)
+| list5  = 
+* [[Bogota]]
+* [[Buenos Aires]]
+* [[Lima]]
+* [[Rio de Janeiro]]
+* [[Sao Paulo]]
+
+}}&lt;noinclude&gt;
+[[Category:City templates|*]]
+&lt;/noinclude&gt;
+</textarea>

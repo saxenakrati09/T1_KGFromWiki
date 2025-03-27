@@ -1,0 +1,297 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">&lt;!-- REMINDER!!! REMINDER!!! REMINDER!!!
+REMINDER!!!
+REMINDER!!!
+REMINDER!!! 
+--- If you add a page to this navbox, please add this navbox to that page! Thank you. ---
+REMINDER!!!
+REMINDER!!!
+REMINDER!!! REMINDER!!! REMINDER!!! 
+--&gt;{{Navbox
+|name    = Trucking industry in the United States
+|state   = {{{state|autocollapse}}}
+|title   = [[Trucking industry in the United States]]
+|bodyclass = hlist
+|above   = Regulated by the [[Federal Motor Carrier Safety Administration]]&lt;br /&gt;[[Economy of the United States]]
+
+|group1  = Regulations
+|list1   =
+* [[Commercial driver's license]]
+* [[Hours of service]]
+* [[Federal Bridge Gross Weight Formula]]
+* [[Electronic on-board recorder]]
+* [[Motor carrier safety rating]]
+* [[Motor Carrier Act of 1980]]
+* [[International Registration Plan]]
+* [[National Network]]
+
+|group2  = Manufacturers
+|list2   = {{Navbox|child|evenodd=swap
+|group1=Truck manufacturers
+|list1=
+* [[AM General]]
+* ''[[American LaFrance]]''
+* [[Autocar Company|Autocar]]
+* ''[[Bering Truck|Bering]]''
+* [[Bremach]]
+* ''[[Brockway Motor Company|Brockway]]''
+* [[Caterpillar Inc.|Caterpillar]]
+* ''[[Chase Motor Truck Company|Chase]]''
+* [[Chevrolet]]
+* [[Crane Carrier Company|CCC]]
+* [[CNH Industrial]]
+* ''[[Diamond T]] / [[REO Motor Car Company|REO]] / [[Diamond Reo Trucks|Diamond Reo]]''
+* [[DINA S.A.|Dina]]
+* [[F650 Pickups]]
+* [[Freightliner Trucks|Freightliner]]
+* [[Ford Motor Company|Ford]]
+* ''[[GMC (automobile)|GMC]]''
+* ''[[Hayes Manufacturing Company|Hayes]]''
+* [[Hino Motors|Hino]]
+* [[Isuzu]]
+* ''[[Marmon-Herrington]]''
+* [[Mercedes-Benz]]
+* ''[[Moreland Motor Truck Company|Moreland]]''
+* [[Navistar International|International]]
+* [[Kenworth]]
+* [[Mack Trucks|Mack]]
+* [[Mitsubishi Fuso Truck of America, Inc.|Mitsubishi Fuso]]
+* [[Nissan]]
+* [[Oshkosh Corporation|Oshkosh]]
+* [[Peterbilt]]
+* [[Ram Trucks]]
+* ''[[Selden Motor Vehicle Company|Selden]]''
+* ''[[Schacht (automobile)|Schacht]]''
+* [[Smith Electric Vehicles|Smith]]
+* [[Spartan Motors|Spartan]]
+* ''[[Sterling Trucks|Sterling]]''
+* [[Tesla, Inc.|Tesla]]
+* [[Tiger Truck]]
+* [[Toyota]]
+* ''[[Traffic Motor Truck Corporation|Traffic]]''
+* [[UD Trucks]]
+* [[VIA Motors|VIA]]
+* [[Volvo Trucks|Volvo]]
+* ''[[Ward LaFrance Truck Corporation|Ward LaFrance]]''
+* [[Western Star Trucks|Western Star]]
+* ''[[White Motor Company|White]]''
+* [[Workhorse Group]]
+
+|group2=Engine manufacturers
+|list2=
+* [[Caterpillar Inc.|Caterpillar]]
+* [[Cummins]]
+* [[Detroit Diesel]]
+* [[Mack Trucks|Mack]]
+* [[Navistar International|MaxxForce]]
+* [[Mercedes-Benz]]
+* [[Paccar]]
+* [[Volvo Trucks|Volvo]]
+
+|group3=Trailer manufacturers
+|list3=
+* [[Marmon Group|Fontaine]]
+* ''[[Fruehauf Trailer Corporation]]''
+* [[Great Dane Trailers|Great Dane]]
+* [[Hyundai Motor Company|Hyundai Translead]]
+* ''[[Lufkin Industries|Lufkin Trailers]]''
+* [[Utility Trailer Manufacturing Company]]
+* [[China International Marine Containers|Vanguard]]
+* [[Wabash National]]
+* [[Wilson Trailer Company|Wilson]]
+}}
+
+|group3  = Motor carriers
+&lt;!-- PLEASE KEEP THIS LIST SMALL. DO NOT ADD CARRIERS UNLESS THEY ARE LARGE AND/OR NOTABLE. THANK YOU. --&gt;
+|list3   = {{Navbox|child
+|group1= [[Truckload shipping|Truckload]] carriers
+|list1=
+* [[Averitt Express]] 
+* [[Celadon Group|Celadon]] 
+* [[Covenant Transport|Covenant]]
+* [[CRST]]
+* [[FFE Transportation]]
+* [[J. B. Hunt]]
+* [[Knight-Swift]]
+* [[Landstar System]]
+* [[PAM Transport]]
+* [[Patriot Transportation]]
+* [[Roehl Transport]]
+* [[Schneider National|Schneider]]
+* [[Swift Transportation|Swift]]
+* [[Werner Enterprises|Werner]] 
+* [[WTI Transport]]
+
+|group2=[[Less than truckload shipping|Less than truckload (LTL)]]
+|list2=
+* [[ABF Freight System|ABF]]
+* [[Averitt Express]]  
+* [[Con-way Freight]]
+* [[Estes Express Lines]]
+* [[FedEx|FedEx Freight]]
+* [[New England Motor Freight]]
+* [[Old Dominion Freight Line]]
+* [[Pitt Ohio Express]]
+* [[R+L Carriers]]
+* [[Saia]]
+* [[Southeastern Freight Lines|Southeastern]]
+* [[Trailer Bridge]]
+* [[UPS Freight]]
+* [[XPO Logistics]]
+* [[YRC Worldwide|YRCW]]
+
+|group3=[[Third-party logistics|Third-party logistics providers]]
+|list3=
+* [[Access America Transport]]
+* [[American Lamprecht Transport]]
+* [[C. H. Robinson Worldwide]]
+* [[CaseStack]]
+* [[Freightquote]]
+* [[Ryder]]
+* [[Total Quality Logistics]]
+* [[Trailer Bridge]]
+* [[XPO Logistics]]
+
+|group4=[[Package delivery|National parcel]] carriers
+|list4=
+* [[DHL Express]]
+* [[FedEx]]
+* [[Greyhound Lines#Greyhound Package Express|Greyhound]]
+* [[United Parcel Service|UPS]]
+* [[United States Postal Service]]
+
+|group5=Regional parcel carriers
+|list5=
+* [[General Logistics Systems|General Logistic Systems]]
+* [[LaserShip]]
+* [[OnTrac]]
+
+|group6=[[Moving company|Moving companies]]
+|list6=
+* [[Allied Van Lines|Allied]]
+* [[Atlas Van Lines|Atlas]]
+* [[Bekins Van Lines, Inc.|Bekins]]
+* [[Gentle Giant Moving Company]]
+* [[Global Van Lines|Global]]
+*[[Interstate Van Lines|Interstate]]
+* [[Mayflower Transit|Mayflower]]
+* [[National Van Lines, Inc.|National]]
+* [[North American Van Lines|North American]]
+* [[PODS (company)|PODS]]
+* [[Two Men and a Truck]]
+* [[United Van Lines|United]]
+* [[Wheaton World Wide Moving|Wheaton]]
+}}
+
+&lt;!-- PLEASE KEEP THIS LIST SMALL, DO NOT ADD COMPANIES UNLESS THEY ARE LARGE AND/OR NOTABLE, THANK YOU. --&gt;
+|group5  = [[Truck stop]]s
+|list5   =
+* [[Bowlin Travel Centers]]
+* [[Dixie Travel Plaza]]
+* [[Iowa 80]]
+* [[Love's Travel Stops &amp; Country Stores|Love's]]
+* [[Pilot Flying J]]
+* [[Road Ranger]]
+* [[Roady's Truck Stops|Roady's]]
+* [[TravelCenters of America|T/A &amp; Petro]]
+* [[Town Pump]]
+
+|group6  = People
+|list6   =
+* [[Attack on Reginald Denny|Reginald Denny]]
+* [[Jimmy Hoffa]]
+* [[Frederick W. Smith|Fred Smith]]
+* [[Johnnie Bryan Hunt|John B. Hunt]]
+* [[Kelly Reno]]
+* [[Iyman Faris]]
+* [[Keith Hunter Jesperson|Keith Jesperson]]
+
+|group7  = Organizations
+|list7   =
+* [[International Brotherhood of Teamsters]]
+* [[Owner–Operator Independent Drivers Association]]
+* [[DAT Solutions|DAT Solutions (Dial-A-Truck)]]
+* [[American Trucking Associations]]
+* [[National Motor Freight Traffic Association]]
+* [[National Motor Freight Classification]]
+* [[National Private Truck Council]]
+* [[FJ Management]]
+* [[SmartWay Transport Partnership]]
+* [[American Moving &amp; Storage Association]]
+
+|group8  = Glossary
+|list8   =
+* [[Glossary of the American trucking industry]]
+
+|group9  = [[Trucking industry in popular culture (United States)|Popular culture]]
+|list9   = {{Navbox|child
+|group1= Film
+|list1=
+* ''[[Black Dog (film)|Black Dog]]''
+* ''[[Breakdown (1997 film)|Breakdown]]''
+* ''[[Breaker! Breaker!]]''
+* ''[[Convoy (1978 film)|Convoy]]''
+* ''[[Duel (1971 film)|Duel]]''
+* ''[[F.I.S.T.]]''
+* ''[[The Gang's All Here (1941 film)|The Gang's All Here]]''
+* ''[[The Great Smokey Roadblock]]''
+* ''[[Joy Ride (2001 film)|Joy Ride]]''
+* ''[[Maximum Overdrive]]''
+* ''[[Over the Top (1987 film)|Over The Top]]''
+* ''[[Smokey and the Bandit]]'' (series)
+* ''[[They Drive by Night]]''
+* ''[[White Line Fever (film)|White Line Fever]]''
+* ''[[Trucker (film)|Trucker]]''
+|group2=Television
+|list2=
+* ''[[B. J. and the Bear]]''
+* ''[[Ice Road Truckers]]''
+* ''[[Movin' On (TV series)|Movin' On]]''
+* ''[[Trick My Truck]]''
+* ''[[American Loggers]]''
+* ''[[American Trucker]]''
+|group3=Music
+|list3=
+* "[[Convoy (song)|Convoy]]" 
+* "[[Papa Loved Mama]]" 
+* "[[Six Days on the Road]]" 
+* "[[Teddy Bear (Red Sovine song)|Teddy Bear]]" 
+* "[[Phantom 309]]" 
+* "[[Giddyup Go]]" 
+* "[[The White Knight (Cledus Maggard song)|The White Knight]]" 
+* "[[East Bound and Down]]" 
+* "[[Roll On (Eighteen Wheeler)]]" 
+* "[[Drivin' My Life Away]]" 
+* "[[Eighteen Wheels and a Dozen Roses]]" 
+* "[[Girl on the Billboard]]"
+* "[[A Tombstone Every Mile]]"
+* "[[Roll On Big Mama]]"
+* "[[Movin' On (Merle Haggard song)|Movin' On]]"
+* "[[Big Wheels in the Moonlight]]"
+* "[[Bonnie Jean (Little Sister)]]"
+|group4=Radio
+|list4=
+* [[Road Dog Trucking]] ([[Dave Nemo]])
+* [[Red Eye Radio|Red Eye]] ([[Bill Mack (songwriter)|Bill Mack]])
+* [[Dale Sommers]]
+|group5=Video games
+|list5=
+* ''[[18 Wheels of Steel]]''
+* ''[[American Truck Simulator]]''
+*''[[Rig 'n' Roll]]''
+|group6=Other
+|list6=
+* [[The Rolling Memorial]]
+* [[Citizens band radio]]
+}}
+
+|below=
+* {{resize|97%|Note: Defunct companies are shown in ''italics''}}
+
+}}&lt;noinclude&gt;
+{{collapsible option}}
+
+[[Category:Trucks templates]]
+[[Category:United States transport templates]]
+[[Category:Trucks by country|*]]
+&lt;/noinclude&gt;
+</textarea>

@@ -1,0 +1,115 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox
+| name      = Daimler AG
+| state     = {{{state&lt;includeonly&gt;|collapsed&lt;/includeonly&gt;}}}
+| image     = &lt;!-- [[File:Daimler AG.svg|140px]] --&gt;
+| title     = [[Daimler AG]] 
+| bodyclass = hlist
+
+| group1 = Divisions and&lt;br /&gt;subsidiaries
+|  list1 =
+  {{navbox|subgroup
+| group1 = Cars
+| list1  = 
+; Current
+: [[Mercedes-Benz]]
+: [[Mercedes-AMG]]
+: [[Maybach|Mercedes-Maybach]]
+: [[Smart (marque)|Smart]]
+
+| group2 = Trucks and vans
+| list2  = 
+; Current
+: [[BharatBenz]] 
+: [[Freightliner Trucks|Freightliner]]
+: [[Fuso (company)|Fuso]] {{small|(85%)}}
+: [[Manufacturing Commercial Vehicles]]
+: [[Master Motors]] {{small|(80%)}}
+: [[Mercedes-Benz]]
+: [[Western Star Trucks|Western Star]]
+; Defunct
+: [[American LaFrance]]
+: [[Sterling Trucks]]
+
+| group3 = Buses
+| list3  = 
+; Current
+: [[BharatBenz]] 
+: [[DaimlerChrysler Commercial Buses North Carolina|Daimler Commercial Buses North Carolina]]
+: [[Freightliner Trucks|Freightliner]]
+: [[Fuso (company)|Fuso]] {{small|(85%)}}
+: [[Manufacturing Commercial Vehicles]]
+: [[Master Motors]]
+: [[Mercedes-Benz buses|Mercedes Benz]]
+: [[Setra]]/[[EvoBus]]
+: [[Thomas Built Buses|Thomas]]
+; Defunct
+: [[Orion International|Orion]]
+
+| group4 = [[Mercedes-Benz in motorsport|Motorsport]]
+| list4  = 
+* [[Mercedes-Benz in Formula One|Mercedes AMG Petronas Motorsport]]
+* [[Mercedes AMG High Performance Powertrains]]
+
+| group5 = Other
+| list5  = 
+* [[Alliance Truck Parts]]
+* [[car2Go]]
+* [[Daimler Financial Services]]
+** [[Mercedes-Benz Bank]]
+* [[Detroit Diesel]]
+* [[Mercedes-Benz India]]
+* [[Mercedes-Benz Mexico]]
+* [[Mercedes-Benz USA]]
+}}
+
+| group2 = [[Shareholder|Shareholdings]]&lt;br&gt;and joint ventures
+| list2  = 
+* [[Fuso (company)|Fuso]] {{small|(85%)}}
+* [[Automotive Fuel Cell Cooperation]] {{small|(50.1%)}}
+* [[Beijing Benz]] {{small|(50%)}}
+* [[Denza]] {{small|(50%)}}
+* [[Tognum]] AG {{small|(50%)}}
+* [[Fujian Benz]] {{small|(50%)}}
+* [[Here (company)|Here]] {{small|(33%)}}
+* [[Airbus]] {{small|(22.41%)}}
+* [[Kamaz]] {{small|(10%)}}
+* [[MV Agusta]] {{small|(25%)}}
+* [[Tesla, Inc.]] {{small|(10%)}}
+* [[Tata Motors]] {{small|(7%)}}
+* [[Aston Martin]] {{small|(5%)}}
+* [[Renault]] {{small|(3.1%)}}
+
+| group3 = Predecessors
+| list3  = 
+* [[Karl Benz#Benz &amp; Cie. and the Motorwagen|Benz &amp; Company]] {{small|(1883&amp;ndash;1926)}}
+* [[Daimler-Motoren-Gesellschaft|Daimler-Motoren-Gesellschaft AG]] {{small|(1890&amp;ndash;1926)}}
+
+| group4 = Technologies
+| list4  = 
+* [[Active Cylinder Control]]
+* [[BlueTec]]
+
+| group5 = People
+| list5  = 
+* [[Wolfgang Bernhard]]
+* [[Karl-Gottfried Nordmann|Karlfried Nordmann]]
+* [[Andreas Renschler]]
+* [[Hans Scherenberg]]
+* [[Jürgen E. Schrempp]]
+* [[Karl Wilfert]]
+* [[Joachim Zahn]]
+* [[Dieter Zetsche]]
+
+| group6 = Other
+| list6  =
+* [[DaimlerChrysler–Mitsubishi alliance]]
+* [[BeiBen Truck]]
+| below = 
+* {{icon|category}} '''[[:Category:Daimler AG|Category]]'''
+* {{icon|commons}} '''[[commons:Category:Daimler AG|Commons]]'''
+}}&lt;noinclude&gt;
+{{collapsible option}}
+[[Category:Daimler AG templates]]
+[[Category:Germany company templates]]
+&lt;/noinclude&gt;
+</textarea>

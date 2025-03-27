@@ -1,0 +1,297 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox
+|     name  = Regions of North America
+|     title = [[Subregion#North America|Regions]] of [[North America]]
+|     state = {{{state|autocollapse}}}
+| listclass = hlist
+
+  | group1 = [[Northern America|Upper Northern]]&lt;br /&gt;{{small|(i.e. [[Canada]])}}
+  |  list1 = 
+
+  {{navbox|subgroup
+     | group1 = [[Eastern Canada|Eastern]]
+     |  list1 = 
+* [[Central Canada]]
+* [[Atlantic Canada]]
+** [[The Maritimes]]
+* [[Great Lakes region|Great Lakes]]
+
+     | group2 = [[Northern Canada|Northern]]
+     |  list2 = 
+* [[Arctic]]
+** [[Arctic Circle]]
+** [[Arctic Archipelago|Canadian Arctic Archipelago]]
+* [[Greenland]]
+
+     | group3 = [[Western Canada|Western]]
+     |  list3 = 
+* [[Pacific Northwest]]
+* [[Prairie Pothole Region]]
+
+     | group4 = 
+     |  list4 = 
+* [[Canadian Prairies]]
+* [[The Maritimes]]
+* [[French Canadians|French Canada]]
+* [[English Canada]]
+* [[Acadia]]
+** [[Acadian Peninsula]]
+* [[Quebec City–Windsor Corridor]]
+* [[Peace River Country]]
+* [[Cypress Hills (Canada)|Cypress Hills]]
+* [[Palliser's Triangle]]
+* [[Canadian Shield]]
+* [[Interior Alaska–Yukon lowland taiga]]
+* [[Kodiak Island]]
+* [[Newfoundland (island)|Newfoundland Island]]
+* [[Vancouver Island]]
+* [[Gulf Islands]]
+* [[Strait of Georgia]]
+* [[Labrador Peninsula]]
+* [[Gaspé Peninsula]]
+* [[Avalon Peninsula]]
+** [[Bay de Verde Peninsula]]
+* [[Brodeur Peninsula]]
+* [[Melville Peninsula]]
+* [[Bruce Peninsula]]
+* [[Banks Peninsula (Nunavut)]]
+* [[Cook Peninsula]]
+* [[Gulf of Boothia]]
+* [[Georgian Bay]]
+* [[Hudson Bay]]
+* [[James Bay]]
+}}
+
+  | group2 = [[Northern America|Lower Northern]]&lt;br /&gt;{{small|(i.e. [[United States]])}}
+  |  list2 = 
+
+  {{navbox|subgroup
+     | group1 = [[Alaska|Arctic]] 
+     |  list1 = 
+* [[Aleutian Arc]]
+** [[Aleutian Range]]
+** [[Alaska Peninsula]]
+** [[Aleutian Islands]]
+* [[Arctic]]
+** [[Arctic Circle]]
+* [[Bering Strait]]
+* [[Gulf of Alaska]]
+
+     | group2 = [[Central United States|Central]]
+     |  list2 = 
+* [[Tallgrass prairie]]
+* [[Midwestern United States|Midwest]]
+** [[Upper Midwest]]
+
+     | group3 = [[Eastern United States|Eastern]]
+     |  list3 = 
+* [[East Coast of the United States|East Coast]]
+* [[Northeastern United States|Northeast]]
+** [[Atlantic Northeast]]
+** [[New England]]
+** [[Mid-Atlantic (United States)|Mid-Atlantic]]
+** [[Commonwealth (U.S. state)|Commonwealth]]
+* [[Southeastern United States|Southeast]]
+
+     | group4 = [[Northern United States|Northern]]
+     |  list4 = 
+* [[Great Lakes region|Great Lakes]]
+
+     | group5 = [[Southern United States|Southern]]
+     |  list5 = 
+* [[Deep South]]
+** [[Old South]]
+* [[Santa Fe de Nuevo México]]
+* [[South Central United States|South Central]]
+** [[Gulf Coast of the United States|Gulf Coast]]
+* [[Upland South]]
+
+     | group6 = [[Western United States|Western]]
+     |  list6 = 
+* [[West Coast of the United States|West Coast]]
+* [[Mountain states]]
+* [[Intermountain West]]
+** [[Great Basin]]
+* [[Basin and Range Province]]
+* [[Northwestern United States|Northwest]]
+** [[Inland Northwest]]
+** [[Pacific Northwest]]
+* [[Southwestern United States|Southwest]]
+** [[Old Southwest]]
+** [[Four Corners]]
+
+     | group7 = 
+     |  list7 = 
+* [[Pacific Coast Ranges]]
+* [[Oregon Trail]]
+* [[Mormon Corridor]]
+* [[Calumet Region]]
+* [[Llano Estacado]]
+* [[Third Coast]]
+* [[Backcountry (historical region)|Backcountry]]
+* [[Trans-Mississippi]]
+* [[Great North Woods]]
+* [[Great Plains]]
+* [[Interior Plains]]
+* [[Great Basin]]
+** [[Great Basin Desert]]
+* [[Acadia]]
+* [[Ozarks]]
+* [[Ark-La-Tex]]
+* [[Waxhaws]]
+* [[Siouxland]]
+* [[Twin Tiers]]
+* [[Driftless Area]]
+* [[Palouse]]
+* [[Piedmont (United States)|Piedmont]]
+* [[Atlantic coastal plain]]
+* [[Outer Lands]]
+* [[Black Dirt Region]]
+* [[Blackstone Valley]]
+* [[Piney Woods]]
+* [[Rocky Mountains]]
+* [[Mojave Desert]]
+* [[The Dakotas]]
+* [[Carolinas]]
+* [[Shawnee Hills]]
+* [[San Fernando Valley]]
+* [[Tornado Alley]]
+* [[North Coast (California)|North Coast]]
+* [[Lost Coast]]
+* [[Emerald Triangle]]
+* [[San Francisco Bay Area]]
+** [[San Francisco Bay]]
+** [[North Bay (San Francisco Bay Area)|North Bay]]
+** [[East Bay]]
+** [[Silicon Valley]]
+* [[Interior Alaska–Yukon lowland taiga]]
+* [[Gulf of Mexico]]
+* [[Lower Colorado River Valley]]
+* [[Sacramento–San Joaquin River Delta]]
+* [[Yukon–Kuskokwim Delta]]
+* [[Colville Delta]]
+* [[Arkansas Delta]]
+* [[Mobile–Tensaw River Delta]]
+* [[Mississippi Delta]]
+* [[Mississippi River Delta]]
+* [[Columbia River Estuary]]
+* [[Great Basin]]
+* [[High Desert (California)|High Desert]]
+* [[Monterey Peninsula]]
+* [[Upper Peninsula of Michigan]]
+* [[Lower Peninsula of Michigan]]
+* [[Virginia Peninsula]]
+* [[Keweenaw Peninsula]]
+* [[Middle Peninsula]]
+* [[Delmarva Peninsula]]
+* [[Alaska Peninsula]]
+* [[Kenai Peninsula]]
+* [[Niagara Peninsula]]
+* [[List of belt regions of the United States|"Belt" regions]]
+** [[Bible Belt]]
+** [[Corn Belt]]
+** [[Cotton Belt]]
+** [[Rice Belt]]
+** [[Rust Belt]]
+** [[Sun Belt]]
+** [[Snowbelt|Snow Belt]]
+}}
+
+  | group3 = [[Mexico]]
+  |  list3 = 
+
+  {{navbox|subgroup
+     | group1 = Central
+     |  list1 = 
+* [[Tierra Caliente (Mexico)|Tierra Caliente]]
+* [[La Mixteca]]
+* [[Huasteca]]
+* [[Sierra Gorda]]
+* [[Bajío]]
+* [[Valley of Mexico]]
+* [[Mezquital Valley]]
+* [[Trans-Mexican Volcanic Belt]]
+** [[Trans-Mexican Volcanic Belt pine–oak forests]]
+* [[Revillagigedo Islands]]
+* [[Islas Marías]]
+
+     | group2 = [[Northern Mexico|Northern]]
+     |  list2 = 
+* [[Basin and Range Province]]
+* [[Baja California Peninsula]]
+* [[Lerdo Landing]]
+* [[Salton Trough]]
+* [[Isla Llave]]
+* [[Comarca Lagunera]]
+* [[Sierra de San Francisco]]
+* [[Gulf of California]]
+** [[Colorado River Delta]]
+* [[Pimería Alta]]
+
+     | group3 = Southern
+     |  list3 = 
+* [[Sierra Madre de Oaxaca]]
+* [[Yucatán Peninsula]]
+* [[Ku-Maloob-Zaap]]
+* [[Puuc]]
+* [[Sierra Madre del Sur]]
+* [[Triangle of the Sun]]
+* [[Isthmus of Tehuantepec]]
+* [[Sierra Madre de Chiapas]]
+* [[Chiapas highlands]]
+* [[Soconusco]]
+* [[Petén Basin]]
+
+     | group4 = 
+     |  list4 = 
+* [[Sierra Madre Oriental]]
+* [[Sierra Madre Occidental]]
+* [[Gulf of Mexico]]
+}}
+
+  | group4 = [[Central America|Central]]
+  |  list4 = 
+* [[Darién Gap]]
+* [[Isthmus of Panama]]
+* [[Lake Nicaragua]]
+* [[Panama Canal]]
+* [[Western Caribbean zone]]
+
+  | group5 = [[West Indies]]
+  |  list5 = 
+* [[Caribbean]]
+** [[Antilles]]
+*** [[Greater Antilles]]
+**** [[Hispaniola]]
+*** [[Lesser Antilles]]
+**** [[Leeward Islands]]
+***** [[Saint Martin (island)|Saint Martin Island]]
+***** [[Virgin Islands]]
+**** [[Southern Caribbean]]
+***** [[Leeward Antilles]]
+****** [[ABC islands (Leeward Antilles)|ABC islands]]
+***** [[Windward Islands]]
+** [[Bajo Nuevo Bank]]
+** [[Archipelago of San Andrés, Providencia and Santa Catalina|San Andrés and Providencia]]
+** [[Serranilla Bank]]
+* [[Lucayan Archipelago]]
+
+  | group6 = 
+  |  list6 = 
+* [[Aridoamerica]]
+* [[Mesoamerica]]
+* [[Oasisamerica]]
+* [[Anglo-America|Anglo]]
+* [[Middle America (Americas)|Middle America]]
+* [[Latin America|Latin]]
+** [[French America|French]]
+** [[Hispanic America|Hispanic]]
+* [[American Cordillera]]
+* [[Ring of Fire]]
+* [[Latin America and the Caribbean|LAC]]
+
+| below = '''{{portal-inline|North America}}'''
+}}&lt;noinclude&gt;
+
+{{Documentation}}
+&lt;/noinclude&gt;
+</textarea>

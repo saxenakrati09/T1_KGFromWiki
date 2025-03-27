@@ -1,0 +1,29 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox
+| name = Earth's location
+| title = [[Location of Earth]]
+| state = {{{state&lt;includeonly&gt;|autocollapse&lt;/includeonly&gt;}}}
+| bodyclass = hlist
+| liststyle = &lt;!--line-height:1.3em;--&gt;
+
+| group1 = Included
+| list1 = {{Earth's location in the Universe}}
+
+| group2 = Related
+| list2 =
+* [[Cosmic View|''Cosmic View'' (1957 book)]]
+* [[To the Moon and Beyond|''To the Moon and Beyond'' (1964 film)]]
+* [[Cosmic Zoom|''Cosmic Zoom'' (1968 film)]]
+* [[Powers of Ten (film)|''Powers of Ten'' (1968 and 1977 films)]]
+* [[Cosmic Voyage|''Cosmic Voyage'' (1996 documentary)]]
+* [[Cosmic Eye|''Cosmic Eye'' (2012)]]
+* [[History of the center of the Universe]]
+* [[Order of magnitude]]
+
+| below =
+* '''{{icon|Portal}} [[Portal:Astronomy|Astronomy portal]]'''
+* '''{{icon|Portal}} [[Portal:Space|Space portal]]'''
+
+}}&lt;noinclude&gt;
+{{documentation}}
+&lt;/noinclude&gt;
+</textarea>

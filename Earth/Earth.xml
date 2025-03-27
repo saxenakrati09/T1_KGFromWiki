@@ -1,0 +1,928 @@
+<textarea accesskey="," class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Short description|Third planet from the Sun in the Solar System}}
+{{About|the planet|its human aspects|World|other uses|Earth (disambiguation)|and|Planet Earth (disambiguation)}}
+{{pp-semi|small=yes}}
+{{Use American English|date=August 2019}}
+{{Use dmy dates|date=January 2020}}
+{{Featured article}}
+
+{{Infobox planet
+&lt;!---------------------------------------------------------------------------------------
+  This infobox has been formatted in the same way as those for other Solar System
+  planets and bodies, so please do not change it without discussion on the talkpage.
+ ----------------------------------------------------------------------------------------&gt;
+| background = #f8f9fa
+| name    = Earth
+| alt_names  = [[Gaia hypothesis|Gaia]], [[Gaia|Gaea]], [[wikt:Terra|Terra]], [[Terra (mythology)|Tellus]], the [[world]], the [[globe]]
+| adjectives = Earthly, terrestrial, terran, tellurian
+| symbol  = [[File:Earth symbol.svg|18px|Astronomical symbol of Earth]]
+| image   = The Earth seen from Apollo 17.jpg
+| image_alt  = ''[[The Blue Marble]]'' photograph of Earth, taken by the [[Apollo 17]] mission. The Arabian peninsula, Africa and Madagascar lie in the upper half of the disc, whereas Antarctica is at the bottom.
+| caption = ''[[The Blue Marble]]'', the most widely used photograph of Earth,&lt;ref name=Petsko&gt;{{cite journal |title=The blue marble |journal=[[Genome Biology]] |last=Petsko |first=Gregory A. |volume=12 |issue=4 |pages=112 |date=April 28, 2011 |doi=10.1186/gb-2011-12-4-112 |pmc=3218853 |pmid=21554751}}&lt;/ref&gt;&lt;ref name="NASAmarble"&gt;{{cite web |url=https://spaceflight.nasa.gov/gallery/images/apollo/apollo17/html/as17-148-22727.html |title=Apollo Imagery – AS17-148-22727 |publisher=NASA |date=November 1, 2012 |access-date=October 22, 2020}}&lt;/ref&gt; taken by the [[Apollo 17]] mission in 1972.
+| epoch      = [[J2000.0|J2000]]&lt;ref group="n" name="epoch" /&gt;
+| aphelion   = {{convert|152,100,000|km|mi|comma=gaps|abbr=on|disp=x| &lt;small&gt;(|)&lt;/small&gt;}}&lt;ref group="n" name="apsis" /&gt;
+| perihelion = {{convert|147,095,000|km|mi|comma=gaps|abbr=on|disp=x| &lt;small&gt;(|)&lt;/small&gt;}}&lt;ref group="n" name="apsis" /&gt;
+| time_periastron = 2021-Jan-02 13:59&lt;ref&gt;{{cite web|url=https://ssd.jpl.nasa.gov/horizons.cgi?find_body=1&amp;body_group=mb&amp;sstr=399|title=Solar System Dynamics|work=NASA|first1=Ryan S.|last1=Park|last2=Chamberlin|first2=Alan B.}}&lt;/ref&gt;
+| semimajor  = {{convert|149,598,023|km|mi|comma=gaps|abbr=on|disp=x| &lt;small&gt;(|)&lt;/small&gt;}}&lt;ref name="VSOP87" /&gt;
+| eccentricity = {{val|0.0167086}}&lt;ref name="VSOP87" /&gt;
+| period       = {{convert|365.256363004|d|ks|comma=gaps|abbr=on|lk=out|disp=x|&lt;ref name="IERS" /&gt;&lt;br /&gt;&lt;small&gt;(|)&lt;/small&gt;}}
+| avg_speed    = {{convert|29.78|km/s|km/h mph|comma=gaps|abbr=on|disp=x|&lt;ref name="earth_fact_sheet" /&gt;&lt;br /&gt;&lt;small&gt;(|)&lt;/small&gt;}}
+| mean_anomaly = {{val|358.617|u=°}}
+| inclination  = {{ublist|class=nowrap |{{val|7.155|u=°}} to the [[Sun]]'s [[equator]]; |{{val|1.57869|u=°}}&lt;ref name="Allen294" /&gt; to [[invariable plane]]; |{{val|0.00005|u=°}} to J2000 [[ecliptic]]}}
+| asc_node   = {{val|-11.26064|u=°}}&lt;ref name="earth_fact_sheet" /&gt; to J2000 ecliptic
+| arg_peri   = {{val|114.20783|u=°}}&lt;ref name="earth_fact_sheet" /&gt;
+| satellites =
+ {{unbulleted list
+ | 1 natural satellite: the [[Moon]]
+ | 5 [[quasi-satellite]]s
+ | &gt;1 800 operational [[artificial satellite]]s&lt;ref name="ucs" /&gt;
+ | &gt;16 000 [[space debris]]&lt;ref group="n" name="space_debris" /&gt;
+ }}
+| allsatellites = yes
+| mean_radius   = {{convert|6371.0|km|mi|comma=gaps|abbr=on|disp=x| &lt;small&gt;(|)&lt;/small&gt;}}&lt;ref name="hbcp2000" /&gt;
+| equatorial_radius = {{convert|6378.1|km|mi|comma=gaps|abbr=on|disp=x| &lt;small&gt;(|)&lt;/small&gt;}}&lt;ref name=usno /&gt;&lt;ref name="WGS-84" /&gt;
+| polar_radius  = {{convert|6356.8|km|mi|comma=gaps|abbr=on|disp=x| &lt;small&gt;(|)&lt;/small&gt;}}&lt;ref name="cazenave_ahrens1995" /&gt;
+| flattening    = {{val|0.0033528}}&lt;ref name="IERS2004" /&gt;&lt;br /&gt;1/{{val|298.257222101}} ([[ETRS89]])
+| circumference =
+ {{unbulleted list |class=nowrap
+ | {{convert|40075.017|km|mi|comma=gaps|abbr=on|disp=x| &lt;small&gt;[[equator]]ial (|)&lt;/small&gt;}}&lt;ref name="WGS-84"&gt;[[World Geodetic System]] (''WGS-84''). [http://earth-info.nga.mil/GandG/wgs84/ Available online] from [[National Geospatial-Intelligence Agency]].&lt;/ref&gt;
+ | {{convert|40007.86|km|mi|comma=gaps|abbr=on|disp=x| &lt;small&gt;[[meridional]] (|)&lt;/small&gt;}}&lt;ref name="WGS-84-2" /&gt;&lt;ref group="n" name="circ"&gt;Earth's [[circumference]] is almost exactly 40,000&amp;nbsp;km because the metre was calibrated on this measurement—more specifically, 1/10-millionth of the distance between the poles and the equator.&lt;/ref&gt;
+ }}
+| surface_area =
+ {{unbulleted list |class=nowrap
+ | {{convert|510072000|km2|mi2|comma=gaps|abbr=on|disp=x| &lt;small&gt;(|)&lt;/small&gt;}}&lt;ref name="Pidwirny 2006_8" /&gt;&lt;ref group="n" name="surfacecover" /&gt;
+ | {{convert|148940000|km2|mi2|comma=gaps|abbr=on|disp=x| land &lt;small&gt;(|)&lt;/small&gt;}}
+ | {{convert|361132000|km2|mi2|comma=gaps|abbr=on|disp=x| water &lt;small&gt;(|)&lt;/small&gt;}}
+ }}
+| volume   = [[Volume of the Earth|{{val|1.08321|e=12|u=km3}}]] &lt;small&gt;({{val|2.59876|e=11|u=cu mi}})&lt;/small&gt;&lt;ref name="earth_fact_sheet" /&gt;
+| mass     = {{val|5.97237|e=24|u=kg}} &lt;small&gt;({{val|1.31668|e=25|u=lb}})&lt;/small&gt;&lt;ref name="Luzum2011" /&gt; &lt;br /&gt; &lt;small&gt;({{val|3.0|e=-6|ul=solar mass}})&lt;/small&gt;
+| density  = {{convert|5.514|g/cm3|lb/cuin|comma=gaps|abbr=on|disp=x| &lt;small&gt;(|)&lt;/small&gt;}}&lt;ref name="earth_fact_sheet" /&gt;
+| surface_grav = {{convert|9.80665|m/s2|ft/s2|comma=gaps|abbr=on|disp=x| &lt;small&gt;([[Gravity of Earth|{{val|1|u=''g''}}]]; |)&lt;/small&gt;}}&lt;ref name="NIST2008" /&gt;
+| moment_of_inertia_factor = 0.3307&lt;ref name="Williams1994" /&gt;
+| escape_velocity = {{convert|11.186|km/s|km/h mph|comma=gaps|abbr=on|disp=x|&lt;ref name="earth_fact_sheet" /&gt; &lt;br /&gt; &lt;small&gt;(|)&lt;/small&gt;}}
+| sidereal_day = {{longitem|{{val|0.99726968|u=d}}&lt;ref name="Allen296" /&gt; &lt;br /&gt; &lt;small&gt;(23h&amp;nbsp;56m&amp;nbsp;4.100s)&lt;/small&gt;}}
+| rot_velocity = {{convert|1674.4|km/h|km/s km/h mph|order=out|comma=gaps|abbr=on|disp=x|&lt;ref name="Cox2000" /&gt; &lt;br /&gt; &lt;small&gt;(|)&lt;/small&gt;}}
+| axial_tilt   = {{val|23.4392811|u=°}}&lt;ref name="IERS" /&gt;
+| albedo       = {{ublist|class=nowrap |0.367 [[Geometric albedo|geometric]]&lt;ref name="earth_fact_sheet" /&gt; |0.306 [[Bond albedo|Bond]]&lt;ref name="earth_fact_sheet" /&gt;}}
+| atmosphere   = yes
+| temp_name1   = [[Kelvin]]
+| min_temp_1   = 184&amp;nbsp;K&lt;ref name=asu_lowest_temp /&gt;
+| mean_temp_1  = 287.16&amp;nbsp;K&lt;ref name=kinver20091210 /&gt; ''(1961–90)''
+| max_temp_1   = 330&amp;nbsp;K&lt;ref name=asu_highest_temp /&gt;
+| temp_name2   = Celsius
+| min_temp_2   = −89.2&amp;nbsp;°C
+| mean_temp_2  = 14.0&amp;nbsp;°C ''(1961–90)''
+| max_temp_2   = 56.7&amp;nbsp;°C
+| temp_name3   = Fahrenheit
+| min_temp_3   = −128.5&amp;nbsp;°F
+| mean_temp_3  = 57.2&amp;nbsp;°F ''(1961–90)''
+| max_temp_3   = 134.0&amp;nbsp;°F
+| surface_pressure = {{val|101.325|ul=kPa}} (at [[Sea level|MSL]])
+| atmosphere_composition =
+ {{unbulleted list |class=nowrap
+ | 78.08% [[nitrogen]] ({{chem2|N2}}; dry air)&lt;ref name="earth_fact_sheet" /&gt;
+ | 20.95% [[oxygen]] ({{chem2|O2}})
+ | ~&amp;thinsp;1% [[water vapor]] &lt;small&gt;([[climate]] variable)&lt;/small&gt;
+ | 0.9340% [[argon]]
+ | 0.0413% [[carbon dioxide]]&lt;ref name="NOAA"&gt;{{cite web |url=https://www.esrl.noaa.gov/gmd/ccgg/trends/gl_trend.html |title=Trends in Atmospheric Carbon Dioxide: Recent Global {{chem2|CO2}} Trend |publisher=[[National Oceanic and Atmospheric Administration]] |website=[[Earth System Research Laboratory]] |date=19 October 2020 |archive-url=https://web.archive.org/web/20201004010704/https://www.esrl.noaa.gov/gmd/ccgg/trends/gl_trend.html |archive-date=4 October 2020 |url-status=live}}&lt;/ref&gt;
+ | 0.00182% [[neon]]&lt;ref name="earth_fact_sheet" /&gt;
+ | 0.00052% [[helium]]
+ | 0.00019% [[methane]]
+ | 0.00011% [[krypton]]
+ | 0.00006% [[hydrogen]]
+ }}
+| note = no
+}}
+
+'''Earth''' is the third [[planet]] from the [[Sun]] and the only [[astronomical object]] known to harbor [[life]]. About 29% of Earth's surface is [[Land#History of land on Earth|land]] consisting of [[continent]]s and [[island]]s. The remaining 71% is [[Water distribution on Earth|covered with water]], mostly by [[ocean]]s but also by [[lake]]s, [[river]]s and other [[fresh water]], which together constitute the [[hydrosphere]]. Much of [[Polar regions of Earth|Earth's polar regions]] are covered in [[ice]]. Earth's outer layer is divided into several rigid [[Plate tectonics|tectonic plates]] that migrate across the surface over many millions of years. Earth's interior remains active with a solid iron [[Earth's inner core|inner core]], a liquid [[Earth's outer core|outer core]] that generates [[Earth's magnetic field]], and a convecting [[Mantle (geology)|mantle]] that drives plate tectonics.
+
+According to [[radiometric dating]] estimation and other evidence, Earth formed [[Age of Earth|over 4.5 billion years ago]]. Within the first billion years of [[History of Earth|Earth's history]], [[Abiogenesis|life appeared in the oceans]] and began to affect [[Atmosphere of Earth|Earth's atmosphere]] and surface, leading to the proliferation of [[anaerobic organism|anaerobic]] and, [[Great Oxidation Event|later]], [[aerobic organisms]]. Some geological evidence indicates that life may have arisen as early as 4.1&amp;nbsp;billion years ago. Since then, the combination of Earth's distance from the Sun, physical properties and [[Geological history of Earth|geological history]] have allowed life to [[Evolution|evolve]] and thrive. In the [[Timeline of the evolutionary history of life|history of life on Earth]], [[biodiversity]] has gone through long periods of expansion, occasionally punctuated by [[extinction event|mass extinctions]]. Over 99% of all [[species]] that ever lived on Earth are [[extinct]]. [[World population|Almost 8&amp;nbsp;billion humans]] live on Earth and depend on its [[biosphere]] and [[natural resource]]s for their survival. Humans [[Anthropocene|increasingly impact]] Earth's hydrology, atmospheric processes and other life.
+
+[[Atmosphere of Earth|Earth's atmosphere]] consists mostly of nitrogen and oxygen. Tropical regions receive more energy from the Sun than polar regions, which is redistributed by [[Atmospheric circulation|atmospheric]] and [[ocean circulation]]. [[Greenhouse gases]] also play an important role in regulating the surface temperature. A region's climate is not only determined by latitude, but also by its proximity to moderating oceans and height among other factors. [[Extreme weather]], such as [[tropical cyclones]] and [[heat waves]], occurs in most areas and has a large impact on life.
+
+[[Gravity of Earth|Earth's gravity]] interacts with other objects in space, especially the Sun and the [[Moon]], which is Earth's only [[natural satellite]]. Earth [[Earth's orbit|orbits around the Sun]] in about 365.25 [[solar time|days]]. [[#Axial tilt and seasons|Earth's axis of rotation]] is tilted with respect to its orbital plane, producing [[season]]s on Earth. The [[Gravity|gravitational]] interaction between Earth and the Moon causes [[tide]]s, stabilizes Earth's orientation on its axis, and [[Tidal acceleration|gradually slows its rotation]]. Earth is the densest planet in the [[Solar System]] and the largest and most massive of the four [[terrestrial planet|rocky planet]]s.
+
+{{TOC limit|3}}
+
+== Etymology ==
+The [[modern English]] word {{anchor|Name|Etymology}} ''Earth'' developed, via [[Middle English]], from an [[Old English]] noun most often spelled ''{{linktext|eorðe}}''.&lt;ref name=oedearth&gt;Oxford English Dictionary, {{nowrap|3rd ed.}} "earth, ''n.¹''" Oxford University Press (Oxford), 2010.&lt;/ref&gt; It has cognates in every [[Germanic languages|Germanic language]], and their [[proto-Germanic|ancestral root]] has been reconstructed as [[wikt:Appendix:Proto-Germanic/erþō|*''erþō'']]. In its earliest attestation, the word ''eorðe'' was already being used to translate the many senses of [[Latin language|Latin]] ''{{linktext|terra}}'' and [[Ancient Greek language|Greek]] {{linktext|γῆ}} ''gē'': the ground, its [[soil]], dry land, the human world, the surface of the world (including the sea), and the globe itself. As with Roman [[Terra (goddess)|Terra]]/Tellūs and Greek [[Gaia (goddess)|Gaia]], Earth may have been a [[earth goddess|personified goddess]] in [[Germanic religion (aboriginal)|Germanic paganism]]: late [[Norse mythology]] included [[Jörð]] ('Earth'), a giantess often given as the mother of [[Thor]].&lt;ref name="SIMEK179"&gt;[[Rudolf Simek|Simek, Rudolf]]. Trans. Angela Hall as ''Dictionary of Northern Mythology'', {{nowrap|p. 179.}} [[Boydell &amp; Brewer|D.S. Brewer]], 2007. {{ISBN|978-0-85991-513-7}}.&lt;/ref&gt;
+
+Historically, ''earth'' has been written in lowercase. From [[early Middle English]], its [[Definite article|definite sense]] as "the globe" was expressed as ''the'' earth. By [[Early Modern English]], many nouns were capitalized, and ''the earth'' was also written ''the Earth'', particularly when referenced along with other heavenly bodies. More recently, the name is sometimes simply given as ''Earth'', by analogy with the names of the [[Solar System|other planets]], though ''earth'' and forms with ''the'' remain common.&lt;ref name=oedearth /&gt; [[Style guide|House styles]] now vary: [[Oxford spelling]] recognizes the lowercase form as the most common, with the capitalized form an acceptable variant. Another convention capitalizes "Earth" when appearing as a name (for example, "Earth's atmosphere") but writes it in lowercase when preceded by ''the'' (for example, "the atmosphere of the earth"). It almost always appears in lowercase in colloquial expressions such as "what on earth are you doing?"&lt;ref name="oxford"&gt;''The New Oxford Dictionary of English'', {{nowrap|1st ed.}} "earth". Oxford University Press (Oxford), 1998. {{ISBN|978-0-19-861263-6}}.&lt;/ref&gt;
+
+Occasionally, the name '''Terra''' {{IPAc-en|ˈ|t|ɛr|ə}} is used in scientific writing and especially in science fiction to distinguish humanity's inhabited planet from others,&lt;ref&gt;{{OED|Terra}}&lt;/ref&gt; while in poetry '''Tellus''' {{IPAc-en|ˈ|t|ɛ|l|ə|s}} has been used to denote personification of the Earth.&lt;ref&gt;{{OED|Tellus}}&lt;/ref&gt; The Greek poetic name ''[[Gaea]]'' (''Gæa'') {{IPAc-en|'|dʒ|iː|ə}} is rare, though the alternative spelling '''Gaia''' has become common due to the [[Gaia hypothesis]], in which case its pronunciation is {{IPAc-en|ˈ|g|aɪ|ə}} rather than the more Classical {{IPAc-en|ˈ|g|eɪ|ə}}.&lt;ref&gt;{{OED|Gaia}}&lt;/ref&gt;
+
+There are a number of adjectives for the planet Earth. From ''Earth'' itself comes ''earthly''. From the Latin ''Terra'' comes ''Terran'' {{IPAc-en|ˈ|t|ɛr|ə|n}},&lt;ref&gt;{{OED|Terran}}&lt;/ref&gt; Terrestrial {{IPAc-en|t|ə|ˈ|r|ɛ|s|t|r|i|ə|l}},&lt;ref&gt;{{OED|terrestrial}}&lt;/ref&gt; and (via French) ''Terrene'' {{IPAc-en|t|ə|ˈ|r|iː|n}},&lt;ref&gt;{{OED|terrene}}&lt;/ref&gt; and from the Latin ''Tellus'' comes ''Tellurian'' {{IPAc-en|t|ɛ|ˈ|l|ʊər|i|ə|n}}&lt;ref&gt;{{OED|tellurian}}&lt;/ref&gt; and ''Telluric''.&lt;ref&gt;{{cite web|url=https://www.lexico.com/definition/telluric|title=Telluric|work=Lexico|publisher=[[Oxford English Dictionary]]|access-date=November 7, 2020}}&lt;/ref&gt;
+
+== Chronology ==
+{{Main|History of Earth}}
+=== Formation ===
+[[File:Protoplanetary-disk.jpg|thumb|Artist's impression of the early Solar System's planetary disk]]
+
+The oldest material found in the Solar System is dated to {{val|4.5682|0.0002|0.0004}} [[Gigaannum|Ga]] (billion years) ago.&lt;ref name=bouvier_wadhwa2010 /&gt; By {{val|4.54|0.04|u=Ga}} the primordial Earth had formed.&lt;ref name="age_earth1" /&gt; The bodies in [[Formation and evolution of the Solar System|the Solar System formed and evolved]] with the Sun. In theory, a [[solar nebula]] partitions a volume out of a [[molecular cloud]] by gravitational collapse, which begins to spin and flatten into a [[circumstellar disk]], and then the planets grow out of that disk with the Sun. A nebula contains gas, ice grains, and [[Cosmic dust|dust]] (including [[primordial nuclide]]s). According to [[nebular theory]], [[planetesimal]]s formed by [[accretion (astrophysics)|accretion]], with the primordial Earth being estimated as likely taking anywhere from 70–100 million years to form.&lt;ref&gt;{{cite journal|url=https://ntrs.nasa.gov/citations/20180002991|title=Ag Isotopic Evolution of the Mantle During Accretion: New Constraints from Pd and Ag Metal-Silicate Partitioning|journal=Differentiation: Building the Internal Architecture of Planets|last1=Righter|first1=K.|first2=M.|last2=Schonbachler|date=May 7, 2018|volume=2084|page=4034|bibcode=2018LPICo2084.4034R|access-date=October 25, 2020}}&lt;/ref&gt;
+
+Estimates of the age of the Moon range from 4.5 Ga to significantly younger.&lt;ref&gt;{{Cite journal|last1=Tartèse|first1=Romain|last2=Anand|first2=Mahesh|last3=Gattacceca|first3=Jérôme|last4=Joy|first4=Katherine H.|last5=Mortimer|first5=James I.|last6=Pernet-Fisher|first6=John F.|last7=Russell|first7=Sara|last8=Snape|first8=Joshua F.|last9=Weiss|first9=Benjamin P.|date=2019|title=Constraining the Evolutionary History of the Moon and the Inner Solar System: A Case for New Returned Lunar Samples|journal=Space Science Reviews|language=en|volume=215|issue=8|pages=54|doi=10.1007/s11214-019-0622-x|bibcode=2019SSRv..215...54T|issn=1572-9672|doi-access=free}}&lt;/ref&gt; A leading hypothesis is that it was formed by accretion from material loosed from Earth after a [[Mars]]-sized object with about 10% of Earth's mass, named [[Theia (planet)|Theia]], [[giant impact hypothesis|collided with]] Earth.&lt;ref name=reilly20091022 /&gt; It hit Earth with a glancing blow and some of its mass merged with Earth.&lt;ref name=canup_asphaug2001b /&gt;&lt;ref&gt;{{cite journal|url=https://arxiv.org/ftp/arxiv/papers/1410/1410.3819.pdf|title=On the origin and composition of Theia: Constraints from new models of the Giant Impact|journal=Icarus|last1=Meier|first1=M. M. M.|last2=Reufer|first2=A.|last3=Wieler|first3=R.|date=August 4, 2014|volume=242|access-date=October 25, 2020|page=5|doi=10.1016/j.icarus.2014.08.003|arxiv=1410.3819|bibcode=2014Icar..242..316M|s2cid=119226112}}&lt;/ref&gt; Between approximately 4.1 and {{val|3.8|u=Ga}}, numerous [[Impact event|asteroid impacts]] during the [[Late Heavy Bombardment]] caused significant changes to the greater surface environment of the Moon and, by inference, to that of Earth.&lt;ref&gt;{{cite book|title=Encyclopedia of Astrobiology|first1=Philippe|last1= Claeys|first2=Alessandro|last2=Morbidelli|editor-first1=Muriel|editor-last1= Gargaud|editor-first2=Prof Ricardo|editor-last2=Amils|editor-first3= José Cernicharo|editor-last3= Quintanilla|editor-first4= Henderson James (Jim) |editor-last4= Cleaves II|editor-first5=William M.|editor-last5=Irvine|editor-first6= Prof Daniele L.|editor-last6= Pinti|editor-first7= Michel|editor-last7= Viso|date= 1 January 2011|publisher=Springer Berlin Heidelberg|pages=909–912|doi=10.1007/978-3-642-11274-4_869|chapter=Late Heavy Bombardment|isbn= 978-3-642-11271-3}}&lt;/ref&gt;
+
+=== Geological history ===
+{{Main|Geological history of Earth}}
+[[File:Angular Unconformity at Praia do Telheiro in Algarve in Portugal.png|thumb|[[Carboniferous]] rocks that were [[Fold (geology)|folded]], [[Tectonic uplift|uplifted]] and eroded during [[Variscan orogeny|the orogeny]] that completed the formation of the Pangaea [[supercontinent]], before deposition of the overlying [[Triassic]] strata, in the [[Algarve Basin]], which marked the start of its break-up]]
+
+Earth's atmosphere and oceans were formed by [[Volcano|volcanic activity]] and [[outgassing]].&lt;ref&gt;{{cite web |url=https://www.lpi.usra.edu/education/timeline/gallery/slide_17.html |title=Earth's Early Atmosphere and Oceans |work=[[Lunar and Planetary Institute]] |publisher=[[Universities Space Research Association]] |access-date=27 June 2019}}&lt;/ref&gt; Water vapor from these sources [[origin of the world's oceans|condensed]] into the oceans, augmented by water and ice from asteroids, [[protoplanet]]s, and [[comet]]s.&lt;ref name="watersource" /&gt; [[Origin of water on Earth|Sufficient water to fill the oceans]] may have always been on Earth since the beginning of the [[#Formation|planet's formation]].&lt;ref&gt;{{Cite journal|last1=Piani|first1=Laurette|last2=Marrocchi|first2=Yves|last3=Rigaudier|first3=Thomas|last4=Vacher|first4=Lionel G.|last5=Thomassin|first5=Dorian|last6=Marty|first6=Bernard|date=2020|title=Earth's water may have been inherited from material similar to enstatite chondrite meteorites|url=https://science.sciencemag.org/content/369/6507/1110|journal=Science|language=en|volume=369|issue=6507|pages=1110–1113|doi=10.1126/science.aba1948|issn=0036-8075|pmid=32855337|bibcode=2020Sci...369.1110P|s2cid=221342529}}&lt;/ref&gt; In [[faint young Sun paradox|this model]], atmospheric [[greenhouse gas]]es kept the oceans from freezing when the newly forming Sun had only 70% of its [[solar luminosity|current luminosity]].&lt;ref name=asp2002 /&gt; By {{val|3.5|u=Ga}}, [[Earth's magnetic field]] was established, which helped prevent the atmosphere from being stripped away by the [[solar wind]].&lt;ref name=physorg20100304 /&gt;
+
+As the molten outer layer of Earth cooled it [[Phase transition|formed]] the first solid [[Earth's crust|crust]], which is thought to have been [[mafic]] in composition. The first [[continental crust]], which was more [[felsic]] in composition, formed by the partial melting of this mafic crust. The presence of grains of the [[Hadean zircon|mineral zircon of Hadean age]] in [[Eoarchean]] [[sedimentary rock]]s suggests that at least some felsic crust existed as early as {{val|4.4|u=Ga}}, only {{val|140|u=[[Megaannum|Ma]]}} after Earth's formation.&lt;ref name="science310_5756_1947" /&gt; There are two main models of how this initial small volume of continental crust evolved to reach its current abundance:&lt;ref name="williams_santosh2004" /&gt; (1) a relatively steady growth up to the present day,&lt;ref name="science164_1229" /&gt; which is supported by the radiometric dating of continental crust globally and (2) an initial rapid growth in the volume of continental crust during the [[Archean]], forming the bulk of the continental crust that now exists,&lt;ref name="ajes38_613" /&gt;&lt;ref name="tp322_19" /&gt; which is supported by isotopic evidence from [[hafnium]] in [[zircon]]s and [[neodymium]] in sedimentary rocks. The two models and the data that support them can be reconciled by large-scale [[crustal recycling|recycling of the continental crust]], particularly during the early stages of Earth's history.&lt;ref name="Dhuime_etal_2018" /&gt;
+
+New continental crust forms as a result of [[plate tectonics]], a process ultimately driven by the continuous loss of heat from Earth's interior. Over [[Geologic time scale|the period]] of hundreds of millions of years, tectonic forces have caused areas of continental crust to group together to form [[supercontinent]]s that have subsequently broken apart. At approximately {{val|750|u=Ma}}, one of the earliest known supercontinents, [[Rodinia]], began to break apart. The continents later recombined to form [[Pannotia]] at {{val|600|–|540|u=Ma}}, then finally [[Pangaea]], which also began to break apart at {{val|180|u=Ma}}.&lt;ref name="bradley_2011"/&gt;
+
+The most recent pattern of [[ice age]]s began about {{val|40|u=Ma}},&lt;ref&gt;{{cite news |url=https://www.amnh.org/explore/ology/earth/ask-a-scientist-about-our-environment/how-did-the-ice-age-end |title=When and how did the ice age end? Could another one start? |first=Ro |last=Kinzler |access-date=27 June 2019 |work=[[American Museum of Natural History]]}}&lt;/ref&gt; and then intensified during the [[Pleistocene]] about {{val|3|u=Ma}}.&lt;ref&gt;{{cite journal |title=Causes of ice age intensification across the Mid-Pleistocene Transition |journal=[[Proc Natl Acad Sci U S A]] |date=12 December 2007 |volume=114 |issue=50 |pages=13114–13119 |doi=10.1073/pnas.1702143114 |pmc=5740680 |pmid=29180424 |first1=Thomas B. |last1=Chalk |first2=Mathis P. |last2=Hain |first3=Gavin L. |last3=Foster |first4=Eelco J. |last4=Rohling |first5=Philip F. |last5=Sexton |first6=Marcus P. S. |last6=Badger |first7=Soraya G. |last7=Cherry |first8=Adam P. |last8=Hasenfratz |first9=Gerald H. |last9=Haug |first10=Samuel L. |last10=Jaccard |first11=Alfredo |last11=Martínez-García |first12=Heiko |last12=Pälike |first13=Richard D. |last13=Pancost |first14=Paul A. |last14=Wilson |url=https://www.pnas.org/content/pnas/114/50/13114.full.pdf |access-date=28 June 2019}}&lt;/ref&gt; [[High latitude|High-]] and [[middle latitude|middle-latitude]] regions have since undergone repeated cycles of glaciation and thaw, repeating about every 21,000, 41,000 and 100,000 years.&lt;ref name=psc /&gt; The [[Last Glacial Period]], colloquially called the "last ice age", covered large parts of the continents, up to the middle latitudes, in ice and ended about 11,700 years ago.&lt;ref&gt;{{cite journal|url=https://www.sciencedirect.com/science/article/abs/pii/S0277379110003197|title=The potential of New Zealand kauri (Agathis australis) for testing the synchronicity of abrupt climate change during the Last Glacial Interval (60,000–11,700 years ago)|journal=Quaternary Science Reviews|publisher=Elsevier|last1=Turner|first1=Chris S.M.|display-authors=et al|year=2010|doi=10.1016/j.quascirev.2010.08.017|volume=29|issue=27–28|page=3677-3682|bibcode=2010QSRv...29.3677T|access-date=November 3, 2020}}&lt;/ref&gt;
+
+=== Origin of life and evolution ===
+{{Life timeline}}
+{{Main|Origin of Life|Evolutionary history of life}}
+
+[[Chemical reaction]]s led to the first self-replicating molecules about four billion years ago. A half billion years later, the [[last universal common ancestor|last common ancestor of all current life]] arose.&lt;ref name=sa282_6_90 /&gt; The evolution of [[photosynthesis]] allowed the Sun's energy to be harvested directly by life forms. The resultant [[molecular oxygen]] ({{chem2|O2}}) accumulated in the atmosphere and due to interaction with ultraviolet solar radiation, formed a protective [[ozone layer]] ({{chem2|O3}}) in the upper atmosphere.&lt;ref name="NYT-20131003"&gt;{{cite news |last=Zimmer |first=Carl |author-link=Carl Zimmer |title=Earth's Oxygen: A Mystery Easy to Take for Granted |url=https://www.nytimes.com/2013/10/03/science/earths-oxygen-a-mystery-easy-to-take-for-granted.html |date=3 October 2013 |work=[[The New York Times]] |access-date=3 October 2013}}&lt;/ref&gt; The incorporation of smaller cells within larger ones resulted in the [[endosymbiotic theory|development of complex cells]] called [[eukaryote]]s.&lt;ref name=jas22_3_225 /&gt; True multicellular organisms formed as cells within [[Colony (biology)|colonies]] became increasingly specialized. Aided by the absorption of harmful [[ultraviolet radiation]] by the ozone layer, life colonized Earth's surface.&lt;ref name=burton20021129 /&gt; Among the earliest [[fossil]] evidence for [[life]] is [[microbial mat]] fossils found in 3.48&amp;nbsp;billion-year-old [[sandstone]] in [[Western Australia]],&lt;ref name="AST-20131108"&gt;{{cite journal |last1=Noffke |first1=Nora |last2=Christian |first2=Daniel |last3=Wacey |first3=David |last4=Hazen |first4=Robert M. |title=Microbially Induced Sedimentary Structures Recording an Ancient Ecosystem in the ca. 3.48 Billion-Year-Old Dresser Formation, Pilbara, Western Australia |date=8 November 2013 |journal=[[Astrobiology (journal)|Astrobiology]] |doi=10.1089/ast.2013.1030 |bibcode=2013AsBio..13.1103N |pmid=24205812 |pmc=3870916 |volume=13 |issue=12 |pages=1103–24}}&lt;/ref&gt; [[Biogenic substance|biogenic]] [[graphite]] found in 3.7&amp;nbsp;billion-year-old [[metasediment]]ary rocks in [[Western Greenland]],&lt;ref name="NG-20131208"&gt;{{cite journal |last1=Ohtomo |first1=Yoko |last2=Kakegawa |first2=Takeshi |last3=Ishida |first3=Akizumi |last4=Nagase |first4=Toshiro |last5=Rosing |first5=Minik T. |s2cid=54767854 |display-authors=3 |date=January 2014 |title=Evidence for biogenic graphite in early Archaean Isua metasedimentary rocks |journal=[[Nature Geoscience]] |volume=7 |issue=1 |pages=25–28 |bibcode=2014NatGe...7...25O |doi=10.1038/ngeo2025 |issn=1752-0894}}&lt;/ref&gt; and remains of [[biotic material]] found in 4.1&amp;nbsp;billion-year-old rocks in Western Australia.&lt;ref name="AP-20151019"&gt;{{cite news |last=Borenstein |first=Seth |title=Hints of life on what was thought to be desolate early Earth |url=http://apnews.excite.com/article/20151019/us-sci--earliest_life-a400435d0d.html |date=19 October 2015 |work=[[Excite]] |location=Yonkers, NY |publisher=[[Mindspark Interactive Network]] |agency=[[Associated Press]] |access-date=20 October 2015 |archive-url=https://web.archive.org/web/20160818063111/https://apnews.excite.com/article/20151019/us-sci--earliest_life-a400435d0d.html |archive-date=18 August 2016}}&lt;/ref&gt;&lt;ref name="PNAS-20151014-pdf"&gt;{{cite journal |last1=Bell |first1=Elizabeth A. |last2=Boehnike |first2=Patrick |last3=Harrison |first3=T. Mark |last4=Mao |first4=Wendy L. |display-authors=3 |date=19 October 2015 |title=Potentially biogenic carbon preserved in a 4.1&amp;nbsp;billion-year-old zircon |url=http://www.pnas.org/content/early/2015/10/14/1517557112.full.pdf |journal=Proc. Natl. Acad. Sci. U.S.A. |doi=10.1073/pnas.1517557112 |issn=1091-6490 |access-date=20 October 2015 |pmid=26483481 |pmc=4664351 |volume=112 |issue=47 |pages=14518–21 |bibcode=2015PNAS..11214518B}} Early edition, published online before print.&lt;/ref&gt; The [[Earliest known life forms|earliest direct evidence of life]] on Earth is contained in 3.45 billion-year-old [[Australia]]n rocks showing fossils of [[microorganism]]s.&lt;ref name="WU-20171218"&gt;{{cite web |last=Tyrell |first=Kelly April |title=Oldest fossils ever found show life on Earth began before 3.5 billion years ago |url=https://news.wisc.edu/oldest-fossils-ever-found-show-life-on-earth-began-before-3-5-billion-years-ago/ |date=18 December 2017 |publisher=[[University of Wisconsin–Madison]] |access-date=18 December 2017}}&lt;/ref&gt;&lt;ref name="PNAS-2017"&gt;{{cite journal |last1=Schopf |first1=J. William |last2=Kitajima |first2=Kouki |last3=Spicuzza |first3=Michael J. |last4=Kudryavtsev |first4=Anatolly B. |last5=Valley |first5=John W. |title=SIMS analyses of the oldest known assemblage of microfossils document their taxon-correlated carbon isotope compositions |year=2017 |journal=[[Proceedings of the National Academy of Sciences of the United States of America|PNAS]] |volume=115 |issue=1 |pages=53–58 |doi=10.1073/pnas.1718063115 |pmid=29255053 |pmc=5776830 |bibcode=2018PNAS..115...53S}}&lt;/ref&gt;
+
+During the [[Neoproterozoic]], {{val|1000|to|541|u=Ma}}, much of Earth might have been covered in ice. This hypothesis has been termed "[[Snowball Earth]]", and it is of particular interest because it preceded the [[Cambrian explosion]], when multicellular life forms significantly increased in complexity.&lt;ref&gt;{{cite book|page=42|title=Climate Change and the Course of Global History|last1=Brooke|first1=John L.|date=17 March 2014|publisher=Cambridge University Press|isbn=978-0-521-87164-8}}&lt;/ref&gt;&lt;ref&gt;{{cite book|page=56|title=Epigenetic Mechanisms of the Cambrian Explosion|last1=Cabej|first1=Nelson R.|date=12 October 2019|publisher=Elsevier Science|isbn=978-0-12-814312-4}}&lt;/ref&gt; Following the Cambrian explosion, {{val|535|u=Ma}}, there have been at least five major [[Extinction event|mass extinctions]] and many minor ones.&lt;ref name="sci215_4539_1501" /&gt;&lt;ref name=Stanley_2016/&gt; Apart from the proposed current [[Holocene extinction]] event, the [[Cretaceous–Paleogene extinction event|most recent]] was {{val|66|u=Ma}}, when [[Chicxulub impactor|an asteroid impact]] triggered the extinction of the non-avian [[dinosaur]]s and other large reptiles, but largely spared small animals such as [[insect]]s, [[mammal]]s, [[lizard]]s and [[bird]]s. Mammalian life has diversified over the past {{val|66|u=Mys}}, and several million years ago an African ape gained the ability to stand upright.&lt;ref name="gould1994" /&gt; This facilitated tool use and encouraged communication that provided the nutrition and stimulation needed for a larger brain, which led to the [[Human evolution|evolution of humans]]. The [[History of agriculture|development of agriculture]], and then [[List of ancient civilizations|civilization]], led to humans having an [[Human impact on the environment|influence on Earth]] and the nature and quantity of other life forms that continues to this day.&lt;ref name="bgsa119_1_140" /&gt; Over 99% of all [[species]] that ever lived on Earth are [[extinct]].&lt;ref name="NYT-20141108"&gt;{{cite news |last=Novacek |first=Michael J. |title=Prehistory's Brilliant Future |url=https://www.nytimes.com/2014/11/09/opinion/sunday/prehistorys-brilliant-future.html |date=November 8, 2014 |work=[[The New York Times]] |access-date=November 1, 2020 }}&lt;/ref&gt;&lt;ref name="Jablonski2004"&gt;{{cite journal | title=Extinction: past and present | last=Jablonski | first=D. | journal=Nature | year=2004 | volume=427 | issue=6975 | page=589 | doi=10.1038/427589a| pmid=14961099 | s2cid=4412106 }}&lt;/ref&gt;
+
+=== Future ===
+{{Main|Future of Earth}}
+{{See also|Global catastrophic risk}}Because [[carbon dioxide]] ({{CO2}}) has a long life time in the atmosphere, moderate human {{CO2}} emissions may postpone the next glacial inception by 100,000 years.&lt;ref&gt;{{Cite journal|last1=Ganopolski|first1=A.|last2=Winkelmann|first2=R.|last3=Schellnhuber|first3=H. J.|date=2016|title=Critical insolation–CO&lt;sub&gt;2&lt;/sub&gt; relation for diagnosing past and future glacial inception|url=https://www.nature.com/articles/nature16494|journal=Nature|language=en|volume=529|issue=7585|pages=200–203|doi=10.1038/nature16494|pmid=26762457|bibcode=2016Natur.529..200G|s2cid=4466220|issn=1476-4687}}&lt;/ref&gt; Earth's expected long-term future is tied to that of the Sun. Over the next {{val|1.1|u=billion years}}, solar luminosity will increase by 10%, and over the next {{val|3.5|u=billion years}} by 40%.&lt;ref name="sun_future" /&gt; Earth's increasing surface temperature will accelerate the [[carbonate–silicate cycle|inorganic carbon cycle]], reducing {{chem2|CO2}} concentration to levels lethally low for plants ({{val|10|ul=ppm}} for [[C4 carbon fixation|C4 photosynthesis]]) in approximately {{val|100|–|900|u=million years}}.&lt;ref name="britt2000" /&gt;&lt;ref name=pnas1_24_9576 /&gt; The lack of vegetation will result in the loss of oxygen in the atmosphere, making animal life impossible.&lt;ref name=ward_brownlee2002 /&gt; Due to the increased luminosity, Earth's mean tempearture may reach {{convert|100|C|F|0|abbr=}} in 1.5 billion years, and all ocean water will evaporate and be lost to space within an estimated 1.6 to 3 billion years.&lt;ref name=":2"&gt;{{Cite journal|last1=Mello|first1=Fernando de Sousa|last2=Friaça|first2=Amâncio César Santos|date=2020|title=The end of life on Earth is not the end of the world: converging to an estimate of life span of the biosphere?|url=https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/end-of-life-on-earth-is-not-the-end-of-the-world-converging-to-an-estimate-of-life-span-of-the-biosphere/AB2EF73B7787EDFF94AFCC545EC31302|journal=International Journal of Astrobiology|language=en|volume=19|issue=1|pages=25–42|doi=10.1017/S1473550419000120|bibcode=2020IJAsB..19...25D|issn=1473-5504|doi-access=free}}&lt;/ref&gt; Even if the Sun were stable, a fraction of the water in the modern oceans will descend to the [[Mantle (geology)|mantle]], due to reduced steam venting from mid-ocean ridges.&lt;ref name=":2" /&gt;&lt;ref name=hess5_4_569 /&gt;
+
+The Sun will [[stellar evolution|evolve]] to become a [[red giant]] in about {{val|5|u=billion years}}. Models predict that the Sun will expand to roughly {{convert|1|AU|e6km e6mi|lk=in|abbr=unit}}, about 250 times its present radius.&lt;ref name="sun_future" /&gt;&lt;ref name="sun_future_schroder" /&gt; Earth's fate is less clear. As a red giant, the Sun will lose roughly 30% of its mass, so, without tidal effects, Earth will move to an orbit {{convert|1.7|AU|e6km e6mi|lk=off|abbr=unit}} from the Sun when the star reaches its maximum radius.&lt;ref name="sun_future" /&gt;
+
+== Physical characteristics&lt;!--linked from 'Earth physical characteristics tables'--&gt; ==
+
+=== Shape ===
+{{Main|Figure of the Earth|Earth radius|Earth's circumference}}
+[[File:Volcán Chimborazo, "El Taita Chimborazo".jpg|thumb|The summit of [[Chimborazo]], the point on Earth's surface that is farthest from Earth's center&lt;ref name="News in Science"&gt;{{cite web |url=https://www.abc.net.au/science/articles/2004/04/16/1086384.htm |title=Tall Tales about Highest Peaks |publisher=ABC Science |date=16 April 2004 |access-date=29 May 2019}}&lt;/ref&gt;]]
+
+The shape of Earth is nearly spherical. There is a small flattening at the poles and [[equatorial bulge|bulging]] around the [[equator]] due to [[Earth's rotation]].&lt;ref name=milbert_smith96 /&gt; so that a better approximation of Earth's shape is an [[oblate spheroid]], whose equatorial diameter is {{convert|43|km|mi}} larger than the [[Geographical pole|pole]]-to-pole diameter.&lt;ref name="ngdc2006" /&gt;
+
+The point on the surface farthest from Earth's [[center of mass]] is the summit of the equatorial [[Chimborazo (volcano)|Chimborazo]] volcano in [[Ecuador]] ({{Convert|6384.4|km|mi|1|abbr=on|disp=or}}).&lt;ref name=ps20_5_16 /&gt;&lt;ref name=lancet365_9462_831 /&gt;&lt;ref name="The 'Highest' Spot on Earth"&gt;{{cite web |url=https://www.npr.org/templates/story/story.php?storyId=9428163 |title=The 'Highest' Spot on Earth |publisher=NPR |date=7 April 2007 |access-date=31 July 2012}}&lt;/ref&gt; The average diameter of the reference spheroid is {{convert|12742|km|mi}}. Local [[topography]] deviates from this idealized spheroid, although on a global scale these deviations are small compared to Earth's radius: the maximum deviation of only 0.17% is at the [[Mariana Trench]] ({{convert|10925|m|ft|disp=or|abbr=}} below local sea level),&lt;ref&gt;{{Cite journal|last1=Stewart|first1=Heather A.|last2=Jamieson|first2=Alan J.|date=2019|title=The five deeps: The location and depth of the deepest place in each of the world's oceans|url=https://www.sciencedirect.com/science/article/pii/S001282521830429X|journal=Earth-Science Reviews|language=en|volume=197|pages=102896|doi=10.1016/j.earscirev.2019.102896|bibcode=2019ESRv..19702896S|issn=0012-8252|doi-access=free}}&lt;/ref&gt; whereas [[Mount Everest]] ({{convert|8848|m|ft|disp=or}} above local sea level) represents a deviation of 0.14%.{{refn|group=n| If Earth were shrunk to the size of a [[billiard ball]], some areas of Earth such as large mountain ranges and oceanic trenches would feel like tiny imperfections, whereas much of the planet, including the [[Great Plains]] and the [[abyssal plain]]s, would feel smoother.&lt;ref&gt;{{cite web |url=http://billiards.colostate.edu/bd_articles/2013/june13.pdf |title=Is a Pool Ball Smoother than the Earth? |publisher=Billiards Digest |date=1 June 2013 |access-date=26 November 2014}}&lt;/ref&gt;}}&lt;ref&gt;{{cite web|url=https://serc.carleton.edu/quantskills/activities/botec_himalayas.html|title=Back-of-the-Envelope Calculations: Scale of the Himalayas|work=[[Carleton University]]|last1=Tewksbury|first1=Barbara|access-date=October 19, 2020}}&lt;/ref&gt;
+In [[geodesy]], the exact shape that Earth's oceans would adopt in the absence of land and perturbations such as tides and winds is called the [[geoid]]. More precisely, the geoid is the surface of gravitational equipotential at [[mean sea level]].&lt;ref&gt;{{Cite web|title=What is the geoid?|url=https://oceanservice.noaa.gov/facts/geoid.html|access-date=2020-10-10|publisher=[[National Ocean Service]]|language=EN-US}}&lt;/ref&gt;
+
+=== Chemical composition ===
+{{See also|Abundance of elements on Earth}}
+
+{| class="wikitable" style="float: right; clear: right; margin-left: 2em;"
+|+Chemical composition of the crust&lt;ref name="Rudnick2003"&gt;{{cite book |chapter=Composition of the Continental Crust |journal=Treatise on Geochemistry |publisher=Elsevier Science |location=New York |first1=R. L. |last1=Rudnick |first2=S. |last2=Gao |title=Treatise on Geochemistry |editor1-first=H. D. |editor1-last=Holland |editor2-first=K. K. |editor2-last=Turekian |volume=3 |pages=1–64 |year=2003 |doi=10.1016/B0-08-043751-6/03016-4 |isbn=978-0-08-043751-4 |bibcode=2003TrGeo...3....1R}}&lt;/ref&gt;&lt;ref name="White2014"&gt;{{cite book |chapter=Composition of the Oceanic Crust |title=Treatise on Geochemistry |publisher=Elsevier Science |location=New York |first1=W. M. |last1=White |first2=E. M. |last2=Klein |author-link2=Emily Klein |editor1-first=H. D. |editor1-last=Holland |editor2-first=K. K. |editor2-last=Turekian |volume=4 |pages=457–496 |year=2014 |doi=10.1016/B978-0-08-095975-7.00315-6 |isbn=978-0-08-098300-4 |hdl=10161/8301}}&lt;/ref&gt;
+!rowspan="2"|Compound
+!rowspan="2"|Formula
+!colspan="2"|Composition
+|-
+!style="font-size: smaller;"|Continental
+!style="font-size: smaller;"|Oceanic
+|-
+|[[silica]]
+|style="text-align: center;"|{{chem2|SiO2}}
+|style="text-align: right;"|60.6%
+|style="text-align: right;"|48.6%
+|-
+|[[Aluminum oxide|alumina]]
+|style="text-align: center;"|{{chem2|Al2O3}}
+|style="text-align: right;"|15.9%
+|style="text-align: right;"|16.5%
+|-
+|[[Calcium oxide|lime]]
+|style="text-align: center;"|CaO
+|style="text-align: right;"|6.41%
+|style="text-align: right;"|12.3%
+|-
+|[[Magnesium oxide|magnesia]]
+|style="text-align: center;"|MgO
+|style="text-align: right;"|4.66%
+|style="text-align: right;"|6.8%
+|-
+|[[iron oxide]]
+|style="text-align: center;"|FeO&lt;sub&gt;T&lt;/sub&gt;
+|style="text-align: right;"|6.71%
+|style="text-align: right;"|6.2%
+|-
+|[[sodium oxide]]
+|style="text-align: center;"|{{chem2|Na2O}}
+|style="text-align: right;"|3.07%
+|style="text-align: right;"|2.6%
+|-
+|[[potassium oxide]]
+|style="text-align: center;"|{{chem2|K2O}}
+|style="text-align: right;"|1.81%
+|style="text-align: right;"|0.4%
+|-
+|[[titanium dioxide]]
+| style="text-align: center;" |{{chem2|TiO2}}
+| style="text-align: right;" |0.72%
+| style="text-align: right;" |1.4%
+|-
+|[[phosphorus pentoxide]]
+| style="text-align: center;" |{{chem2|P2O5}}
+| style="text-align: right;" |0.13%
+| style="text-align: right;" |0.3%
+|-
+|[[Manganese(II) oxide|manganese oxide]]
+|style="text-align: center;"|MnO
+|style="text-align: right;"|0.10%
+|style="text-align: right;"|1.4%
+|-
+! colspan="2" |Total
+! style="text-align: right;" |100.1%
+! style="text-align: right;" |99.9%
+|}
+
+[[Earth mass|Earth's mass]] is approximately {{val|5.97|e=24|ul=kg}} (5,970 [[yottagram|Yg]]). It is composed mostly of [[iron]] (32.1%), [[oxygen]] (30.1%), [[silicon]] (15.1%), [[magnesium]] (13.9%), [[sulfur]] (2.9%), [[nickel]] (1.8%), [[calcium]] (1.5%), and [[aluminum]] (1.4%), with the remaining 1.2% consisting of trace amounts of other elements. Due to [[mass segregation]], the core region is estimated to be primarily composed of iron (88.8%), with smaller amounts of nickel (5.8%), sulfur (4.5%), and less than 1% trace elements.&lt;ref name=pnas71_12_6973 /&gt;
+
+The most common rock constituents of the crust are nearly all [[oxide]]s: chlorine, sulfur, and fluorine are the important exceptions to this and their total amount in any rock is usually much less than 1%. Over 99% of the crust is composed of 11 oxides, principally silica, alumina, iron oxides, lime, magnesia, [[potash]] and soda.&lt;ref name=brown_mussett1981 /&gt;&lt;ref name=pnas71_12_6973 /&gt;
+
+=== Internal structure ===
+{{Main|Structure of the Earth}}
+
+{| class="wikitable sortable" style="float: right; clear: right; margin-left: 2em; text-align:center;"
+|+ Geologic layers of Earth&lt;ref name=pnas76_9_4192 /&gt;
+|-
+! colspan="3" style="font-size:smaller; text-align:center;"|[[File:Earth-cutaway-schematic-english.svg|frameless|center]]&lt;br /&gt;Earth cutaway from core to exosphere. Not to scale.
+|-
+!Depth&lt;ref name=robertson2001 /&gt;&lt;br /&gt;&lt;span style="font-size: smaller;"&gt;km&lt;/span&gt;
+!style="vertical-align: top;"|Component layer
+!Density&lt;br /&gt;&lt;span style="font-size: smaller;"&gt;g/cm&lt;sup&gt;3&lt;/sup&gt;&lt;/span&gt;
+|-
+|0–60
+|style="text-align:left;"|Lithosphere&lt;ref group="n"&gt;Locally varies between {{val|5|and|200|u=km}}.&lt;/ref&gt;
+|—
+|- style="background:#FEFEFE;"
+|0–35
+|style="text-align:left;"| Crust&lt;ref group="n"&gt;Locally varies between {{val|5|and|70|u=km}}.&lt;/ref&gt;
+|2.2–2.9
+|- style="background:#FEFEFE;"
+|35–660
+|style="text-align:left;"| Upper mantle
+|3.4–4.4
+|-
+|&amp;nbsp;&amp;nbsp;660–2890
+|style="text-align:left;"|Lower mantle
+|3.4–5.6
+|- style="background:#FEFEFE;"
+|100–700
+|style="text-align:left;"| Asthenosphere
+|—
+|-
+|2890–5100
+|style="text-align:left;"|Outer core
+|9.9–12.2
+|-
+|5100–6378
+|style="text-align:left;"|Inner core
+|12.8–13.1
+|}
+
+Earth's interior, like that of the other terrestrial planets, is divided into layers by their [[chemical]] or physical ([[Rheology|rheological]]) properties. The outer layer is a chemically distinct [[Silicate minerals|silicate]] solid crust, which is underlain by a highly [[viscous]] solid mantle. The crust is separated from the mantle by the [[Mohorovičić discontinuity]].&lt;ref name="GeolSoc"/&gt; The thickness of the crust varies from about {{convert|6|km|mi}} under the oceans to {{convert|30|-|50|km|mi|abbr=on}} for the continents. The crust and the cold, rigid, top of the [[upper mantle]] are collectively known as the lithosphere, which is divided into independently moving tectonic plates.&lt;ref&gt;{{cite web|url=https://www.nationalgeographic.org/encyclopedia/lithosphere/|title=Lithosphere|work=[[National Geographic]]|last1=Micalizio|first1=Caryl-Sue|last2=Evers|first2=Jeannie|date=May 20, 2015|access-date=October 13, 2020}}&lt;/ref&gt;
+
+Beneath the lithosphere is the [[asthenosphere]], a relatively low-viscosity layer on which the lithosphere rides. Important changes in crystal structure within the mantle occur at {{convert|410|and|660|km|mi|abbr=on}} below the surface, spanning a [[Transition zone (Earth)|transition zone]] that separates the upper and lower mantle. Beneath the mantle, an extremely low viscosity liquid [[outer core]] lies above a solid [[Earth's inner core|inner core]].&lt;ref name=tanimoto_ahrens1995 /&gt; Earth's inner core may be rotating at a slightly higher [[angular velocity]] than the remainder of the planet, advancing by 0.1–0.5° per year, although both somewhat higher and much lower rates have also been proposed.&lt;ref name="Deuss_2014"/&gt; The radius of the inner core is about one fifth of that of Earth.
+{{anchor|Density}}Density increases with depth, as described in the table on the right.
+
+=== Heat ===
+{{Main|Earth's internal heat budget}}
+
+The major heat-producing [[isotope]]s within Earth are [[potassium-40]], [[uranium-238]], and [[thorium-232]].&lt;ref name=sanders20031210 /&gt; At the center, the temperature may be up to {{convert|6000|C|F}},&lt;ref&gt;{{cite web |title=The Earth's Centre is 1000 Degrees Hotter than Previously Thought |url=http://www.esrf.eu/news/general/Earth-Center-Hotter |website=The European Synchrotron (ESRF) |access-date=12 April 2015 |archive-url=https://web.archive.org/web/20130628075455/http://www.esrf.eu/news/general/Earth-Center-Hotter/Earth-Centre-Hotter/ |archive-date=28 June 2013 |date=25 April 2013 |url-status=dead }}&lt;/ref&gt; and the pressure could reach {{convert|360|GPa|e6psi|abbr=unit|lk=on}}.&lt;ref name=ptrsl360_1795_1227 /&gt; Because much of the heat is provided by radioactive decay, scientists postulate that early in Earth's history, before isotopes with short half-lives were depleted, Earth's heat production was much higher. At approximately {{val|3|ul=Gyr}}, twice the present-day heat would have been produced, increasing the rates of [[mantle convection]] and plate tectonics, and allowing the production of uncommon [[igneous rock]]s such as [[komatiite]]s that are rarely formed today.&lt;ref name="T&amp;S 137"/&gt;&lt;ref name=epsl121_1 /&gt;
+
+{| class="wikitable" style="text-align:center;"
+|+ Present-day major heat-producing isotopes&lt;ref name="T&amp;S 137" /&gt;
+|-
+! Isotope
+! Heat release&lt;br /&gt;&lt;span style="font-size: smaller;"&gt;{{sfrac|W|kg isotope}}&lt;/span&gt;
+! Half-life&lt;br /&gt;&lt;span style="font-size: smaller;"&gt;years&lt;/span&gt;
+! Mean mantle concentration&lt;br /&gt;&lt;span style="font-size: smaller;"&gt;{{sfrac|kg isotope|kg mantle}}&lt;/span&gt;
+! Heat release&lt;br /&gt;&lt;span style="font-size: smaller;"&gt;{{sfrac|W|kg mantle}}&lt;/span&gt;
+|-
+| &lt;sup&gt;238&lt;/sup&gt;U
+| {{val|94.6|e=-6}}
+| {{val|4.47|e=9}}
+| {{val|30.8|e=-9}}
+| {{val|2.91|e=-12}}
+|-
+| &lt;sup&gt;235&lt;/sup&gt;U
+| {{val|569|e=-6}}
+| {{val|0.704|e=9}}
+| {{val|0.22|e=-9}}
+| {{val|0.125|e=-12}}
+|-
+| &lt;sup&gt;232&lt;/sup&gt;Th
+| {{val|26.4|e=-6}}
+| {{val|14.0|e=9}}
+| {{val|124|e=-9}}
+| {{val|3.27|e=-12}}
+|-
+| &lt;sup&gt;40&lt;/sup&gt;K
+| {{val|29.2|e=-6}}
+| {{val|1.25|e=9}}
+| {{val|36.9|e=-9}}
+| {{val|1.08|e=-12}}
+|}
+
+The mean heat loss from Earth is {{val|87|u=mW m&lt;sup&gt;−2&lt;/sup&gt;}}, for a global heat loss of {{val|4.42|e=13|u=W}}.&lt;ref name=jg31_3_267 /&gt; A portion of the core's thermal energy is transported toward the crust by [[mantle plume]]s, a form of convection consisting of upwellings of higher-temperature rock. These plumes can produce [[Hotspot (geology)|hotspots]] and [[flood basalt]]s.&lt;ref name=science246_4926_103 /&gt; More of the heat in Earth is lost through plate tectonics, by mantle upwelling associated with [[mid-ocean ridge]]s. The final major mode of heat loss is through conduction through the lithosphere, the majority of which occurs under the oceans because the crust there is much thinner than that of the continents.&lt;ref name="heat loss" /&gt;{{clear right}}
+
+=== Tectonic plates ===
+{{Main|Plate tectonics}}
+
+{| class="wikitable" style="float:right; margin-left:1em;"
+|+ [[List of tectonic plates|Earth's major plates]]&lt;ref name=brown_wohletz2005 /&gt;
+|-
+|colspan="2" style="font-size: smaller; text-align: center;"|[[File:Tectonic plates (empty).svg|frameless|alt=Shows the extent and boundaries of tectonic plates, with superimposed outlines of the continents they support]]
+|-
+!Plate name
+!Area&lt;br /&gt;&lt;span style="font-size: smaller;"&gt;10&lt;sup&gt;6&lt;/sup&gt;&amp;nbsp;km&lt;sup&gt;2&lt;/sup&gt;&lt;/span&gt;
+|-
+| {{legend|#fee6aa|[[Pacific Plate]]}} ||style="text-align: center;"|103.3
+|-
+| {{legend|#fb9a7a|[[African Plate]]&lt;ref group="n" name="jaes41_3_379" /&gt;}} ||style="text-align: center;"| 78.0
+|-
+| {{legend|#ac8d7f|[[North American Plate]]}} ||style="text-align: center;"| 75.9
+|-
+| {{legend|#7fa172|[[Eurasian Plate]]}} ||style="text-align: center;"| 67.8
+|-
+| {{legend|#8a9dbe|[[Antarctic Plate]]}} ||style="text-align: center;"| 60.9
+|-
+| {{legend|#fcb482|[[Indo-Australian Plate]]}} ||style="text-align: center;"| 47.2
+|-
+| {{legend|#ad82b0|[[South American Plate]]}} ||style="text-align: center;"| 43.6
+|}
+
+Earth's mechanically rigid outer layer, the lithosphere, is divided into tectonic plates. These plates are rigid segments that move relative to each other at one of three boundaries types: at [[Convergent boundary|convergent boundaries]], two plates come together; at [[Divergent boundary|divergent boundaries]], two plates are pulled apart; and at [[Transform boundary|transform boundaries]], two plates slide past one another laterally. Along these plate boundaries, [[earthquake]]s, [[Volcanism|volcanic activity]], [[Orogeny|mountain-building]], and [[oceanic trench]] formation can occur.&lt;ref name=kious_tilling1999 /&gt; The tectonic plates ride on top of the asthenosphere, the solid but less-viscous part of the upper mantle that can flow and move along with the plates.&lt;ref name=seligman2008 /&gt;
+
+As the tectonic plates migrate, [[oceanic crust]] is [[Subduction|subducted]] under the leading edges of the plates at convergent boundaries. At the same time, the upwelling of mantle material at divergent boundaries creates mid-ocean ridges. The combination of these processes recycles the oceanic crust back into the mantle. Due to this recycling, most of the ocean floor is less than {{val|100|u=Myr}} old. The oldest oceanic crust is located in the Western Pacific and is estimated to be {{val|200|u=Myr}} old.&lt;ref name=duennebier1999 /&gt;&lt;ref name=noaa20070307 /&gt; By comparison, the oldest dated [[continental crust]] is {{val|4030|u=Myr|fmt=commas}},&lt;ref name=cmp134_3 /&gt; although zircons have been found preserved as clasts within Eoarchean sedimentary rocks that give ages up to {{val|4400|u=Myr|fmt=commas}}, indicating that at least some continental crust existed at that time.&lt;ref name=science310_5756_1947 /&gt;
+
+The seven major plates are the [[Pacific Plate|Pacific]], [[North American Plate|North American]], [[Eurasian Plate|Eurasian]], [[African Plate|African]], [[Antarctic Plate|Antarctic]], [[Indo-Australian Plate|Indo-Australian]], and [[South American Plate|South American]]. Other notable plates include the [[Arabian Plate]], the [[Caribbean Plate]], the [[Nazca Plate]] off the west coast of South America and the [[Scotia Plate]] in the southern Atlantic Ocean. The Australian Plate fused with the Indian Plate between {{val|50|and|55|u=Ma}}. The fastest-moving plates are the oceanic plates, with the [[Cocos Plate]] advancing at a rate of {{convert|75|mm/year|in/year|abbr=on}}&lt;ref name=podp2000 /&gt; and the Pacific Plate moving {{convert|52|–|69|mm/year|in/year|abbr=on}}. At the other extreme, the slowest-moving plate is the South American Plate, progressing at a typical rate of {{convert|10.6|mm/year|in/year|abbr=on}}.&lt;ref name="Argus_etal_2011"&gt;{{Cite journal |last1=Argus |first1=D.F. |last2=Gordon |first2=R.G. |last3=DeMets |first3=C. |date=2011 |title=Geologically current motion of 56 plates relative to the no‐net‐rotation reference frame |journal=Geochemistry, Geophysics, Geosystems |volume=12 |issue=11 |pages=n/a |doi=10.1029/2011GC003751|bibcode=2011GGG....1211001A |doi-access=free }}&lt;/ref&gt;
+
+=== Surface ===
+{{Main|Earth's crust|Landform|Extreme points of Earth|}}
+{{See also|Planetary surface|Geomorphology}}
+[[File:Earth dry elevation.stl|thumb|right|Current Earth without water, elevation greatly exaggerated (click/enlarge to "spin" 3D-globe).]]
+
+The total [[Spheroid#Area|surface area]] of Earth is about {{convert|510|e6km2|e6sqmi|0|abbr=unit}}.&lt;ref name="Pidwirny 2006_8" /&gt; Of this, 70.8%,&lt;ref name="Pidwirny 2006_8" /&gt; or {{convert|361.13|e6km2|e6sqmi|abbr=unit}}, is below sea level and covered by ocean water.&lt;ref&gt;{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html |title=World Factbook |publisher=Cia.gov |access-date=2 November 2012}}&lt;/ref&gt; Below the ocean's surface are much of the [[continental shelf]], mountains, volcanoes,&lt;ref name="ngdc2006" /&gt; oceanic trenches, [[submarine canyon]]s, [[oceanic plateau]]s, abyssal plains, and a globe-spanning mid-ocean ridge system. The remaining 29.2%, or {{convert|148.94|e6km2|e6sqmi|abbr=unit}}, not covered by water has [[terrain]] that varies greatly from place to place and consists of mountains, deserts, plains, plateaus, and other [[landform]]s. The elevation of the land surface varies from the low point of {{convert|-418|m|ft|abbr=on}} at the [[Dead Sea]], to a maximum altitude of {{convert|8848|m|ft|abbr=on}} at the top of Mount Everest. The mean height of land above sea level is about {{convert|797|m|ft|abbr=on}}.&lt;ref&gt;{{cite web|last=Center|first=National Geophysical Data|title=Hypsographic Curve of Earth's Surface from ETOPO1|url=https://ngdc.noaa.gov/mgg/global/etopo1_surface_histogram.html|website=ngdc.noaa.gov}}&lt;/ref&gt;
+
+The continental crust consists of lower density material such as the igneous rocks [[granite]] and [[andesite]]. Less common is [[basalt]], a denser volcanic rock that is the primary constituent of the ocean floors.&lt;ref name=layers_earth /&gt; Sedimentary rock is formed from the accumulation of sediment that becomes buried and [[Diagenesis|compacted together]]. Nearly 75% of the continental surfaces are covered by sedimentary rocks, although they form about 5% of the crust.&lt;ref name=jessey /&gt; The third form of rock material found on Earth is [[metamorphic rock]], which is created from the transformation of pre-existing rock types through high pressures, high temperatures, or both. The most abundant [[silicate mineral]]s on Earth's surface include [[quartz]], [[feldspar]]s, [[amphibole]], [[mica]], [[pyroxene]] and [[olivine]].&lt;ref name=de_pater_lissauer2010 /&gt; Common [[carbonate mineral]]s include [[calcite]] (found in [[limestone]]) and [[Dolomite (mineral)|dolomite]].&lt;ref name=wekn_bulakh2004 /&gt;
+
+[[Erosion and tectonics]], [[Types of volcanic eruptions|volcanic eruptions]], [[flooding]], [[weathering]], [[glaciation]], the growth of [[coral reef]]s, and meteorite impacts are among the processes that constantly reshape Earth's surface over [[geological time]].&lt;ref name="kring" /&gt;&lt;ref&gt;{{cite book|last=Martin|first=Ronald|url=https://books.google.com/books?id=agaOKrvAoeAC|title=Earth's Evolving Systems: The History of Planet Earth|publisher=Jones &amp; Bartlett Learning|year=2011|isbn=978-0-7637-8001-2}}&lt;/ref&gt;
+
+The [[pedosphere]] is the outermost layer of Earth's continental surface and is composed of soil and subject to [[pedogenesis|soil formation processes]]. The total arable land is 10.9% of the land surface, with 1.3% being permanent cropland.&lt;ref&gt;{{cite web |title=World Bank arable land |url=http://data.worldbank.org/indicator/AG.LND.ARBL.ZS/countries/1W?display=graph |publisher=World Bank |access-date=19 October 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=World Bank permanent cropland |url=http://data.worldbank.org/indicator/AG.LND.CROP.ZS/countries?display=graph |publisher=World Bank |access-date=19 October 2015}}&lt;/ref&gt; Close to 40% of Earth's land surface is used for agriculture, or an estimated {{convert|16.7|e6km2|e6sqmi|abbr=unit}} of cropland and {{convert|33.5|e6km2|e6sqmi|abbr=unit}} of pastureland.&lt;ref name="Hooke2012"&gt;{{cite journal |url=https://www.geosociety.org/gsatoday/archive/22/12/pdf/gt1212.pdf |title=Land transformation by humans: A review |journal=GSA Today |first1=Roger LeB. |last1=Hooke |first2=José F. |last2=Martín-Duque |first3=Javier |last3=Pedraza |volume=22 |issue=12 |pages=4–10 |date=December 2012 |doi=10.1130/GSAT151A.1}}&lt;/ref&gt;
+
+=== Gravitational field ===
+{{Main|Gravity of Earth}}
+[[File:Geoids sm.jpg|thumb|Earth's gravity measured by NASA's [[Gravity Recovery and Climate Experiment|GRACE]] mission, showing deviations from the [[theoretical gravity]]. Red shows where gravity is stronger than the smooth, standard value, and blue shows where it is weaker.]]
+
+The [[gravity of Earth]] is the [[acceleration]] that is imparted to objects due to the distribution of mass within Earth. Near Earth's surface, [[gravitational acceleration]] is approximately {{convert|9.8|m/s2|abbr=on}}. Local differences in topography, [[geology]], and deeper tectonic structure cause local and broad, regional differences in Earth's gravitational field, known as [[Gravity anomaly|gravity anomalies]].&lt;ref&gt;{{cite journal |first1=A. B. |last1=Watts |first2=S. F. |last2=Daly |title=Long wavelength gravity and topography anomalies |journal=Annual Review of Earth and Planetary Sciences |volume=9 |pages=415–18 |date=May 1981 |doi=10.1146/annurev.ea.09.050181.002215 |bibcode=1981AREPS...9..415W}}&lt;/ref&gt;
+
+=== Magnetic field ===
+{{Main|Earth's magnetic field}}
+
+The main part of Earth's magnetic field is generated in the core, the site of a [[Dynamo theory|dynamo]] process that converts the kinetic energy of thermally and compositionally driven convection into electrical and magnetic field energy. The field extends outwards from the core, through the mantle, and up to Earth's surface, where it is, approximately, a [[dipole]]. The poles of the dipole are located close to Earth's geographic poles. At the equator of the magnetic field, the magnetic-field strength at the surface is {{nowrap|3.05{{e|−5}} [[Tesla (unit)|T]]}}, with a [[magnetic dipole moment]] of {{nowrap|7.79{{e|22}} Am{{sup|2}}}} at epoch 2000, decreasing nearly 6% per century.&lt;ref name="dipole"&gt;{{citation |last1=Olson |first1=Peter |last2=Amit |first2=Hagay |title=Changes in earth's dipole |url=https://pages.jh.edu/~polson1/pdfs/ChangesinEarthsDipole.pdf |journal=Naturwissenschaften |volume=93 |issue=11 |year=2006 |pages=519–542 |doi=10.1007/s00114-006-0138-6 |pmid=16915369 |bibcode=2006NW.....93..519O|s2cid=22283432 }}&lt;/ref&gt; The convection movements in the core are chaotic; the magnetic poles drift and periodically change alignment. This causes [[Geomagnetic secular variation|secular variation]] of the main field and [[geomagnetic reversal|field reversals]] at irregular intervals averaging a few times every million years. The most recent reversal occurred approximately 700,000 years ago.&lt;ref name="fitzpatrick2006" /&gt;&lt;ref name="campbelwh" /&gt;
+
+==== Magnetosphere ====
+{{Main|Magnetosphere}}
+[[File:Structure of the magnetosphere LanguageSwitch.svg|lang=en|thumb|Schematic of Earth's magnetosphere. The solar wind flows from left to right|alt=Diagram showing the magnetic field lines of Earth's magnetosphere. The lines are swept back in the anti-solar direction under the influence of the solar wind.]]
+
+The extent of Earth's magnetic field in space defines the [[magnetosphere]]. Ions and electrons of the solar wind are deflected by the magnetosphere; solar wind pressure compresses the dayside of the magnetosphere, to about 10 Earth radii, and extends the nightside magnetosphere into a long tail.&lt;ref&gt;{{Cite journal|last1=Ganushkina|first1=N. Yu|last2=Liemohn|first2=M. W.|last3=Dubyagin|first3=S.|date=2018|title=Current Systems in the Earth's Magnetosphere|url=https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017RG000590|journal=Reviews of Geophysics|language=en|volume=56|issue=2|pages=309–332|doi=10.1002/2017RG000590|bibcode=2018RvGeo..56..309G|hdl=2027.42/145256|issn=1944-9208|hdl-access=free}}&lt;/ref&gt; Because the velocity of the solar wind is greater than the speed at which waves propagate through the solar wind, a supersonic [[bow shock]] precedes the dayside magnetosphere within the solar wind.&lt;ref&gt;{{cite web |url=http://sci.esa.int/jump.cfm?oid=40994 |title=Cluster reveals the reformation of the Earth's bow shock |publisher=European Space Agency |first=Arnaud |last=Masson |date=11 May 2007 |access-date=16 August 2016}}&lt;/ref&gt; [[Charged particle]]s are contained within the magnetosphere; the plasmasphere is defined by low-energy particles that essentially follow magnetic field lines as Earth rotates.&lt;ref&gt;{{cite web |url=http://plasmasphere.nasa.gov/ |title=The Earth's Plasmasphere |publisher=NASA/Marshall Space Flight Center |last=Gallagher |first=Dennis L. |date=14 August 2015 |access-date=16 August 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://plasmasphere.nasa.gov/formed.html |title=How the Plasmasphere is Formed |publisher=NASA/Marshall Space Flight Center |last=Gallagher |first=Dennis L. |date=27 May 2015 |access-date=16 August 2016}}&lt;/ref&gt; The ring current is defined by medium-energy particles that drift relative to the geomagnetic field, but with paths that are still dominated by the magnetic field,&lt;ref name="BaumjohannTreumann1997"&gt;{{cite book |title=Basic Space Plasma Physics |publisher=World Scientific |first1=Wolfgang |last1=Baumjohann |first2=Rudolf A. |last2=Treumann |pages=8, 31 |year=1997 |isbn=978-1-86094-079-8}}&lt;/ref&gt; and the [[Van Allen radiation belt]]s are formed by high-energy particles whose motion is essentially random, but contained in the magnetosphere.&lt;ref name="Britannica"&gt;{{cite encyclopedia |url=https://www.britannica.com/science/ionosphere-and-magnetosphere/Magnetosphere |title=Ionosphere and magnetosphere |encyclopedia=Encyclopædia Britannica |publisher=Encyclopædia Britannica, Inc. |first=Michael B. |last=McElroy |year=2012}}&lt;/ref&gt;&lt;ref name="Van Allen"&gt;{{cite book |title=Origins of Magnetospheric Physics |publisher=University of Iowa Press |last=Van Allen |first=James Alfred |date=2004 |isbn=978-0-87745-921-7 |oclc=646887856}}&lt;/ref&gt;
+
+During [[magnetic storm]]s and [[substorm]]s, charged particles can be deflected from the outer magnetosphere and especially the magnetotail, directed along field lines into Earth's ionosphere, where atmospheric atoms can be excited and ionized, causing the [[Aurora (astronomy)|aurora]].&lt;ref name="stern2005" /&gt;
+
+== Orbit and rotation ==
+
+=== Rotation ===
+{{Main|Earth's rotation}}
+[[File:EpicEarth-Globespin(2016May29).gif|thumb|right|Earth's rotation imaged by [[Deep Space Climate Observatory|DSCOVR EPIC]] on 29 May 2016, a few weeks before a [[solstice]].]]
+
+Earth's rotation period relative to the Sun—its mean solar day—is {{nowrap|86,400 seconds}} of mean solar time ({{nowrap|86,400.0025 [[SI]] seconds}}).&lt;ref name="aj136_5_1906" /&gt; Because Earth's solar day is now slightly longer than it was during the 19th century due to [[tidal acceleration|tidal deceleration]], each day varies between {{nowrap|0 and 2 [[millisecond|ms]]}} longer than the mean solar day.&lt;ref name="USNO_TSD" /&gt;&lt;ref&gt;{{cite journal |title=Rapid Service/Prediction of Earth Orientation |journal=IERS Bulletin-A |date=9 April 2015 |volume=28 |issue=15 |url=http://maia.usno.navy.mil/ser7/ser7.dat |access-date=12 April 2015 |format=.DAT file (displays as plaintext in browser) |archive-url=https://web.archive.org/web/20150314182157/http://maia.usno.navy.mil/ser7/ser7.dat |archive-date=14 March 2015 |url-status=dead }}&lt;/ref&gt;
+
+Earth's rotation period relative to the [[fixed star]]s, called its ''stellar day'' by the [[International Earth Rotation and Reference Systems Service]] (IERS), is {{nowrap|86,164.0989 seconds}} of mean solar time ([[UT1]]), or {{nowrap |23{{smallsup|h}} 56{{smallsup|m}} 4.0989{{smallsup|s}}.}}&lt;ref name="IERS" /&gt;&lt;ref group="n" name="Aoki" /&gt; Earth's rotation period relative to the [[precession (astronomy)|precessing]] or moving mean [[March equinox]] (when the Sun is at 90° on the equator)&lt;!-- , misnamed its ''[[sidereal day]]'' [don't know what is this] --&gt;, is {{nowrap|86,164.0905 seconds}} of mean solar time (UT1) {{nowrap|(23{{smallsup|h}} 56{{smallsup|m}} 4.0905{{smallsup|s}})}}.&lt;ref name="IERS" /&gt; Thus the sidereal day is shorter than the stellar day by about 8.4&amp;nbsp;ms.&lt;ref name="seidelmann1992" /&gt;
+
+Apart from meteors within the atmosphere and low-orbiting satellites, the main apparent motion of celestial bodies in Earth's sky is to the west at a rate of 15°/h = 15'/min. For bodies near the [[celestial equator]], this is equivalent to an apparent diameter of the Sun or the Moon every two minutes; from Earth's surface, the apparent sizes of the Sun and the Moon are approximately the same.&lt;ref name="zeilik1998" /&gt;&lt;ref name="angular" /&gt;
+
+=== Orbit ===
+{{Main|Earth's orbit}}
+[[File:PIA23645-Earth-PaleBlueDot-6Bkm-Voyager1-orig19900214-upd20200212.jpg|thumb|left|upright|The ''[[Pale Blue Dot]]'' photo taken in 1990 by the ''[[Voyager 1]]'' spacecraft showing Earth (center right) from nearly {{convert|3.7|e9mi|e9km|order=flip|abbr=unit}} away, about 5.6 hours at [[light speed]].&lt;ref name="NASA-20200212"&gt;{{cite news |author=Staff |title=Pale Blue Dot Revisited | url=https://photojournal.jpl.nasa.gov/catalog/PIA23645 |date=12 February 2020 |work=[[NASA]] |access-date=12 February 2020 }}&lt;/ref&gt;]]
+
+Earth orbits the Sun at an average distance of about {{convert|150|e6km|e6mi|abbr=unit}} every 365.2564 mean solar days, or one [[sidereal year]]. This gives an apparent movement of the Sun eastward with respect to the stars at a rate of about 1°/day, which is one apparent Sun or Moon diameter every 12&amp;nbsp;hours. Due to this motion, on average it takes 24&amp;nbsp;hours—a [[Solar time|solar day]]—for Earth to complete a full rotation about its axis so that the Sun returns to the [[Meridian (astronomy)|meridian]]. The orbital speed of Earth averages about {{convert|29.78|km/s|km/h mph|abbr=on}}, which is fast enough to travel a distance equal to Earth's diameter, about {{convert|12742|km|mi|abbr=on}}, in seven minutes, and the distance to the Moon, {{convert|384000|km|mi|abbr=on}}, in about 3.5 hours.&lt;ref name="earth_fact_sheet" /&gt;
+
+The Moon and Earth orbit a common [[barycenter]] every 27.32&amp;nbsp;days relative to the background stars. When combined with the Earth–Moon system's common orbit around the Sun, the period of the [[synodic month]], from new moon to new moon, is 29.53&amp;nbsp;days. Viewed from the [[celestial pole|celestial north pole]], the motion of Earth, the Moon, and their axial rotations are all [[counterclockwise]]. Viewed from a vantage point above the north poles of both the Sun and Earth, Earth orbits in a counterclockwise direction about the Sun. The orbital and axial planes are not precisely aligned: Earth's [[axial tilt|axis is tilted]] some 23.44&amp;nbsp;degrees from the perpendicular to the Earth–Sun plane (the [[ecliptic]]), and the Earth–Moon plane is tilted up to ±5.1&amp;nbsp;degrees against the Earth–Sun plane. Without this tilt, there would be an eclipse every two weeks, alternating between [[lunar eclipse]]s and [[solar eclipse]]s.&lt;ref name="earth_fact_sheet" /&gt;&lt;ref name="moon_fact_sheet" /&gt;
+
+The [[Hill sphere]], or the sphere of [[Gravity|gravitational]] influence, of Earth is about {{convert|1.5|e6km|mi|abbr=unit}} in radius.&lt;ref name="vazquez_etal2006" /&gt;&lt;ref group="n" name="hill_radius" /&gt; This is the maximum distance at which Earth's gravitational influence is stronger than the more distant Sun and planets. Objects must orbit Earth within this radius, or they can become unbound by the gravitational perturbation of the Sun.&lt;ref name="vazquez_etal2006" /&gt;
+
+Earth, along with the Solar System, is situated in the [[Milky Way]] and orbits about 28,000&amp;nbsp;[[light-year]]s from its center. It is about 20&amp;nbsp;light-years above the [[galactic plane]] in the [[Orion Arm]].&lt;ref name="nasa20051201" /&gt;
+
+=== Axial tilt and seasons ===
+{{Main|Axial tilt#Earth}}
+[[File:AxialTiltObliquity.png|thumb|right|Earth's axial tilt (or [[obliquity]]) and its relation to the [[rotation]] axis and [[Orbital plane (astronomy)|plane of orbit]] ]]
+
+The axial tilt of Earth is approximately 23.439281°&lt;ref name="IERS" /&gt; with the axis of its orbit plane, always pointing towards the [[Celestial Poles]]. Due to Earth's axial tilt, the amount of sunlight reaching any given point on the surface varies over the course of the year. This causes the seasonal change in climate, with [[summer]] in the [[Northern Hemisphere]] occurring when the [[Tropic of Cancer]] is facing the Sun, and [[winter]] taking place when the [[Tropic of Capricorn]] in the [[Southern Hemisphere]] faces the Sun. During the summer, the day lasts longer, and the Sun climbs higher in the sky. In winter, the climate becomes cooler and the days shorter.&lt;ref&gt;{{cite book|last1=Rohli|first1=Robert. V.|title=Climatology|last2=Vega|first2=Anthony J.|publisher=Jones &amp; Bartlett Learning|year=2018|isbn=978-1-284-12656-3|edition=fourth|pages=291–292}}&lt;/ref&gt; Above the [[Arctic Circle]] and below the [[Antarctic Circle]] there is no daylight at all for part of the year, causing a [[polar night]], and this night extends for several months at the poles themselves. These same latitudes also experience a [[midnight sun]], where the sun remains visible all day.&lt;ref&gt;{{cite book|last=Burn|first=Chris|title=The Polar Night|url=http://nwtresearch.com/sites/default/files/the-polar-night.pdf|work=The Aurora Research Institute|date=March 1996|access-date=28 September 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.antarctica.gov.au/about-antarctica/weather-and-climate/weather/sunlight-hours/|title=Sunlight Hours|work=Australian Antarctic Programme|date=24 June 2020|access-date=13 October 2020}}&lt;/ref&gt;
+
+By astronomical convention, the four seasons can be determined by the solstices—the points in the orbit of maximum axial tilt toward or away from the Sun—and the [[equinox]]es, when Earth's rotational axis is aligned with its orbital axis. In the Northern Hemisphere, [[winter solstice]] currently occurs around 21 December; [[summer solstice]] is near 21 June, spring equinox is around 20 March and [[September equinox|autumnal equinox]] is about 22 or 23 September. In the Southern Hemisphere, the situation is reversed, with the summer and winter solstices exchanged and the spring and autumnal equinox dates swapped.&lt;ref name="bromberg2008" /&gt;
+
+The angle of Earth's axial tilt is relatively stable over long periods of time. Its axial tilt does undergo [[nutation]]; a slight, irregular motion with a main period of 18.6&amp;nbsp;years.&lt;ref name="lin2006" /&gt; The orientation (rather than the angle) of Earth's axis also changes over time, [[axial precession|precessing]] around in a complete circle over each 25,800&amp;nbsp;year cycle; this precession is the reason for the difference between a sidereal year and a [[tropical year]]. Both of these motions are caused by the varying attraction of the Sun and the Moon on Earth's equatorial bulge. The poles also migrate a few meters across Earth's surface. This [[polar motion]] has multiple, cyclical components, which collectively are termed [[quasiperiodic motion]]. In addition to an annual component to this motion, there is a 14-month cycle called the [[Chandler wobble]]. Earth's rotational velocity also varies in a phenomenon known as length-of-day variation.&lt;ref name="fisher19960205" /&gt;
+
+In modern times, Earth's [[perihelion]] occurs around 3 January, and its [[aphelion]] around 4 July. These dates change over time due to precession and other orbital factors, which follow cyclical patterns known as [[Milankovitch cycles]]. The changing Earth–Sun distance causes an increase of about 6.8% in solar energy reaching Earth at perihelion relative to aphelion.&lt;ref&gt;{{cite web|url=https://climate.nasa.gov/news/2948/milankovitch-orbital-cycles-and-their-role-in-earths-climate/|title=Milankovitch (Orbital) Cycles and Their Role in Earth's Climate|work=NASA|last1=Buis|first1=Alan|date=February 27, 2020|access-date=October 27, 2020}}&lt;/ref&gt;&lt;ref group="n" name="solar_energy" /&gt; Because the Southern Hemisphere is tilted toward the Sun at about the same time that Earth reaches the closest approach to the Sun, the Southern Hemisphere receives slightly more energy from the Sun than does the northern over the course of a year. This effect is much less significant than the total energy change due to the axial tilt, and most of the excess energy is absorbed by the higher proportion of water in the Southern Hemisphere.&lt;ref&gt;{{cite web|url=http://ocp.ldeo.columbia.edu/res/div/ocp/pub/seager/Kang_Seager_subm.pdf|title=Croll Revisited: Why is the Northern Hemisphere Warmer than the Southern Hemisphere?|work=Columbia University|last1=Kang|first1=Sarah M.|last2=Seager|first2=Richard|location=New York City|access-date=October 27, 2020}}&lt;/ref&gt;
+
+== Earth-Moon system ==
+{{Main|Orbit of the Moon|Satellite system (astronomy)}}
+{{Also|Claimed moons of Earth|Quasi-satellite|Co-orbital moon|Co-orbital configuration|Temporary satellite}}
+
+=== Moon ===
+{{Main|Moon|Lunar theory}}
+{| class="wikitable" style="float: right; margin-left: 0.5em;"
+|+ Characteristics
+|-
+| colspan="2" | [[File:FullMoon2010.jpg|center|200px|[[Full moon]] as seen from Earth's [[Northern Hemisphere]]]]
+|-
+| '''Diameter''' || {{val|3474.8|u=km|fmt=commas}}
+|-
+| '''Mass''' || {{val|7.349|e=22|u=kg}}
+|-
+| '''[[Semi-major axis]]''' || {{val|384400|u=km|fmt=commas}}
+|-
+| '''Orbital period''' || {{nowrap|27{{smallsup|d}} 7{{smallsup|h}} 43.7{{smallsup|m}}}}
+|}
+
+The Moon is a relatively large, [[Terrestrial planet|terrestrial]], planet-like [[natural satellite]], with a diameter about one-quarter of Earth's. It is the largest moon in the Solar System relative to the size of its planet, although [[Charon (moon)|Charon]] is larger relative to the [[dwarf planet]] [[Pluto]].&lt;ref&gt;{{cite web|url=https://astronomy.com/news/2019/06/whats-so-special-about-our-moon-anyway|title=What's so special about our Moon, anyway?|work=[[Astronomy (magazine)|Astronomy]]|last1=Klemetti|first1=Erik|date=June 17, 2019|access-date=October 13, 2020}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://solarsystem.nasa.gov/moons/pluto-moons/charon/in-depth/#:~:text=At%20half%20the%20size%20of,phenomenon%20called%20mutual%20tidal%20locking.|title=Charon|website=NASA|date=December 19, 2019|access-date=October 13, 2020}}&lt;/ref&gt; The natural satellites of other planets are also referred to as "moons", after Earth's.&lt;ref&gt;{{cite web|url=https://theconversation.com/curious-kids-why-is-the-moon-called-the-moon-127899|title=Curious Kids: Why is the moon called the moon?|website=The Conversation|last1=Brown|first1=Toby|date=December 2, 2019|access-date=October 13, 2020}}&lt;/ref&gt; The most widely accepted theory of the Moon's origin, the [[giant-impact hypothesis]], states that it formed from the collision of a Mars-size protoplanet called Theia with the early Earth. This hypothesis explains (among other things) the Moon's relative lack of iron and volatile elements and the fact that its composition is nearly identical to that of Earth's crust.&lt;ref name="canup_asphaug2001b" /&gt;
+
+The gravitational attraction between Earth and the Moon causes [[tide]]s on Earth.&lt;ref&gt;{{Cite journal|last1=Coughenour|first1=Christopher L.|last2=Archer|first2=Allen W.|last3=Lacovara|first3=Kenneth J.|date=2009|title=Tides, tidalites, and secular changes in the Earth–Moon system|url=http://www.sciencedirect.com/science/article/pii/S0012825209001445|journal=Earth-Science Reviews|language=en|volume=97|issue=1|pages=59–79|doi=10.1016/j.earscirev.2009.09.002|bibcode=2009ESRv...97...59C|issn=0012-8252}}&lt;/ref&gt; The same effect on the Moon has led to its [[tidal locking]]: its rotation period is the same as the time it takes to orbit Earth. As a result, it always presents the same face to the planet.&lt;ref&gt;{{Cite web|last=Kelley|first=Peter|date=17 August 2017|title=Tidally locked exoplanets may be more common than previously thought|url=https://www.washington.edu/news/2017/08/14/tidally-locked-exoplanets-may-be-more-common-than-previously-thought/|access-date=2020-10-08|website=University of Washington News|language=en}}&lt;/ref&gt; As the Moon orbits Earth, different parts of its face are illuminated by the Sun, leading to the [[lunar phase]]s.&lt;ref&gt;{{Cite web|title=Lunar Phases and Eclipses {{!}} Earth's Moon|url=https://solarsystem.nasa.gov/moons/earths-moon/lunar-phases-and-eclipses|access-date=2020-10-08|website=NASA Solar System Exploration}}&lt;/ref&gt; Due to their tidal interaction, the Moon recedes from Earth at the rate of approximately {{convert|38|mm/yr|in/yr|abbr=on}}. Over millions of years, these tiny modifications—and the lengthening of Earth's day by about 23&amp;nbsp;[[Microsecond|µs]]/yr—add up to significant changes.&lt;ref name="espenak_meeus20070207" /&gt; During the [[Ediacaran]] period, for example, (approximately {{val|620|u=Ma}}) there were 400±7 days in a year, with each day lasting 21.9±0.4 hours.&lt;ref name="Williams_2000"&gt;{{Cite journal |last=Williams |first=G.E. |date=2000 |title=Geological constraints on the Precambrian history of Earth's rotation and the Moon's orbit |journal=Reviews of Geophysics |volume=38 |issue=1 |pages=37–59 |doi=10.1029/1999RG900016|bibcode=2000RvGeo..38...37W }}&lt;/ref&gt;
+
+The Moon may have dramatically affected the development of life by moderating the planet's climate. [[Paleontology|Paleontological]] evidence and computer simulations show that Earth's axial tilt is stabilized by tidal interactions with the Moon.&lt;ref name="aaa428_261" /&gt; Some theorists think that without this stabilization against the [[torque]]s applied by the Sun and planets to Earth's equatorial bulge, the rotational axis might be chaotically unstable, exhibiting large changes over millions of years, as is the case for Mars, though this is disputed.&lt;ref&gt;{{cite web|url=https://phys.org/news/2015-01-earth-moon-critical-life.html#:~:text=Lissauer's%20team%20found%20that%20without,day%20angle%20of%2023.5%20degrees.|title=Earth's moon may not be critical to life|work=[[Phys.org]]|last1=Cooper|first1=Keith|date=January 27, 2015|access-date=October 26, 2020}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|url=http://web.mit.edu/perron/www/files/Daradich08.pdf|title=Equilibrium rotational stability and figure of Mars|journal=Icarus|last1=Dadarich|first1=Amy|first2=Jerry X.|last2=Mitrovica|first3=Isamu|last3=Matsuyama|first4=J. Taylor|last4=Perron|first5=Michael|last5=Manga|first6=Mark A.|last6=Richards|date=November 22, 2007|volume=194|issue=2|pages=463–475|access-date=October 26, 2020|doi=10.1016/j.icarus.2007.10.017}}&lt;/ref&gt;
+
+Viewed from Earth, the Moon is just far enough away to have almost the same apparent-sized disk as the Sun. The [[angular size]] (or [[solid angle]]) of these two bodies match because, although the Sun's diameter is about 400 times as large as the Moon's, it is also 400 times more distant.&lt;ref name="angular" /&gt; This allows total and annular solar eclipses to occur on Earth.&lt;ref&gt;{{cite web|url=https://blogs.scientificamerican.com/life-unbounded/the-solar-eclipse-coincidence/|title=The Solar Eclipse Coincidence|work=[[Scientific American]]|last1=Sharf|first1=Caleb A.|date=May 18, 2012|access-date=October 13, 2020|author1-link=Caleb Scharf}}&lt;/ref&gt;
+
+=== Asteroids and artificial satellites ===
+{{Main|Near-Earth object|}}
+[[File:Tracy Caldwell Dyson in Cupola ISS.jpg|thumb|[[Tracy Caldwell Dyson]] viewing Earth from the [[ISS]] Cupola, 2010]]
+
+Earth's [[Co-orbital configuration|co-orbital asteroids]] population consists of [[quasi-satellite]]s, objects with a [[horseshoe orbit]] and [[Trojan (celestial body)|trojans]]. There are at least five quasi-satellites, including [[469219 Kamoʻoalewa]].&lt;ref name="christou_asher2011" /&gt;&lt;ref&gt;{{cite journal|url=https://academic.oup.com/mnras/article/462/4/3441/2589984|title=Asteroid (469219) 2016 HO3, the smallest and closest Earth quasi-satellite|journal=Monthly Notices of the Royal Astronomical Society|last1=Marcos|first1=C. de la Fuente|last2=Marcos|first2=R. de la Fuente|date=August 8, 2016|doi=10.1093/mnras/stw1972|page=3441-3456|volume=462|issue=4|arxiv=1608.01518|bibcode=2016MNRAS.462.3441D|s2cid=118580771|access-date=October 28, 2020}}&lt;/ref&gt; A [[Earth trojan|trojan asteroid]] companion, {{mpl|2010 TK|7}}, is [[Libration|librating]] around the leading [[Lagrangian point|Lagrange triangular point]], L4, in [[Earth's orbit]] around the Sun.&lt;ref name="Connors" /&gt;&lt;ref name="Choi" /&gt; The tiny [[near-Earth asteroid]] {{mpl|2006 RH|120}} makes close approaches to the Earth–Moon system roughly every twenty years. During these approaches, it can orbit Earth for brief periods of time.&lt;ref&gt;{{cite web |title=2006 RH120 ( = 6R10DB9) (A second moon for the Earth?) |url=http://www.birtwhistle.org/Gallery6R10DB9.htm |website=Great Shefford Observatory |publisher=Great Shefford Observatory |access-date=17 July 2015 |archive-url=https://web.archive.org/web/20150206154817/http://www.birtwhistle.org/Gallery6R10DB9.htm |archive-date=6 February 2015}}&lt;/ref&gt;
+
+{{As of|2020|4}}, there are 2,666 operational, human-made [[satellite]]s orbiting Earth.&lt;ref name="ucs" /&gt; There are also inoperative satellites, including [[Vanguard 1]], the oldest satellite currently in orbit, and over 16,000 pieces of tracked [[space debris]].&lt;ref group="n" name="space_debris" /&gt; Earth's largest artificial satellite is the [[International Space Station]].&lt;ref&gt;{{Cite book|last1=Welch|first1=Rosanne|url=https://books.google.com/books?id=aWGHDwAAQBAJ&amp;q=largest+artificial+satellite&amp;pg=RA2-PA126|title=Technical Innovation in American History: An Encyclopedia of Science and Technology [3 volumes]|last2=Lamphier|first2=Peg A.|date=2019-02-22|publisher=ABC-CLIO|isbn=978-1-61069-094-2|page=126|language=en}}&lt;/ref&gt;
+
+== Hydrosphere ==
+{{Main|Hydrosphere}}
+[[File:Diagram of the Water Cycle.jpg|alt=Water typically evaporates over water surfaces like oceans and is transported to land via the atmosphere. Precipitation in the form of snow, rain and more then brings it back to the surface. A system of rivers brings the water back to oceans and seas.|left|thumb|300x300px|Water is transported to various parts of the hydrosphere via the [[water cycle]].]]
+The abundance of [[water]] on Earth's surface is a unique feature that distinguishes the "Blue Planet" from other planets in the Solar System. Earth's hydrosphere consists chiefly of the oceans, but technically includes all water surfaces in the world, including inland seas, lakes, rivers, and underground waters down to a depth of {{convert|2000|m|ft|abbr=on}}. The mass of the oceans is approximately 1.35{{e|18}}&amp;nbsp;[[metric ton]]s or about 1/4400 of Earth's total mass. The oceans cover an area of {{convert|361.8|e6km2|e6mi2|abbr=unit}} with a mean depth of {{convert|3682|m|ft|abbr=on}}, resulting in an estimated volume of {{convert|1.332|e9km3|e6cumi|abbr=unit}}.&lt;ref name="ocean23_2_112" /&gt; If all of Earth's crustal surface were at the same elevation as a smooth sphere, the depth of the resulting world ocean would be {{convert|2.7|to|2.8|km|mi|2|abbr=on}}.&lt;ref&gt;{{cite web|title=Third rock from the Sun&amp;nbsp;– restless Earth|url=https://ase.tufts.edu/cosmos/print_chapter.asp?id=4|access-date=12 April 2015|work=NASA's Cosmos}}&lt;/ref&gt; About 97.5% of the water is [[saline water|saline]]; the remaining 2.5% is [[fresh water]].&lt;ref&gt;{{Cite web|title=On Water|url=https://www.eib.org/en/publications/eib-big-ideas-on-water|access-date=2020-12-07|website=European Investment Bank|language=en}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|title=Chart: Globally, 70% of Freshwater is Used for Agriculture|url=https://blogs.worldbank.org/opendata/chart-globally-70-freshwater-used-agriculture|access-date=7 December 2020|website=World Bank Blogs|date=March 22, 2017|last1=Khokhar|first1=Tariq|language=en}}&lt;/ref&gt; Most fresh water, about 68.7%, is present as ice in [[ice cap]]s and [[glacier]]s.&lt;ref&gt;{{cite web|last1=Perlman|first1=Howard|date=17 March 2014|title=The World's Water|url=https://water.usgs.gov/edu/earthwherewater.html|access-date=12 April 2015|work=USGS Water-Science School}}&lt;/ref&gt;
+
+In Earth's coldest regions, snow survives over the summer and [[Ice formation|changes into ice]]. This accumulated snow and ice eventually forms into [[glacier]]s, bodies of ice that flow under the influence of their own gravity. [[Alpine glaciers]] form in mountainous areas, whereas vast [[ice sheets]] form over land in polar regions. The flow of glaciers erodes the surface changing it dramatically, with the formation of [[U-shaped valley]]s and other landforms.&lt;ref&gt;{{Cite book|last=Hendrix|first=Mark|title=Earth Science: An Introduction|publisher=Cengage|year=2019|isbn=978-0-357-11656-2|location=Bosten|pages=330}}&lt;/ref&gt; [[Sea ice]] in the Arctic covers an area about as big as the United States, although it is quickly retreating as a consequence of climate change.&lt;ref&gt;{{Cite book|last=Hendrix|first=Mark|title=Earth Science: An Introduction|publisher=Cengage|year=2019|isbn=978-0-357-11656-2|location=Bosten|pages=329}}&lt;/ref&gt;
+
+The average [[salinity]] of Earth's oceans is about 35&amp;nbsp;grams of salt per kilogram of sea water (3.5% salt).&lt;ref name=kennish2001 /&gt; Most of this salt was released from volcanic activity or extracted from cool igneous rocks.&lt;ref name=mullen2002 /&gt; The oceans are also a reservoir of dissolved atmospheric gases, which are essential for the survival of many aquatic life forms.&lt;ref name=natsci_oxy4 /&gt; Sea water has an important influence on the world's climate, with the oceans acting as a large [[heat reservoir]].&lt;ref name=michon2006 /&gt; Shifts in the oceanic temperature distribution can cause significant weather shifts, such as the [[El Niño–Southern Oscillation]].&lt;ref name=sample2005 /&gt;
+
+== Atmosphere ==
+{{Main|Atmosphere of Earth}}
+{{multiple image
+| align = right
+| direction = vertical
+| width = 220
+| image1 = MODIS Map.jpg
+| caption1 = Satellite image of Earth [[cloud cover]] using [[NASA]]'s [[Moderate-Resolution Imaging Spectroradiometer]]
+}}
+
+The [[atmospheric pressure]] at Earth's [[sea level]] averages {{convert|101.325|kPa|psi|3|abbr=on}},&lt;ref name="Exline2006"&gt;{{cite book|last1=Exline|first1=Joseph D.|url=https://www.nasa.gov/pdf/288978main_Meteorology_Guide.pdf|title=Meteorology: An Educator's Resource for Inquiry-Based Learning for Grades 5–9|last2=Levine|first2=Arlene S.|last3=Levine|first3=Joel S.|date=2006|publisher=NASA/Langley Research Center|page=6|id=NP-2006-08-97-LaRC}}&lt;/ref&gt; with a [[scale height]] of about {{convert|8.5|km|mi|abbr=on}}.&lt;ref name="earth_fact_sheet" /&gt; A dry atmosphere is composed of 78.084% [[nitrogen]], 20.946% oxygen, 0.934% [[argon]], and trace amounts of carbon dioxide and other gaseous molecules.&lt;ref name="Exline2006" /&gt; [[Water vapor]] content varies between 0.01% and 4%&lt;ref name="Exline2006" /&gt; but averages about 1%.&lt;ref name="earth_fact_sheet" /&gt; The height of the [[troposphere]] varies with latitude, ranging between {{convert|8|km|mi|0|abbr=on}} at the poles to {{convert|17|km|mi|0|abbr=on}} at the equator, with some variation resulting from weather and seasonal factors.&lt;ref name=geerts_linacre97 /&gt;
+
+Earth's [[biosphere]] has significantly altered its [[Atmosphere of Earth|atmosphere]]. [[Oxygen evolution#Oxygen evolution in nature|Oxygenic photosynthesis]] evolved {{val|2.7|u=Gya}}, [[oxygen catastrophe|forming]] the primarily nitrogen–oxygen atmosphere of today.&lt;ref name="NYT-20131003" /&gt; This change enabled the proliferation of [[aerobic organisms]] and, indirectly, the formation of the ozone layer due to the subsequent [[Ozone–oxygen cycle|conversion of atmospheric {{chem2|O2}} into {{chem2|O3}}]]. The ozone layer blocks [[ultraviolet]] [[solar radiation]], permitting life on land.&lt;ref name="Harrison 2002" /&gt; Other atmospheric functions important to life include transporting water vapor, providing useful gases, causing small [[meteor]]s to burn up before they strike the surface, and moderating temperature.&lt;ref name="atmosphere" /&gt; This last phenomenon is known as the [[greenhouse effect]]: trace molecules within the atmosphere serve to capture [[thermal energy]] emitted from the ground, thereby raising the average temperature. Water vapor, carbon dioxide, [[methane]], [[nitrous oxide]], and [[ozone]] are the primary greenhouse gases in the atmosphere. Without this heat-retention effect, the average surface temperature would be {{convert|−18|C|F}}, in contrast to the current {{convert|+15|C|F}},&lt;ref name="Pidwirny2006_7" /&gt; and life on Earth probably would not exist in its current form.&lt;ref name=Narottam2008 /&gt;
+
+=== Weather and climate ===
+{{Main|Weather|Climate}}
+Earth's atmosphere has no definite boundary, slowly becoming thinner and fading into outer space. Three-quarters of the atmosphere's mass is contained within the first {{convert|11|km|mi|abbr=on}} of the surface. This lowest layer is called the troposphere. Energy from the Sun heats this layer, and the surface below, causing expansion of the air. This lower-density air then rises and is replaced by cooler, higher-density air. The result is [[atmospheric circulation]] that drives the weather and climate through redistribution of thermal energy.&lt;ref name="moran2005" /&gt;
+
+{{multiple image
+| align = left
+| direction = vertical
+| width = 220
+| image1 = Felix from ISS 03 sept 2007 1138Z.jpg
+| caption1 = [[Hurricane Felix]] seen from low Earth orbit, September 2007
+| image2 = 3D-Clouds.jpg
+| caption2 = Massive clouds above the [[Mojave Desert]], February 2016
+}}
+
+The primary atmospheric circulation bands consist of the [[trade winds]] in the equatorial region below 30° latitude and the [[westerlies]] in the mid-latitudes between 30° and 60°.&lt;ref name="berger2002" /&gt; [[Ocean current]]s are also important factors in determining climate, particularly the [[thermohaline circulation]] that distributes thermal energy from the equatorial oceans to the polar regions.&lt;ref name=rahmstorf2003 /&gt;
+
+The amount of solar energy reaching Earth's surface decreases with increasing latitude. At higher latitudes, the sunlight reaches the surface at lower angles, and it must pass through thicker columns of the atmosphere. As a result, the mean annual air temperature at sea level decreases by about {{convert|0.4|C-change|F-change|1}} per degree of latitude from the equator.&lt;ref name="sadava_heller2006" /&gt; Earth's surface can be subdivided into specific latitudinal belts of approximately homogeneous climate. Ranging from the equator to the polar regions, these are the [[Tropics|tropical]] (or equatorial), [[Subtropics|subtropical]], [[temperate]] and [[Polar region|polar]] climates.&lt;ref name="climate_zones" /&gt;
+
+Further factors that affect a location's climates are its [[Continentality|proximity to oceans]], the oceanic and atmospheric circulation, and topology.&lt;ref&gt;{{cite book|last1=Rohli|first1=Robert. V.|title=Climatology|last2=Vega|first2=Anthony J.|publisher=Jones &amp; Bartlett Learning|year=2018|isbn=978-1-284-12656-3|edition=fourth|pages=49}}&lt;/ref&gt; Places close to oceans typically have colder summers and warmer winters, due to the fact that oceans can the store large amounts of heat. The wind transports the cold or the heat of the ocean to the land.&lt;ref&gt;{{cite book|last1=Rohli|first1=Robert. V.|title=Climatology|last2=Vega|first2=Anthony J.|publisher=Jones &amp; Bartlett Learning|year=2018|isbn=978-1-284-12656-3|edition=fourth|pages=32}}&lt;/ref&gt; Atmospheric circulation also plays an important role: [[San Francisco]] and [[Washington DC]] are both coastal cities at about the same latitude. San Francisco's climate is significantly more moderate as the prevailing wind direction is from sea to land.&lt;ref&gt;{{cite book|last1=Rohli|first1=Robert. V.|title=Climatology|last2=Vega|first2=Anthony J.|publisher=Jones &amp; Bartlett Learning|year=2018|isbn=978-1-284-12656-3|edition=fourth|pages=34}}&lt;/ref&gt; Finally, temperatures [[Lapse rate|decrease with height]] causing mountainous areas to be colder than low-lying areas.&lt;ref&gt;{{cite book|last1=Rohli|first1=Robert. V.|title=Climatology|last2=Vega|first2=Anthony J.|publisher=Jones &amp; Bartlett Learning|year=2018|isbn=978-1-284-12656-3|edition=fourth|pages=46}}&lt;/ref&gt;
+
+Water vapor generated through surface evaporation is transported by circulatory patterns in the atmosphere. When atmospheric conditions permit an uplift of warm, humid air, this water condenses and falls to the surface as precipitation.&lt;ref name="moran2005" /&gt; Most of the water is then transported to lower elevations by river systems and usually returned to the oceans or deposited into lakes. This water cycle is a vital mechanism for supporting life on land and is a primary factor in the erosion of surface features over geological periods. Precipitation patterns vary widely, ranging from several meters of water per year to less than a millimeter. Atmospheric circulation, topographic features, and temperature differences determine the average precipitation that falls in each region.&lt;ref name="hydrologic_cycle" /&gt;
+
+The commonly used [[Köppen climate classification]] system has five broad groups ([[tropical climate|humid tropics]], [[arid]], [[humid subtropical climate|humid middle latitudes]], [[Continental climate|continental]] and cold [[polar climate|polar]]), which are further divided into more specific subtypes.&lt;ref name="berger2002" /&gt; The Köppen system rates regions based on observed temperature and precipitation.&lt;ref&gt;{{cite book|last1=Rohli|first1=Robert. V.|title=Climatology|last2=Vega|first2=Anthony J.|publisher=Jones &amp; Bartlett Learning|year=2018|isbn=978-1-284-12656-3|edition=fourth|pages=159}}&lt;/ref&gt; Surface [[Highest temperature recorded on Earth|air temperature can rise to]] around {{convert|55|C|F}} in [[hot desert]]s, such as [[Death Valley National Park|Death Valley]], and [[Lowest temperature recorded on Earth|can fall as low as]] {{convert|-89|C|F}} in [[Antarctica]].&lt;ref&gt;{{Cite journal|last1=El Fadli|first1=Khalid I.|last2=Cerveny|first2=Randall S.|last3=Burt|first3=Christopher C.|last4=Eden|first4=Philip|last5=Parker|first5=David|last6=Brunet|first6=Manola|last7=Peterson|first7=Thomas C.|last8=Mordacchini|first8=Gianpaolo|last9=Pelino|first9=Vinicio|last10=Bessemoulin|first10=Pierre|last11=Stella|first11=José Luis|date=2013|title=World Meteorological Organization Assessment of the Purported World Record 58°C Temperature Extreme at El Azizia, Libya (13 September 1922)|url=https://journals.ametsoc.org/bams/article/94/2/199/60223/World-Meteorological-Organization-Assessment-of|journal=Bulletin of the American Meteorological Society|language=en|volume=94|issue=2|pages=199–204|doi=10.1175/BAMS-D-12-00093.1|bibcode=2013BAMS...94..199E|issn=0003-0007|doi-access=free}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|last1=Turner|first1=John|last2=Anderson|first2=Phil|last3=Lachlan‐Cope|first3=Tom|last4=Colwell|first4=Steve|last5=Phillips|first5=Tony|last6=Kirchgaessner|first6=Amélie|last7=Marshall|first7=Gareth J.|last8=King|first8=John C.|last9=Bracegirdle|first9=Tom|last10=Vaughan|first10=David G.|last11=Lagun|first11=Victor|date=2009|title=Record low surface air temperature at Vostok station, Antarctica|url=https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2009JD012104|journal=Journal of Geophysical Research: Atmospheres|language=en|volume=114|issue=D24|pages=D24102|doi=10.1029/2009JD012104|bibcode=2009JGRD..11424102T|issn=2156-2202|doi-access=free}}&lt;/ref&gt;
+
+=== Upper atmosphere ===
+[[File:Full moon partially obscured by atmosphere.jpg|thumb|This view from orbit shows the [[full moon]] partially obscured by Earth's atmosphere.]]
+
+Above the troposphere, the atmosphere is usually divided into the [[stratosphere]], [[mesosphere]], and [[thermosphere]].&lt;ref name="atmosphere" /&gt; Each layer has a different lapse rate, defining the rate of change in temperature with height. Beyond these, the [[exosphere]] thins out into the magnetosphere, where the geomagnetic fields interact with the solar wind.&lt;ref name=sciweek2004 /&gt; Within the stratosphere is the ozone layer, a component that partially shields the surface from ultraviolet light and thus is important for life on Earth. The [[Kármán line]], defined as 100&amp;nbsp;km above Earth's surface, is a working definition for the boundary between the atmosphere and [[outer space]].&lt;ref name=cordoba2004 /&gt;
+
+Thermal energy causes some of the molecules at the outer edge of the atmosphere to increase their velocity to the point where they can escape from Earth's gravity. This causes a slow but steady [[Atmospheric escape|loss of the atmosphere into space]]. Because unfixed [[hydrogen]] has a low [[molecular mass]], it can achieve [[escape velocity]] more readily, and it leaks into outer space at a greater rate than other gases.&lt;ref name=jas31_4_1118 /&gt; The leakage of hydrogen into space contributes to the shifting of Earth's atmosphere and surface from an initially [[redox|reducing]] state to its current oxidizing one. Photosynthesis provided a source of free oxygen, but the loss of reducing agents such as hydrogen is thought to have been a necessary precondition for the widespread accumulation of oxygen in the atmosphere.&lt;ref name=sci293_5531_839 /&gt; Hence the ability of hydrogen to escape from the atmosphere may have influenced the nature of life that developed on Earth.&lt;ref name=abedon1997 /&gt; In the current, oxygen-rich atmosphere most hydrogen is converted into water before it has an opportunity to escape. Instead, most of the hydrogen loss comes from the destruction of methane in the upper atmosphere.&lt;ref name=arwps4_265 /&gt;
+
+== Life on Earth ==
+[[File:Mycena interrupta.jpg|thumb|[[Fungus|Fungi]] are one of the kingdoms of life on Earth.]]
+A planet's life forms inhabit [[ecosystem]]s, whose total forms the [[biosphere]].&lt;ref&gt;{{cite web|url=https://www.nationalgeographic.org/encyclopedia/biosphere/|title=Biosphere|first1=Kim|last1=Rutledge|first2=Tara|last2=Ramroop|first3=Diane|last3=Boudreau|first4=Melissa|last4=McDaniel|first5=Santani|last5=Teng|first6=Erin|last6=Sprout|first7=Hilary|last7=Costa|first8=Hilary|last8=Hall|first9=Jeff|last9=Hunt|date=June 24, 2011|work=National Geographic|access-date=November 1, 2020}}&lt;/ref&gt; The biosphere is divided into a number of [[biome]]s, inhabited by broadly similar plants and animals.&lt;ref&gt;{{cite web |url=https://www.bbc.com/bitesize/guides/zmyj6sg/revision/3 |title=Interdependency between animal and plant species |page=3 |work=[[BBC Bitesize]] |publisher=[[BBC]] |access-date=28 June 2019}}&lt;/ref&gt; On land, biomes are separated primarily by differences in latitude, [[elevation|height above sea level]] and [[humidity]]. Terrestrial [[tundra|biomes]] lying within the Arctic or Antarctic Circles, at [[Alpine tundra|high altitudes]] or in [[desert|extremely arid areas]] are relatively barren of plant and animal life; [[Latitudinal gradients in species diversity|species diversity]] reaches a peak in [[tropical rainforest|humid lowlands at equatorial latitudes]].&lt;ref name="amnat163_2_192" /&gt; Estimates of the [[number of species]] on Earth today vary; most species have not been [[Species description|described]].&lt;ref name="Sweetlove_2011"&gt;{{Cite journal |last=Sweetlove |first=L. |date=24 August 2011 |title=Number of species on Earth tagged at 8.7 million |url=https://www.nature.com/news/2011/110823/full/news.2011.498.html |access-date=28 October 2020 |journal=Nature |doi=10.1038/news.2011.498}}&lt;/ref&gt;
+
+A planet that can sustain life is termed [[Planetary habitability|habitable]], even if life did not originate there. Earth provides liquid water—an environment where complex [[Organic compound|organic molecules]] can assemble and interact, and sufficient energy to sustain [[metabolism]].&lt;ref name="ab2003" /&gt; Plants can take up [[nutrient]]s from the atmosphere, soils and water. These nutrients are constantly recycled between different species.&lt;ref&gt;{{Cite book|last1=Singh|first1=J.S.|last2=Singh|first2=S. P.|last3=Gupta|first3=S.R.|url=https://www.worldcat.org/oclc/896866658|title=Ecology environmental science and conservation|publisher=S. Chand &amp; Company|year=2013|isbn=978-93-83746-00-2|edition=First|location=New Delhi|oclc=896866658}}&lt;/ref&gt; The distance of Earth from the Sun, as well as its orbital eccentricity, rate of rotation, axial tilt, geological history, sustaining atmosphere, and magnetic field all contribute to the current climatic conditions at the surface.&lt;ref name="dole1970" /&gt;
+
+Extreme weather, such as [[tropical cyclone]]s (including [[hurricane]]s and [[typhoon]]s), occurs over most of Earth's surface and has a large impact on life in those areas. From 1980 to 2000, these events caused an average of 11,800 human deaths per year.&lt;ref&gt;{{cite book|title=Oceans and Human Health|first1=Sharon|last1=Smith|first2=Lora|last2=Fleming|first3=Helena|last3=Solo-Gabriele|first4=William H.|last4=Gerwick|publisher=Elsevier Science|date=September 2, 2011|isbn=978-0-08-087782-2|page=212}}&lt;/ref&gt; Many places are subject to earthquakes, [[landslide]]s, [[tsunami]]s, volcanic eruptions, [[tornado]]es, [[blizzard]]s, floods, droughts, [[wildfire]]s, and other calamities and disasters.&lt;ref&gt;{{cite book|title=Natural Disasters|last1=Alexander|first1=David|page=3|date=September 30, 1993|url=https://books.google.com/books?id=wnt0DwAAQBAJ&amp;q=Natural+Disasters&amp;pg=PT11|publisher=Springer Science &amp; Business Media|isbn=978-1-317-93881-1}}&lt;/ref&gt; Human impact is felt in many areas due to [[pollution]] of the air and water, [[acid rain]], loss of vegetation ([[overgrazing]], [[deforestation]], [[desertification]]), loss of wildlife, species [[extinction]], [[soil degradation]], [[soil depletion]] and [[erosion]].&lt;ref&gt;{{cite book|pages=52; 66; 69; 137; 142; 185; 202; 355; 366|title=The Human Impact on the Natural Environment|last1=Goudie|first1=Andrew|year=2000|publisher=MIT Press|isbn=978-0-262-57138-8}}&lt;/ref&gt; There is a [[scientific consensus]] that humans are causing [[global warming]] by releasing greenhouse gases into the atmosphere.&lt;ref&gt;{{Cite journal|last1=Cook|first1=John|last2=Oreskes|first2=Naomi|last3=Doran|first3=Peter T.|last4=Anderegg|first4=William R. L.|last5=Verheggen|first5=Bart|last6=Maibach|first6=Ed W.|last7=Carlton|first7=J. Stuart|last8=Lewandowsky|first8=Stephan|last9=Skuce|first9=Andrew G.|last10=Green|first10=Sarah A.|last11=Nuccitelli|first11=Dana|date=2016|title=Consensus on consensus: a synthesis of consensus estimates on human-caused global warming|url=https://doi.org/10.1088%2F1748-9326%2F11%2F4%2F048002|journal=Environmental Research Letters|language=en|volume=11|issue=4|pages=048002|doi=10.1088/1748-9326/11/4/048002|bibcode=2016ERL....11d8002C|issn=1748-9326|doi-access=free}}&lt;/ref&gt; This is driving changes such as the [[Retreat of glaciers since 1850|melting of glaciers and ice sheets]], a [[Sea level rise|global rise in average sea levels]], and significant shifts in weather.&lt;ref&gt;{{Cite web|date=2019-01-14|title=Global Warming Effects|url=https://www.nationalgeographic.com/environment/global-warming/global-warming-effects/|access-date=2020-09-16|website=National Geographic|language=en}}&lt;/ref&gt;
+
+== Human geography ==
+&lt;!--Not sure why this is called "human geography" instead of just "Geography"; what kinds of geography are there?--&gt;
+{{Main|Human geography|World}}
+{{World map indicating continents}}
+[[world population|Earth's human population]] passed seven billion in the early 2010s,&lt;ref&gt;{{cite web |url=https://news.yahoo.com/various-7-billionth-babies-celebrated-worldwide-064439018.html |title=Various '7 billionth' babies celebrated worldwide |access-date=31 October 2011 |url-status=dead |archive-url=https://web.archive.org/web/20111031182613/http://news.yahoo.com/various-7-billionth-babies-celebrated-worldwide-064439018.html |work=Yahoo News|last1=Gomez|first1=Jim|last2=Sullivan|first2=Tim|archive-date=31 October 2011}}&lt;/ref&gt; and is projected to peak at around ten billion in the second half of the 21st century.&lt;ref name=":1"&gt;{{Cite news|last=Harvey|first=Fiona|date=2020-07-15|title=World population in 2100 could be 2 billion below UN forecasts, study suggests|language=en-GB|work=The Guardian|url=https://www.theguardian.com/world/2020/jul/15/world-population-in-2100-could-be-2-billion-below-un-forecasts-study-suggests|access-date=2020-09-18|issn=0261-3077}}&lt;/ref&gt; Most of the growth is expected to take place in [[sub-Saharan Africa]].&lt;ref name=":1" /&gt; [[Population density#Human population density|Human population density]] varies widely around the world, but a majority live in [[Asia]]. By 2050, 68% of the world's population is expected to be living in urban, rather than rural, areas.&lt;ref name="OWID_urbanization_2019"/&gt; 68% of the land mass of the world is in the Northern Hemisphere.&lt;ref&gt;{{Cite web |url=http://phl.upr.edu/library/notes/distributionoflandmassesofthepaleo-earth |title=Distribution of landmasses of the Paleo-Earth |author1=Abel Mendez |date=6 July 2011 |publisher=University of Puerto Rico at Arecibo |access-date=5 January 2019}}&lt;/ref&gt; Partly due to the predominance of land mass, 90% of humans live in the Northern Hemisphere.&lt;ref&gt;{{Cite web |url=https://www.businessinsider.com/90-of-people-live-in-the-northern-hemisphere-2012-5 |title=MAP OF THE DAY: Pretty Much Everyone Lives In The Northern Hemisphere |date=4 May 2012 |work=Business Insider|last1=Lutz|first1=Ashley|access-date=5 January 2019}}&lt;/ref&gt;
+
+It is estimated that one-eighth of Earth's surface is suitable for humans to live on&amp;nbsp;– three-quarters of Earth's surface is covered by oceans, leaving one-quarter as land. Half of that land area is desert (14%),&lt;ref name="hessd4_439" /&gt; high mountains (27%),&lt;ref name="biodiv" /&gt; or other unsuitable terrains. [[State (polity)|States]] claim the planet's entire land surface, except for parts of Antarctica and a few other [[Terra nullius|unclaimed areas]]. Earth has never had a planetwide government, but the [[United Nations]] is the leading worldwide [[intergovernmental organization]].&lt;ref&gt;{{cite book|last1=Smith|first1=Courtney B.|url=https://www.rienner.com/uploads/47d958f8700e6.pdf|title=Politics and Process at the United Nations: The Global Dance|publisher=Lynne Reiner|year=2006|isbn=978-1-58826-323-0|page=1-4}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last1=Lloyd|first1=John|title=The Discretely Plumper Second QI Book of General Ignorance|last2=Mitchinson|first2=John|publisher=Faber &amp; Faber|year=2010|isbn=978-0-571-29072-7|page=116-117}}&lt;/ref&gt;
+
+The first human to orbit Earth was [[Yuri Gagarin]] on 12 April 1961.&lt;ref name=kuhn2006 /&gt; In total, about 550 people have visited outer space and reached orbit {{as of|2018|11||lc=on}}, and, of these, [[Apollo program|twelve]] have walked on the Moon.&lt;ref name=shayler_vis2005 /&gt;&lt;ref&gt;{{Cite news|last=Holmes|first=Oliver|date=2018-11-19|title=Space: how far have we gone – and where are we going?|language=en-GB|work=The Guardian|url=https://www.theguardian.com/science/2018/nov/19/space-how-far-have-we-gone-and-where-are-we-going|access-date=2020-10-10|issn=0261-3077}}&lt;/ref&gt; Normally, the only humans in space are those on the International Space Station. The station's [[List of International Space Station expeditions|crew]], made up of six people, is usually replaced every six months.&lt;ref name=nasa_rg_iss2007 /&gt; The farthest that humans have traveled from Earth is {{convert|400171|km|mi|abbr=on}}, achieved during the [[Apollo 13]] mission in 1970.&lt;ref name="Apollo13History" /&gt;
+
+=== Natural resources and land use ===
+{{Main|Natural resource|Land use}}
+
+{| class="wikitable" style="float:left; margin-right:1.5em;"
+|+Land use in 2015 as a percentage of ice-free land surface&lt;ref name=":3"&gt;{{Cite book|author=IPCC|title=IPCC Special Report on Climate Change and Land|year=2019|pages=8|chapter=Summary for Policymakers|author-link=IPCC
+&lt;!-- |display-authors= 4 --&gt;|chapter-url=https://www.ipcc.ch/site/assets/uploads/sites/4/2019/12/02_Summary-for-Policymakers_SPM.pdf}}&lt;/ref&gt;
+|-
+!Land use
+!Percentage
+|-
+| Cropland
+| style="text-align:center" | 12 – 14%
+|-
+| Pastures
+| style="text-align:center" | 30 – 47%
+|-
+| Human-used forests
+| style="text-align:center" | 16 – 27%
+|-
+| Infrastructure
+| style="text-align:center" | 1%
+|-
+| Unused land
+| style="text-align:center" | 24 – 31%
+|}
+
+Earth has resources that have been exploited by humans.&lt;ref&gt;{{cite news|title=What are the consequences of the overexploitation of natural resources?|work=[[Iberdrola]]|url=https://www.iberdrola.com/environment/overexploitation-of-natural-resources|access-date=28 June 2019}}&lt;/ref&gt; Those termed [[non-renewable resource]]s, such as [[fossil fuel]]s, only renew over geological timescales.&lt;ref&gt;{{cite journal|date=20 April 2016|title=13. Exploitation of Natural Resources|url=https://www.eea.europa.eu/publications/92-826-5409-5/page013new.html|journal=[[European Environment Agency]]|publisher=[[European Union]]|access-date=28 June 2019}}&lt;/ref&gt; Large deposits of fossil fuels are obtained from Earth's crust, consisting of [[coal]], [[petroleum]], and [[natural gas]].&lt;ref&gt;{{cite news|last=Huebsch|first=Russell|date=29 September 2017|title=How Are Fossil Fuels Extracted From the Ground?|work=Sciencing|publisher=[[Leaf Group]] Media|url=https://sciencing.com/how-are-fossil-fuels-extracted-from-the-ground-12227026.html|access-date=28 June 2019}}&lt;/ref&gt; These deposits are used by humans both for energy production and as feedstock for chemical production.&lt;ref&gt;{{cite web|title=Electricity generation – what are the options?|url=http://www.world-nuclear.org/nuclear-basics/electricity-generation-what-are-the-options.aspx|access-date=28 June 2019|work=[[World Nuclear Association]]}}&lt;/ref&gt; Mineral [[ore]] bodies have also been formed within the crust through a process of [[ore genesis]], resulting from actions of [[magmatism]], erosion, and plate tectonics.&lt;ref&gt;{{cite journal|last1=Brimhall|first1=George|date=May 1991|title=The Genesis of Ores|url=https://www.jstor.org/stable/24936905|journal=Scientific American|publisher=Nature America|volume=264|pages=84–91|doi=10.1038/scientificamerican0591-84|jstor=24936905|access-date=October 13, 2020|number=5|bibcode=1991SciAm.264e..84B}}&lt;/ref&gt; These [[metal]]s and other elements are extracted by [[mining]], a process which often brings environmental and health damage.&lt;ref&gt;{{Cite book|last=Lunine|first=Jonathan I.|title=Earth: Evolution of a Habitable World|publisher=Cambridge University Press|year=2013|isbn=978-0-521-61519-8|edition=second|pages=292–294}}&lt;/ref&gt;
+
+Earth's biosphere produces many useful biological products for humans, including food, [[wood]], [[pharmaceutical]]s, oxygen, and the recycling of organic waste. The land-based ecosystem depends upon [[topsoil]] and fresh water, and the oceanic ecosystem depends on dissolved nutrients washed down from the land.&lt;ref name="science299_5607_673" /&gt; In 2019, {{convert|39|e6km2|e6sqmi|abbr=unit}} of Earth's land surface consisted of forest and woodlands, {{convert|12|e6km2|e6sqmi|abbr=unit}} was shrub and grassland, {{convert|40|e6km2|e6sqmi|abbr=unit}} were used for animal feed production and grazing, and {{convert|11|e6km2|e6sqmi|abbr=unit}} were cultivated as croplands.&lt;ref name="OWID_2019"/&gt; Of the 12{{En dash}}14% of ice-free land that is used for croplands, 2 [[Percentage point|percent point]] was irrigated in 2015.&lt;ref name=":3" /&gt; Humans use [[building material]]s to construct shelters.&lt;ref&gt;{{cite book|last1=Tate|first1=Nikki|title=Take Shelter: At Home Around the World|last2=Tate-Stratton|first2=Dani|date=October 1, 2014|publisher=Orca Book Publishers|isbn=978-1-4598-0742-6|page=6}}&lt;/ref&gt;
+
+== Cultural and historical viewpoint ==
+{{Main|Earth in culture}}
+[[File:NASA-Apollo8-Dec24-Earthrise.jpg|alt=|thumb|''[[Earthrise]]'', taken in 1968 by [[William Anders]], an astronaut on board [[Apollo&amp;nbsp;8]]]]
+[[Culture|Human cultures]] have developed many views of the planet.&lt;ref name="NYT-20181224b"&gt;{{cite news |last=Widmer |first=Ted |title=What Did Plato Think the Earth Looked Like? – For millenniums, humans have tried to imagine the world in space. Fifty years ago, we finally saw it. |url=https://www.nytimes.com/2018/12/24/opinion/plato-earth-christmas-eve-apollo-8.html |date=24 December 2018 |work=[[The New York Times]] |access-date=25 December 2018}}&lt;/ref&gt; The standard [[Astronomical symbols|astronomical symbol]] of Earth consists of a cross [[circumscribed circle|circumscribed by a circle]], [[File:Earth symbol.svg|13px]],&lt;ref name=liungman2004 /&gt; representing the [[four corners of the world]]. Earth is sometimes [[Personification|personified]] as a [[deity]]. In many cultures it is a [[mother goddess]] that is also the primary [[fertility deity]].&lt;ref name=":0"&gt;{{Cite book |title=Thematic Guide to World Mythology |last=Stookey |first=Lorena Laura |publisher=Greenwood Press |year=2004 |isbn=978-0-313-31505-3 |location=Westport, Conn. |pages=[https://archive.org/details/thematicguidetow00lore/page/114 114–15] |url=https://archive.org/details/thematicguidetow00lore/page/114 }}&lt;/ref&gt; [[Creation myth]]s in many religions involve the creation of Earth by a supernatural deity or deities.&lt;ref name=":0" /&gt; The Gaia Principle, developed mid-20th century, compared Earth's environments and life as a single self-regulating organism leading to broad stabilization of the conditions of habitability.&lt;ref name="vanishing255"&gt;Lovelock, James. ''The Vanishing Face of Gaia''. Basic Books, 2009, p. 255. {{ISBN|978-0-465-01549-8}}&lt;/ref&gt;&lt;ref name="J1972"&gt;{{cite journal|last=Lovelock|first=J.E.|year=1972|title=Gaia as seen through the atmosphere|journal=Atmospheric Environment|volume=6|issue=8|pages=579–80|bibcode=1972AtmEn...6..579L|doi=10.1016/0004-6981(72)90076-5|issn=1352-2310}}&lt;/ref&gt;&lt;ref name="lovelock1974"&gt;{{cite journal|last1=Lovelock|first1=J.E.|last2=Margulis|first2=L.|year=1974|title=Atmospheric homeostasis by and for the biosphere: the Gaia hypothesis|journal=Tellus|series=Series A|volume=26|issue=1–2|pages=2–10|bibcode=1974Tell...26....2L|doi=10.1111/j.2153-3490.1974.tb01946.x|issn=1600-0870}}&lt;/ref&gt; Images of Earth taken from space, particularly during the Apollo program, have been credited with altering the way that people viewed the planet that they lived on, emphasising its beauty, uniqueness and apparent fragility.&lt;ref name="NYT-20181221"&gt;{{cite news|last=Overbye|first=Dennis|author-link=Dennis Overbye|date=21 December 2018|title=Apollo 8's Earthrise: The Shot Seen Round the World – Half a century ago today, a photograph from the moon helped humans rediscover Earth.|work=[[The New York Times]]|url=https://www.nytimes.com/2018/12/21/science/earthrise-moon-apollo-nasa.html|access-date=24 December 2018}}&lt;/ref&gt;&lt;ref name="NYT-20181224a"&gt;{{cite news|last1=Boulton|first1=Matthew Myer|last2=Heithaus|first2=Joseph|date=24 December 2018|title=We Are All Riders on the Same Planet – Seen from space 50 years ago, Earth appeared as a gift to preserve and cherish. What happened?|work=[[The New York Times]]|url=https://www.nytimes.com/2018/12/24/opinion/earth-space-christmas-eve-apollo-8.html|access-date=25 December 2018}}&lt;/ref&gt;
+
+Scientific investigation has resulted in several culturally transformative shifts in people's view of the planet. Initial belief in a [[flat Earth]] was gradually displaced in [[Ancient Greece]] by the idea of a [[spherical Earth]], which was attributed to both the philosophers [[Pythagoras]] and [[Parmenides]].&lt;ref name="Kahn2001"&gt;{{cite book |last=Kahn |first=Charles H. | author-link = Charles H. Kahn |date=2001 |title=Pythagoras and the Pythagoreans: A Brief History |url=https://books.google.com/books?id=GKUtAwAAQBAJ&amp;q=Pythagoreanism&amp;pg=PA72 |location=Indianapolis, Indiana and Cambridge, England |publisher=Hackett Publishing Company |isbn=978-0-87220-575-8 |page=53}}&lt;/ref&gt;&lt;ref&gt;{{Cite book|last=Garwood|first=Christine|url=https://www.worldcat.org/oclc/184822945|title=Flat earth : the history of an infamous idea|date=2008|publisher=Thomas Dunne Books|isbn=978-0-312-38208-7|edition=1st|location=New York|oclc=184822945|pages=26–31}}&lt;/ref&gt; Earth was generally believed to be [[Geocentric model|the center of the universe]] until the 16th century, when scientists first conclusively demonstrated that it was [[heliocentrism|a moving object]], comparable to the other planets in the Solar System.&lt;ref name=arnett20060716 /&gt;
+
+It was only during the 19th century that geologists realized [[Earth's age]] was at least many millions of years.&lt;ref&gt;{{Cite book |title=Physical Geology: Exploring the Earth |last1=Monroe |first1=James |publisher=Thomson Brooks/Cole |year=2007 |isbn=978-0-495-01148-4 |pages=263–65 |last2=Wicander |first2=Reed |last3=Hazlett |first3=Richard}}&lt;/ref&gt; [[William Thomson, 1st Baron Kelvin|Lord Kelvin]] used [[thermodynamics]] to estimate the age of Earth to be between 20 million and 400&amp;nbsp;million years in 1864, sparking a vigorous debate on the subject; it was only when radioactivity and [[Radiometric dating|radioactive dating]] were discovered in the late 19th and early 20th centuries that a reliable mechanism for determining Earth's age was established, proving the planet to be billions of years old.&lt;ref&gt;{{Cite book |title=An Equation for Every Occasion: Fifty-Two Formulas and Why They Matter |last=Henshaw |first=John M. |publisher=Johns Hopkins University Press |year=2014 |isbn=978-1-4214-1491-1 |pages=117–18}}&lt;/ref&gt;&lt;ref&gt;{{Cite book |title=Lord Kelvin and the Age of the Earth |last=Burchfield |first=Joe D. |publisher=University of Chicago Press |year=1990 |isbn=978-0-226-08043-7 |pages=13–18}}&lt;/ref&gt;
+
+== See also ==
+{{columns_list|colwidth=30em|
+* [[Celestial sphere]]
+* [[Earth phase]]
+* [[Earth physical characteristics tables]]
+* [[Earth science]]
+* [[Outline of Earth]]
+* [[Timeline of natural history]]
+* [[Timeline of the far future]]
+}}
+
+== Notes ==
+&lt;!--
+ List alphabetized. Please keep it that way, thank you!
+--&gt;
+{{reflist |30em |group="n" |refs=
+
+&lt;ref name=Aoki&gt;The ultimate source of these figures, uses the term "seconds of UT1" instead of "seconds of mean solar time".—{{cite journal |last1=Aoki |first1=S. |title=The new definition of universal time |journal=Astronomy and Astrophysics |year=1982 |volume=105 |issue=2 |pages=359–61 |bibcode=1982A&amp;A...105..359A |last2=Kinoshita |first2=H. |last3=Guinot |first3=B. |last4=Kaplan |first4=G. H. |last5=McCarthy |first5=D. D. |last6=Seidelmann |first6=P. K.}}&lt;/ref&gt;
+
+&lt;ref name=apsis&gt;aphelion = ''a'' × (1 + ''e''); perihelion = ''a'' × (1&amp;nbsp;– ''e''), where ''a'' is the semi-major axis and ''e'' is the eccentricity. The difference between Earth's perihelion and aphelion is 5 million kilometers.—{{cite book|page=144|title=Probing the New Solar System|last1=Wilkinson|first1=John|date=January 8, 2009|publisher=CSIRO Publishing|isbn=978-0-643-09949-4}}&lt;/ref&gt;
+
+&lt;ref name=epoch&gt;All astronomical quantities vary, both [[Secular phenomena|secularly]] and [[Frequency|periodically]]. The quantities given are the values at the instant [[J2000.0]] of the secular variation, ignoring all periodic variations.&lt;/ref&gt;
+
+&lt;ref name=hill_radius&gt;For Earth, the [[Hill radius]] is &lt;math&gt;R_H = a\left ( \frac{m}{3M} \right )^{\frac{1}{3}}&lt;/math&gt;, where ''m'' is the mass of Earth, ''a'' is an astronomical unit, and ''M'' is the mass of the Sun. So the radius in AU is about &lt;math&gt;\left ( \frac{1}{3 \cdot 332,946} \right )^{\frac{1}{3}} = 0.01&lt;/math&gt;.&lt;/ref&gt;
+
+&lt;ref name=jaes41_3_379&gt;Including the [[Somali Plate]], which is being formed out of the African Plate. See: {{cite journal |first=Jean |last=Chorowicz |date=October 2005 |title=The East African rift system |journal=[[Journal of African Earth Sciences]] |volume=43 |issue=1–3 |pages=379–410 |doi=10.1016/j.jafrearsci.2005.07.019 |bibcode=2005JAfES..43..379C}}&lt;/ref&gt;
+
+&lt;ref name=solar_energy&gt;Aphelion is 103.4% of the distance to perihelion. Due to the inverse square law, the radiation at perihelion is about 106.9% the energy at aphelion.&lt;/ref&gt;
+
+&lt;ref name=surfacecover&gt;Due to natural fluctuations, ambiguities surrounding [[Ice shelf|ice shelves]], and mapping conventions for [[vertical datum]]s, exact values for land and ocean coverage are not meaningful. Based on data from the [[Vector Map]] and [http://www.landcover.org/ Global Landcover] {{Webarchive|url=https://web.archive.org/web/20150326085837/http://www.landcover.org/ |date=26 March 2015 }} datasets, extreme values for coverage of lakes and streams are 0.6% and 1.0% of Earth's surface. The ice sheets of [[Antarctica]] and [[Greenland]] are counted as land, even though much of the rock that supports them lies below sea level.&lt;/ref&gt;
+
+&lt;ref name=space_debris&gt;As of 4 January 2018, the United States Strategic Command tracked a total of 18,835 artificial objects, mostly debris. See: {{cite journal |url=https://orbitaldebris.jsc.nasa.gov/quarterly-news/pdfs/odqnv22i1.pdf |title=Satellite Box Score |journal=Orbital Debris Quarterly News |editor1-first=Phillip |editor1-last=Anz-Meador |editor2-first=Debi |editor2-last=Shoots |volume=22 |issue=1 |page=12 |date=February 2018 |access-date=18 April 2018}}&lt;/ref&gt;
+
+}}
+
+== References ==
+&lt;!--
+ List alphabetized. Keep it that way!
+--&gt;
+{{reflist |30em |refs=
+
+&lt;ref name=aaa428_261&gt;{{cite journal |display-authors=1 |last1=Laskar |first1=J. |last2=Robutel |first2=P. |last3=Joutel |first3=F. |last4=Gastineau |first4=M. |last5=Correia |first5=A.C.M. |last6=Levrard |first6=B. |title=A long-term numerical solution for the insolation quantities of the Earth |journal=Astronomy and Astrophysics |year=2004 |volume=428 |issue=1 |pages=261–85 |bibcode=2004A&amp;A...428..261L |doi=10.1051/0004-6361:20041335 |url=https://hal.archives-ouvertes.fr/hal-00001603/document|doi-access=free }}&lt;/ref&gt;
+
+&lt;ref name=ab2003&gt;{{cite web |author=Staff |date=September 2003 |url=http://astrobiology.arc.nasa.gov/roadmap/g1.html |archive-url=https://web.archive.org/web/20120312212337/http://astrobiology.arc.nasa.gov/roadmap/g1.html |archive-date=12 March 2012 |title=Astrobiology Roadmap |publisher=NASA, Lockheed Martin |access-date=10 March 2007 |url-status=dead}}&lt;/ref&gt;
+
+&lt;ref name=abedon1997&gt;{{cite web |last1=Abedon |first1=Stephen T. |date=31 March 1997 |url=http://www.mansfield.ohio-state.edu/~sabedon/biol1010.htm |archive-url=https://web.archive.org/web/20121129043509/http://www.mansfield.ohio-state.edu/~sabedon/biol1010.htm |archive-date=29 November 2012 |title=History of Earth |publisher=Ohio State University |access-date=19 March 2007 |url-status=dead}}&lt;/ref&gt;
+
+&lt;ref name="age_earth1"&gt;See:
+* {{cite book |first1=G.B. |last1=Dalrymple |date=1991 |title=The Age of the Earth |publisher=Stanford University Press |location=California |isbn=978-0-8047-1569-0}}
+* {{cite web |last=Newman |first=William L. |date=9 July 2007 |url=http://pubs.usgs.gov/gip/geotime/age.html |title=Age of the Earth |publisher=Publications Services, USGS |access-date=20 September 2007}}
+* {{cite journal |last1=Dalrymple |first1=G. Brent |title=The age of the Earth in the twentieth century: a problem (mostly) solved |journal=Geological Society, London, Special Publications |year=2001 |volume=190 |issue=1 |pages=205–21 |url=http://sp.lyellcollection.org/cgi/content/abstract/190/1/205 |access-date=20 September 2007 |doi=10.1144/GSL.SP.2001.190.01.14 |bibcode=2001GSLSP.190..205D|s2cid=130092094 }}&lt;/ref&gt;
+
+&lt;ref name=aj136_5_1906&gt;{{cite journal |last1=McCarthy |first1=Dennis D. |last2=Hackman |first2=Christine |last3=Nelson |first3=Robert A. |title=The Physical Basis of the Leap Second |journal=The Astronomical Journal |volume=136 |issue=5 |pages=1906–08 |date=November 2008 |doi=10.1088/0004-6256/136/5/1906 |bibcode=2008AJ....136.1906M |url=http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA489427&amp;Location=U2&amp;doc=GetTRDoc.pdf |archive-url=https://web.archive.org/web/20180728050156/http://www.dtic.mil/dtic/tr/fulltext/u2/a489427.pdf |archive-date=28 July 2018}}&lt;/ref&gt;
+
+&lt;ref name=ajes38_613&gt;{{cite journal |last1=Armstrong |first1=R. L. |year=1991 |title=The persistent myth of crustal growth |journal=Australian Journal of Earth Sciences |volume=38 |issue=5 |pages=613–30 |doi=10.1080/08120099108727995 |bibcode=1991AuJES..38..613A |url=http://www.mantleplumes.org/WebDocuments/Armstrong1991.pdf |citeseerx=10.1.1.527.9577}}&lt;/ref&gt;
+
+&lt;ref name=Allen294&gt;{{cite book |title=Allen's Astrophysical Quantities |last1=Allen |first1=Clabon Walter |last2=Cox |first2=Arthur N. |publisher=Springer |date=2000 |isbn=978-0-387-98746-0 |url=https://books.google.com/books?id=w8PK2XFLLH8C&amp;pg=PA294 |page=294 |access-date=13 March 2011}}&lt;/ref&gt;
+
+&lt;ref name=Allen296&gt;{{cite book |title=Allen's Astrophysical Quantities |last1=Allen |first1=Clabon Walter |last2=Cox |first2=Arthur N. |publisher=Springer |date=2000 |isbn=978-0-387-98746-0 |url=https://books.google.com/books?id=w8PK2XFLLH8C&amp;pg=PA296 |page=296 |access-date=17 August 2010}}&lt;/ref&gt;
+
+&lt;ref name=amnat163_2_192&gt;{{cite journal |last1=Hillebrand |first1=Helmut |title=On the Generality of the Latitudinal Gradient |journal=American Naturalist |year=2004 |volume=163 |issue=2 |pages=192–211 |doi=10.1086/381004 |pmid=14970922 |s2cid=9886026 |url=http://oceanrep.geomar.de/4048/1/Hillebrand_2004_Amer_nat.pdf}}&lt;/ref&gt;
+
+&lt;ref name=angular&gt;{{cite web |last1=Williams |first1=David R. |date=10 February 2006 |url=http://nssdc.gsfc.nasa.gov/planetary/planetfact.html |title=Planetary Fact Sheets |publisher=NASA |access-date=28 September 2008}}—See the apparent diameters on the Sun and Moon pages.&lt;/ref&gt;
+&lt;!---
+&lt;ref name=arghg4_143&gt;{{cite journal |last1=Pennock |first1=R. T. |title=Creationism and intelligent design |journal=Annual Review of Genomics and Human Genetics |volume=4 |issue=1 |pages=143–63 |year=2003 |pmid=14527300 |doi=10.1146/annurev.genom.4.070802.110400}}&lt;/ref&gt;
+---&gt;
+&lt;ref name=arnett20060716&gt;{{cite web |first1=Bill |last1=Arnett |date=16 July 2006 |title=Earth |work=The Nine Planets, A Multimedia Tour of the Solar System: one star, eight planets, and more |url=http://nineplanets.org/earth.html |access-date=9 March 2010}}&lt;/ref&gt;
+
+&lt;ref name=arwps4_265&gt;{{cite journal |last1=Hunten |first1=D. M. |title=Hydrogen loss from the terrestrial planets |journal=Annual Review of Earth and Planetary Sciences |year=1976 |volume=4 |issue=1 |pages=265–92 |bibcode=1976AREPS...4..265H |doi=10.1146/annurev.ea.04.050176.001405 |last2=Donahue |first2=T. M}}&lt;/ref&gt;
+
+&lt;ref name=asp2002&gt;{{cite conference |last1=Guinan |first1=E. F. |last2=Ribas |first2=I. |editor=Benjamin Montesinos, Alvaro Gimenez and Edward F. Guinan |title=Our Changing Sun: The Role of Solar Nuclear Evolution and Magnetic Activity on Earth's Atmosphere and Climate |work=ASP Conference Proceedings: The Evolving Sun and its Influence on Planetary Environments |year=2002 |location=San Francisco |isbn=978-1-58381-109-2 |publisher=Astronomical Society of the Pacific |bibcode=2002ASPC..269...85G}}&lt;/ref&gt;
+
+&lt;ref name=asu_highest_temp&gt;{{cite web |url=https://wmo.asu.edu/content/world-highest-temperature |title=World: Highest Temperature |work=[[WMO]] Weather and Climate Extremes Archive |publisher=[[Arizona State University]] |access-date=6 September 2020}}&lt;/ref&gt;
+
+&lt;ref name=asu_lowest_temp&gt;{{cite web |url=https://wmo.asu.edu/content/world-lowest-temperature |title=World: Lowest Temperature |work=[[WMO]] Weather and Climate Extremes Archive |publisher=[[Arizona State University]] |access-date=6 September 2020}}&lt;/ref&gt;
+
+&lt;ref name="atmosphere"&gt;{{cite web |author=Staff |date=8 October 2003 |url=http://www.nasa.gov/audience/forstudents/9-12/features/912_liftoff_atm.html |title=Earth's Atmosphere |publisher=NASA |access-date=21 March 2007}}&lt;/ref&gt;
+
+&lt;ref name="berger2002"&gt;{{cite web |last1=Berger |first1=Wolfgang H. |year=2002 |url=http://earthguide.ucsd.edu/virtualmuseum/climatechange1/cc1syllabus.shtml |title=The Earth's Climate System |publisher=University of California, San Diego |access-date=24 March 2007}}&lt;/ref&gt;
+
+&lt;ref name=bgsa119_1_140&gt;{{cite journal |last1=Wilkinson |first1=B. H. |last2=McElroy |first2=B. J. |s2cid=128776283 |title=The impact of humans on continental erosion and sedimentation |journal=Bulletin of the Geological Society of America |year=2007 |volume=119 |issue=1–2 |pages=140–56 |doi=10.1130/B25899.1 |bibcode=2007GSAB..119..140W}}&lt;/ref&gt;
+
+&lt;ref name=biodiv&gt;{{cite web |author=Staff |url=http://www.biodiv.org/programmes/default.shtml |title=Themes &amp; Issues |publisher=Secretariat of the Convention on Biological Diversity |access-date=29 March 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070407011249/http://www.biodiv.org/programmes/default.shtml |archive-date=7 April 2007 }}&lt;/ref&gt;
+
+&lt;ref name=bouvier_wadhwa2010&gt;{{cite journal |last1=Bouvier |first1=Audrey |last2=Wadhwa |first2=Meenakshi |title=The age of the Solar System redefined by the oldest Pb–Pb age of a meteoritic inclusion |journal=Nature Geoscience |date=September 2010 |volume=3 |issue=9 |pages=637–641 |doi=10.1038/ngeo941|bibcode=2010NatGe...3..637B }}&lt;/ref&gt;
+
+&lt;ref name="bradley_2011"&gt;{{Cite journal |last=Bradley |first=D.C. |date=2011 |title=Secular Trends in the Geologic Record and the Supercontinent Cycle |url=http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.715.6618&amp;rep=rep1&amp;type=pdf |journal=Earth-Science Reviews |volume=108 |issue=1–2 |pages=16–33 |doi=10.1016/j.earscirev.2011.05.003|bibcode=2011ESRv..108...16B |citeseerx=10.1.1.715.6618 }}&lt;/ref&gt;
+
+&lt;ref name="britt2000"&gt;{{cite web |first1=Robert |last1=Britt |url=http://www.space.com/scienceastronomy/solarsystem/death_of_earth_000224.html |title=Freeze, Fry or Dry: How Long Has the Earth Got? |date=25 February 2000 |url-status=dead |archive-url=https://web.archive.org/web/20090605231345/http://www.space.com/scienceastronomy/solarsystem/death_of_earth_000224.html |archive-date=5 June 2009}}&lt;/ref&gt;
+
+&lt;ref name=bromberg2008&gt;{{cite web |last1=Bromberg |first1=Irv |date=1 May 2008 |url=http://www.sym454.org/seasons/ |title=The Lengths of the Seasons (on Earth) |publisher=University of Toronto |access-date=8 November 2008 |archive-url=https://web.archive.org/web/20081218221421/http://www.sym454.org/seasons/ |archive-date=18 December 2008 |url-status=dead}}&lt;/ref&gt;
+
+&lt;ref name=brown_mussett1981&gt;{{cite book |last1=Brown |first1=Geoff C. |last2=Mussett |first2=Alan E. |title=The Inaccessible Earth |edition=2nd |date=1981 |page=[https://archive.org/details/inaccessibleeart0000brow_r5i2/page/166 166] |publisher=Taylor &amp; Francis |isbn=978-0-04-550028-4 |url=https://archive.org/details/inaccessibleeart0000brow_r5i2/page/166 }} Note: After Ronov and Yaroshevsky (1969).&lt;/ref&gt;
+
+&lt;ref name=brown_wohletz2005&gt;{{cite web |last1=Brown |first1=W. K. |last2=Wohletz |first2=K. H. |year=2005 |url=http://www.lanl.gov/orgs/ees/geodynamics/Wohletz/SFT-Tectonics.htm |title=SFT and the Earth's Tectonic Plates |publisher=Los Alamos National Laboratory |access-date=2 March 2007}}&lt;/ref&gt;
+
+&lt;ref name=burton20021129&gt;{{cite web |last1=Burton |first1=Kathleen |date=29 November 2002 |url=http://www.nasa.gov/centers/ames/news/releases/2000/00_79AR.html |title=Astrobiologists Find Evidence of Early Life on Land |publisher=NASA |access-date=5 March 2007}}&lt;/ref&gt;
+
+&lt;ref name=campbelwh&gt;{{cite book |last1=Campbell |first1=Wallace Hall |title=Introduction to Geomagnetic Fields |publisher=Cambridge University Press |date=2003 |location=New York |page=57 |isbn=978-0-521-82206-0}}&lt;/ref&gt;
+
+&lt;ref name=canup_asphaug2001b&gt;{{cite journal |last1=Canup |first1=R. |last2=Asphaug |first2=E. |s2cid=4413525 |title=Origin of the Moon in a giant impact near the end of the Earth's formation |journal=Nature |volume=412 |pages=708–12 |year=2001 |doi=10.1038/35089010 |pmid=11507633 |issue=6848 |bibcode=2001Natur.412..708C}}&lt;/ref&gt;
+
+&lt;ref name=cazenave_ahrens1995&gt;{{cite book |first1=Anny |last1=Cazenave |author-link=Anny Cazenave |editor=Ahrens, Thomas J |date=1995 |title=Global Earth Physics: A Handbook of Physical Constants |journal=Global Earth Physics: A Handbook of Physical Constants |issue=1 |publisher=American Geophysical Union |location=Washington, DC |isbn=978-0-87590-851-9 |chapter-url=http://www.agu.org/reference/gephys/5_cazenave.pdf |archive-url=https://web.archive.org/web/20061016024803/http://www.agu.org/reference/gephys/5_cazenave.pdf |archive-date=16 October 2006 |access-date=3 August 2008 |chapter=Geoid, Topography and Distribution of Landforms |bibcode=1995geph.conf.....A}}&lt;/ref&gt;
+
+&lt;ref name=Choi&gt;{{cite web |last1=Choi |first1=Charles Q. |title=First Asteroid Companion of Earth Discovered at Last |url=http://www.space.com/12443-earth-asteroid-companion-discovered-2010-tk7.html |date=27 July 2011 |publisher=[[Space.com]] |access-date=27 July 2011}}&lt;/ref&gt;
+
+&lt;ref name=christou_asher2011&gt;{{cite journal |last1=Christou |first1=Apostolos A. |last2=Asher |first2=David J. |date=31 March 2011 |title=A long-lived horseshoe companion to the Earth |arxiv=1104.0036 |doi=10.1111/j.1365-2966.2011.18595.x |volume=414 |issue=4 |journal=Monthly Notices of the Royal Astronomical Society |pages=2965–2969 |bibcode=2011MNRAS.414.2965C|s2cid=13832179 }} See table 2, p. 5.&lt;/ref&gt;
+
+&lt;ref name=climate_zones&gt;{{cite web |author=Staff |url=http://www.ace.mmu.ac.uk/eae/climate/older/Climate_Zones.html |archive-url=https://web.archive.org/web/20100808131632/http://www.ace.mmu.ac.uk/eae/climate/older/Climate_Zones.html |archive-date=8 August 2010 |title=Climate Zones |publisher=UK Department for Environment, Food and Rural Affairs |access-date=24 March 2007}}&lt;/ref&gt;
+
+&lt;ref name=cmp134_3&gt;{{cite journal |doi=10.1007/s004100050465 |title=Priscoan (4.00–4.03 Ga) orthogneisses from northwestern Canada |year=1999 |last1=Bowring |first1=Samuel A. |journal=Contributions to Mineralogy and Petrology |volume=134 |issue=1 |pages=3–16 |last2=Williams |first2=Ian S. |s2cid=128376754 |bibcode=1999CoMP..134....3B}}&lt;/ref&gt;
+
+&lt;ref name=Connors&gt;{{cite journal |last1=Connors |first1=Martin |last2=Wiegert |first2=Paul |last3=Veillet |first3=Christian |s2cid=205225571 |title=Earth's Trojan asteroid |date=27 July 2011 |journal=[[Nature (journal)|Nature]] |volume=475 |pages=481–83 |doi=10.1038/nature10233 |issue=7357 |bibcode=2011Natur.475..481C |pmid=21796207}}&lt;/ref&gt;
+
+&lt;ref name=cordoba2004&gt;{{cite web |first1=S. Sanz Fernández |last1=de Córdoba |date=21 June 2004 |url=http://www.fai.org/astronautics/100km.asp |archive-url=https://web.archive.org/web/20100115223732/http://www.fai.org/astronautics/100km.asp |archive-date=15 January 2010 |title=Presentation of the Karman separation line, used as the boundary separating Aeronautics and Astronautics |publisher=Fédération Aéronautique Internationale |access-date=21 April 2007 |url-status=dead}}&lt;/ref&gt;
+
+&lt;ref name="Cox2000"&gt;{{cite book |editor=Arthur N. Cox |title=Allen's Astrophysical Quantities |url=https://books.google.com/books?id=w8PK2XFLLH8C&amp;pg=PA244 |edition=4th |date=2000 |publisher=AIP Press |location=New York |isbn=978-0-387-98746-0 |page=244 |access-date=17 August 2010}}&lt;/ref&gt;
+
+&lt;ref name="Apollo13History"&gt;{{cite web |url=https://history.nasa.gov/SP-4029/Apollo_13a_Summary.htm |title=Apollo 13 The Seventh Mission: The Third Lunar Landing Attempt 11 April–17 April 1970 |publisher=NASA |access-date=7 November 2015}}&lt;/ref&gt;
+
+&lt;ref name=de_pater_lissauer2010&gt;{{cite book |last1=de Pater |first1=Imke |last2=Lissauer |first2=Jack J. |title=Planetary Sciences |page=154 |edition=2nd |publisher=Cambridge University Press |date=2010 |isbn=978-0-521-85371-2}}&lt;/ref&gt;
+
+&lt;ref name="Deuss_2014"&gt;{{Cite journal |last=Deuss |first=A. |date=2014 |title=Heterogeneity and Anisotropy of Earth's Inner Core |url=http://www.geo.uu.nl/~seismain/pdf/Annu_Rev_Earth_Planet.Sci.2014Deuss.pdf |journal=Annu. Rev. Earth Planet. Sci. |volume=42 |issue=1 |pages=103–126 |doi=10.1146/annurev-earth-060313-054658|bibcode=2014AREPS..42..103D }}&lt;/ref&gt;
+
+&lt;ref name="Dhuime_etal_2018"&gt;{{Cite journal |last1=Dhuime |first1=B. |last2=Hawksworth |first2=C.J. |last3=Delavault |first3=H. |last4=Cawood |first4=P.A. |date=2018 |title=Rates of generation and destruction of the continental crust: implications for continental growth |journal=Philos Trans a Math Phys Eng Sci. |volume=376 |issue=2132 |doi=10.1098/rsta.2017.0403|pmc=6189557 |pmid=30275156|bibcode=2018RSPTA.37670403D }}&lt;/ref&gt;
+
+&lt;ref name=dole1970&gt;{{cite book |first1=Stephen H. |last1=Dole |date=1970 |title=Habitable Planets for Man |edition=2nd |publisher=American Elsevier Publishing Co |url=https://www.rand.org/pubs/reports/R414/ |access-date=11 March 2007 |isbn=978-0-444-00092-7}}&lt;/ref&gt;
+
+&lt;ref name=duennebier1999&gt;{{cite web |last1=Duennebier |first1=Fred |date=12 August 1999 |url=http://www.soest.hawaii.edu/GG/ASK/plate-tectonics2.html |title=Pacific Plate Motion |publisher=University of Hawaii |access-date=14 March 2007}}&lt;/ref&gt;
+&lt;!---
+&lt;ref name=Dutch2002&gt;{{cite journal |last1=Dutch |first1=S. I. |year=2002 |title=Religion as belief versus religion as fact |journal=Journal of Geoscience Education |volume=50 |issue=2 |pages=137–44 |url=http://nagt.org/files/nagt/jge/abstracts/Dutch_v50n2p137.pdf |access-date=28 April 2008 |format=PDF}}&lt;/ref&gt;
+---&gt;
+&lt;ref name="earth_fact_sheet"&gt;{{cite web |url=https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html |title=Earth Fact Sheet |publisher=NASA/Goddard Space Flight Center |first=David R. |last=Williams |date=16 March 2017 |access-date=26 July 2018}}&lt;/ref&gt;
+&lt;!---
+&lt;ref name=edis2003&gt;{{cite book |first1=Taner |last1=Edis |date=2003 |title=A World Designed by God: Science and Creationism in Contemporary Islam |publisher=Amherst: Prometheus |archive-url=https://web.archive.org/web/20030608143431/http://www2.truman.edu/~edis/writings/articles/CFI-2001.pdf |url=http://www2.truman.edu/~edis/writings/articles/CFI-2001.pdf |archive-date=8 June 2003 |isbn=978-1-59102-064-6|access-date=28 April 2008 |format=PDF}}&lt;/ref&gt;
+---&gt;
+
+&lt;ref name=epsl121_1&gt;{{cite journal |last1=Vlaar |first1=N |last2=Vankeken |first2=P. |last3=Vandenberg |first3=A. |title=Cooling of the Earth in the Archaean: Consequences of pressure-release melting in a hotter mantle |year=1994 |journal=Earth and Planetary Science Letters |volume=121 |issue=1–2 |pages=1–18 |doi=10.1016/0012-821X(94)90028-0 |url=http://www.geo.lsa.umich.edu/~keken/papers/Vlaar_EPSL94.pdf |bibcode=1994E&amp;PSL.121....1V |url-status=dead |archive-url=https://web.archive.org/web/20120319181621/http://www.geo.lsa.umich.edu/~keken/papers/Vlaar_EPSL94.pdf |archive-date=19 March 2012 }}&lt;/ref&gt;
+
+&lt;ref name=espenak_meeus20070207&gt;{{cite web |last1=Espenak |first1=F. |last2=Meeus |first2=J. |date=7 February 2007 |url=http://sunearth.gsfc.nasa.gov/eclipse/SEcat5/secular.html |archive-url=https://web.archive.org/web/20080302112957/http://sunearth.gsfc.nasa.gov/eclipse/SEcat5/secular.html |archive-date=2 March 2008 |title=Secular acceleration of the Moon |publisher=NASA |access-date=20 April 2007 |url-status=dead}}&lt;/ref&gt;
+
+&lt;ref name=fisher19960205&gt;{{cite web |last1=Fisher |first1=Rick |date=5 February 1996 |url=http://www.cv.nrao.edu/~rfisher/Ephemerides/earth_rot.html |title=Earth Rotation and Equatorial Coordinates |publisher=National Radio Astronomy Observatory |access-date=21 March 2007}}&lt;/ref&gt;
+
+&lt;ref name=fitzpatrick2006&gt;{{cite web |last1=Fitzpatrick |first1=Richard |date=16 February 2006 |url=http://farside.ph.utexas.edu/teaching/plasma/lectures/node69.html |title=MHD dynamo theory |publisher=NASA WMAP |access-date=27 February 2007}}&lt;/ref&gt;
+&lt;!---
+&lt;ref name=frye1983&gt;{{cite book |last1=Frye |first1=Roland Mushat |date=1983 |title=Is God a Creationist? The Religious Case Against Creation-Science |publisher=Scribner's |isbn=978-0-684-17993-3}}&lt;/ref&gt;
+---&gt;
+&lt;ref name=geerts_linacre97&gt;{{cite web |last1=Geerts |first1=B. |last2=Linacre |first2=E. |url=http://www-das.uwyo.edu/~geerts/cwx/notes/chap01/tropo.html |title=The height of the tropopause |date=November 1997 |work=Resources in Atmospheric Sciences |publisher=University of Wyoming |access-date=10 August 2006}}&lt;/ref&gt;
+
+&lt;ref name="GeolSoc"&gt;{{Cite web |year=2012|website=London Geological Society|title=The Crust and Lithosphere |url=https://www.geolsoc.org.uk/flood_basalts_2 |access-date=October 25, 2020}}&lt;/ref&gt;
+
+&lt;ref name=gould1994&gt;{{cite journal |last1=Gould |first1=Stephan J. |title=The Evolution of Life on Earth |journal=Scientific American |date=October 1994 |url=http://brembs.net/gould.html |access-date=5 March 2007 |doi=10.1038/scientificamerican1094-84 |volume=271 |issue=4 |pages=84–91 |pmid=7939569 |bibcode=1994SciAm.271d..84G}}&lt;/ref&gt;
+
+&lt;ref name="Harrison 2002"&gt;{{cite book |first1=Roy M. |last1=Harrison |author-link1=Roy M. Harrison |last2=Hester |first2=Ronald E. |date=2002 |title=Causes and Environmental Implications of Increased UV-B Radiation |publisher=Royal Society of Chemistry |isbn=978-0-85404-265-4}}&lt;/ref&gt;
+
+&lt;ref name=hbcp2000&gt;{{cite book |author=Various |editor=David R. Lide |date=2000 |title=Handbook of Chemistry and Physics |edition=81st |publisher=CRC |isbn=978-0-8493-0481-1}}&lt;/ref&gt;
+
+&lt;ref name="heat loss"&gt;{{cite journal |doi=10.1029/JB086iB12p11535 |title=Oceans and Continents: Similarities and Differences in the Mechanisms of Heat Loss |year=1981 |last1=Sclater |first1=John G |last2=Parsons |first2=Barry |last3=Jaupart |first3=Claude |journal=Journal of Geophysical Research |volume=86 |issue=B12 |page=11535 |bibcode=1981JGR....8611535S}}&lt;/ref&gt;
+
+&lt;ref name=hess5_4_569&gt;{{cite journal |last1=Bounama |first1=Christine |year=2001 |last2=Franck |first2=S. |last3=Von Bloh |first3=W. |s2cid=14024675 |title=The fate of Earth's ocean |journal=Hydrology and Earth System Sciences |volume=5 |issue=4 |pages=569–75 |doi=10.5194/hess-5-569-2001 |bibcode=2001HESS....5..569B|doi-access=free }}&lt;/ref&gt;
+
+&lt;ref name=hessd4_439&gt;{{cite journal |last1=Peel |first1=M. C. |last2=Finlayson |first2=B. L. |last3=McMahon |first3=T. A. |title=Updated world map of the Köppen-Geiger climate classification |journal=Hydrology and Earth System Sciences Discussions |year=2007 |volume=4 |issue=2 |pages=439–73 |doi=10.5194/hessd-4-439-2007 |bibcode=2007HESSD...4..439P |url=https://hal.archives-ouvertes.fr/hal-00298818/file/hessd-4-439-2007.pdf}}&lt;/ref&gt;
+
+&lt;ref name=hydrologic_cycle&gt;{{cite web |author=Various |date=21 July 1997 |url=http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/hyd/home.rxml |title=The Hydrologic Cycle |publisher=University of Illinois |access-date=24 March 2007}}&lt;/ref&gt;
+
+&lt;ref name="IERS2004"&gt;{{cite book |access-date=29 April 2016 |author=International Earth Rotation and Reference Systems Service (IERS) Working Group |chapter=General Definitions and Numerical Standards |chapter-url=http://www.iers.org/SharedDocs/Publikationen/EN/IERS/Publications/tn/TechnNote32/tn32_009.pdf?__blob=publicationFile&amp;v=1 |editor-first=Dennis D. |editor-last=McCarthy |editor2-first=Gérard |editor2-last=Petit |url=http://www.iers.org/SharedDocs/Publikationen/EN/IERS/Publications/tn/TechnNote32/tn32.pdf?__blob=publicationFile&amp;v=1 |title=IERS Conventions (2003) |publisher=Verlag des Bundesamts für Kartographie und Geodäsie |work=IERS Technical Note No. 32 |year=2004 |format=PDF |location=Frankfurt am Main |page=12 |isbn=978-3-89888-884-4}}&lt;/ref&gt;
+
+&lt;ref name=IERS&gt;{{cite web |author=Staff |date=7 August 2007 |url=http://hpiers.obspm.fr/eop-pc/models/constants.html |title=Useful Constants |publisher=[[International Earth Rotation and Reference Systems Service]] |access-date=23 September 2008}}&lt;/ref&gt;
+
+&lt;ref name=jas22_3_225&gt;{{cite journal |last1=Berkner |first1=L. V. |last2=Marshall |first2=L. C. |title=On the Origin and Rise of Oxygen Concentration in the Earth's Atmosphere |journal=Journal of the Atmospheric Sciences |volume=22 |issue=3 |pages=225–61 |bibcode=1965JAtS...22..225B |doi=10.1175/1520-0469(1965)022&lt;0225:OTOARO&gt;2.0.CO;2 |year=1965|doi-access=free }}&lt;/ref&gt;
+
+&lt;ref name=jas31_4_1118&gt;{{cite journal |last1=Liu |first1=S. C. |last2=Donahue |first2=T. M. |title=The Aeronomy of Hydrogen in the Atmosphere of the Earth |journal=Journal of the Atmospheric Sciences |volume=31 |issue=4 |pages=1118–36 |bibcode=1974JAtS...31.1118L |doi=10.1175/1520-0469(1974)031&lt;1118:TAOHIT&gt;2.0.CO;2 |year=1974|doi-access=free }}&lt;/ref&gt;
+
+&lt;ref name=jessey&gt;{{cite web |last1=Jessey |first1=David |url=http://geology.csupomona.edu/drjessey/class/Gsc101/Weathering.html |archive-url=https://web.archive.org/web/20070703170212/http://geology.csupomona.edu/drjessey/class/Gsc101/Weathering.html |archive-date=3 July 2007 |title=Weathering and Sedimentary Rocks |publisher=Cal Poly Pomona |access-date=20 March 2007 |url-status=dead}}&lt;/ref&gt;
+
+&lt;ref name=jg31_3_267&gt;{{cite journal |last1=Pollack |first1=Henry N. |last2=Hurter |first2=Suzanne J. |last3=Johnson |first3=Jeffrey R. |title=Heat flow from the Earth's interior: Analysis of the global data set |journal=Reviews of Geophysics |volume=31 |issue=3 |pages=267–80 |date=August 1993 |doi=10.1029/93RG01249 |bibcode=1993RvGeo..31..267P}}&lt;/ref&gt;
+&lt;!---
+&lt;ref name=jge53_3_319&gt;{{cite journal |last1=Ross |first1=M. R. |year=2005 |title=Who Believes What? Clearing up Confusion over Intelligent Design and Young-Earth Creationism |journal=Journal of Geoscience Education |volume=53 |issue=3 |page=319 |url=http://www.nagt.org/files/nagt/jge/abstracts/Ross_v53n3p319.pdf |access-date=28 April 2008 |format=PDF}}&lt;/ref&gt;
+---&gt;
+
+&lt;!---
+&lt;ref name=jrst43_4_419&gt;{{cite journal |last1=Colburn, |first1=A. |last2=Henriques |first2=Laura |year=2006 |title=Clergy views on evolution, creationism, science, and religion |journal=Journal of Research in Science Teaching |volume=43 |issue=4 |pages=419–42 |doi=10.1002/tea.20109 |bibcode=2006JRScT..43..419C}}&lt;/ref&gt;
+---&gt;
+
+&lt;ref name=kennish2001&gt;{{cite book |first1=Michael J. |last1=Kennish |date=2001 |title=Practical handbook of marine science |page=35 |edition=3rd |publisher=CRC Press |series=Marine science series |isbn=978-0-8493-2391-1}}&lt;/ref&gt;
+
+&lt;ref name=kinver20091210&gt;{{cite news |url=http://news.bbc.co.uk/2/hi/science/nature/8406839.stm |title=Global average temperature may hit record level in 2010 |last1=Kinver |first1=Mark |date=10 December 2009 |publisher=BBC |access-date=22 April 2010}}&lt;/ref&gt;
+
+&lt;ref name=kious_tilling1999&gt;{{cite web |last1=Kious |first1=W. J. |last2=Tilling |first2=R. I. |date=5 May 1999 |url=http://pubs.usgs.gov/gip/dynamic/understanding.html |title=Understanding plate motions |publisher=USGS |access-date=2 March 2007}}&lt;/ref&gt;
+
+&lt;ref name=kring&gt;{{cite web |last1=Kring |first1=David A |url=http://www.lpi.usra.edu/science/kring/epo_web/impact_cratering/intro/ |title=Terrestrial Impact Cratering and Its Environmental Effects |publisher=Lunar and Planetary Laboratory |access-date=22 March 2007}}&lt;/ref&gt;
+
+&lt;ref name=kuhn2006&gt;{{cite book |first1=Betsy |last1=Kuhn |date=2006 |title=The race for space: the United States and the Soviet Union compete for the new frontier |page=34 |publisher=Twenty-First Century Books |isbn=978-0-8225-5984-9}}&lt;/ref&gt;
+
+&lt;ref name=lancet365_9462_831&gt;{{cite journal |last1=Sharp |first1=David |s2cid=41080944 |title=Chimborazo and the old kilogram |journal=The Lancet |date=5 March 2005 |volume=365 |issue=9462 |pages=831–32 |doi=10.1016/S0140-6736(05)71021-7 |pmid=15752514}}&lt;/ref&gt;
+
+&lt;ref name=layers_earth&gt;{{cite web |author=Staff |url=http://volcano.oregonstate.edu/vwdocs/vwlessons/plate_tectonics/part1.html |archive-url=https://web.archive.org/web/20130211014443/http://volcano.oregonstate.edu/vwdocs/vwlessons/plate_tectonics/part1.html |archive-date=11 February 2013 |title=Layers of the Earth |work=Volcano World|publisher=Oregon State University|access-date=11 March 2007 |url-status=dead}}&lt;/ref&gt;
+
+&lt;ref name=lin2006&gt;{{cite web |first1=Haosheng |last1=Lin |title=Animation of precession of moon orbit |work=Survey of Astronomy AST110-6 |year=2006 |publisher=University of Hawaii at Manoa |url=http://www.ifa.hawaii.edu/users/lin/ast110-6/applets/precession_of_moon_orbit.htm |access-date=10 September 2010}}&lt;/ref&gt;
+
+&lt;ref name=liungman2004&gt;{{cite book |first1=Carl G. |last1=Liungman |date=2004 |chapter=Group 29: Multi-axes symmetric, both soft and straight-lined, closed signs with crossing lines |title=Symbols&amp;nbsp;– Encyclopedia of Western Signs and Ideograms |pages=281–82 |publisher=Ionfox AB |location=New York |isbn=978-91-972705-0-2}}&lt;/ref&gt;
+
+&lt;ref name=michon2006&gt;{{cite web |last1=Scott |first1=Michon |date=24 April 2006 |url=http://earthobservatory.nasa.gov/Study/HeatBucket/ |title=Earth's Big heat Bucket |publisher=NASA Earth Observatory |access-date=14 March 2007}}&lt;/ref&gt;
+
+&lt;ref name=milbert_smith96&gt;{{cite web |last1=Milbert |first1=D. G. |last2=Smith |first2=D. A |url=http://www.ngs.noaa.gov/PUBS_LIB/gislis96.html |title=Converting GPS Height into NAVD88 Elevation with the GEOID96 Geoid Height Model |publisher=National Geodetic Survey, NOAA |access-date=7 March 2007}}&lt;/ref&gt;
+
+&lt;ref name="moon_fact_sheet"&gt;{{cite web |last1=Williams |first1=David R. |date=1 September 2004 |url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html |title=Moon Fact Sheet |publisher=NASA |access-date=21 March 2007}}&lt;/ref&gt;
+
+&lt;ref name="moran2005"&gt;{{cite web |last1=Moran |first1=Joseph M. |year=2005 |url=http://www.nasa.gov/worldbook/weather_worldbook.html |archive-url=https://web.archive.org/web/20101213184908/http://www.nasa.gov/worldbook/weather_worldbook.html |archive-date=13 December 2010 |title=Weather |work=World Book Online Reference Center |publisher=NASA/World Book, Inc |access-date=17 March 2007 |url-status=dead}}&lt;/ref&gt;
+
+&lt;ref name=mullen2002&gt;{{cite web |last1=Mullen |first1=Leslie |date=11 June 2002 |url=http://www.astrobio.net/news/article223.html |archive-url=https://web.archive.org/web/20070630122335/http://www.astrobio.net/news/article223.html |archive-date=30 June 2007 |title=Salt of the Early Earth |publisher=NASA Astrobiology Magazine |access-date=14 March 2007 |url-status=dead}}&lt;/ref&gt;
+
+&lt;ref name=nasa_rg_iss2007&gt;{{cite web |date=16 January 2007 |url=http://www.nasa.gov/mission_pages/station/news/ISS_Reference_Guide.html |title=Reference Guide to the International Space Station |publisher=NASA |access-date=23 December 2008}}&lt;/ref&gt;
+&lt;!---
+&lt;ref name=nathist106_2_16&gt;{{cite journal |last1=Gould |first1=S. J. |year=1997 |title=Nonoverlapping magisteria |journal=Natural History |volume=106 |issue=2 |pages=16–22 |url=http://www.jbburnett.com/resources/gould_nonoverlapping.pdf |access-date=28 April 2008 |format=PDF}}&lt;/ref&gt;
+---&gt;
+&lt;ref name=nasa20051201&gt;{{cite web |author=Astrophysicist team |date=1 December 2005 |url=http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/030827a.html |title=Earth's location in the Milky Way |publisher=NASA |access-date=11 June 2008|archive-url=https://web.archive.org/web/20080701122913/http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/030827a.html|archive-date=1 July 2008|url-status=dead}}&lt;/ref&gt;
+
+&lt;ref name=natsci_oxy4&gt;{{cite web |last1=Morris |first1=Ron M |url=http://seis.natsci.csulb.edu/rmorris/oxy/oxy4.html |title=Oceanic Processes |publisher=NASA Astrobiology Magazine |access-date=14 March 2007 |url-status=dead |archive-url=https://web.archive.org/web/20090415082741/http://seis.natsci.csulb.edu/rmorris/oxy/oxy4.html |archive-date=15 April 2009}}&lt;/ref&gt;
+
+&lt;ref name="ngdc2006"&gt;{{cite web |last1=Sandwell |first1=D. T. |last2=Smith |first2=W. H. F. |date=7 July 2006 |url=http://www.ngdc.noaa.gov/mgg/bathymetry/predicted/explore.HTML |title=Exploring the Ocean Basins with Satellite Altimeter Data |publisher=NOAA/NGDC |access-date=21 April 2007|archive-url=http://archive.vn/sSVgz|archive-date=11 August 2014}}&lt;/ref&gt;
+
+&lt;ref name="NIST2008"&gt;{{Cite book |url=http://physics.nist.gov/Pubs/SP330/sp330.pdf |title=The international system of units (SI) |publisher=[[United States Department of Commerce]], [[National Institute of Standards and Technology|NIST]] Special Publication 330 |edition=2008 |page=52 |archive-url=https://web.archive.org/web/20090205071943/https://physics.nist.gov/Pubs/SP330/sp330.pdf |archive-date=5 February 2009}}&lt;/ref&gt;
+
+&lt;ref name=noaa20070307&gt;{{cite web |display-authors=1 |last1=Mueller |first1=R. D. |last2=Roest |first2=W. R. |last3=Royer |first3=J.-Y. |last4=Gahagan |first4=L. M. |last5=Sclater |first5=J. G. |date=7 March 2007 |url=http://www.ngdc.noaa.gov/mgg/fliers/96mgg04.html |title=Age of the Ocean Floor Poster |publisher=NOAA |access-date=14 March 2007}}&lt;/ref&gt;
+
+&lt;ref name=ocean23_2_112&gt;{{Cite journal |last1=Charette |first1=Matthew A. |last2=Smith |first2=Walter H. F. |title=The Volume of Earth's Ocean |journal=Oceanography |volume=23 |issue=2 |pages=112–14 |date=June 2010 |url=http://www.tos.org/oceanography/archive/23-2_charette.pdf |archive-url=https://web.archive.org/web/20131102230333/http://www.tos.org/oceanography/archive/23-2_charette.pdf |archive-date=2 November 2013 |access-date=6 June 2013 |doi=10.5670/oceanog.2010.51 |url-status=dead}}&lt;/ref&gt;
+
+&lt;ref name="OWID_2019"&gt;{{Cite web |last1=Ritchie |first1=H. |last2=Roser |first2=M. |date=2019 |title=Land Use |url=https://ourworldindata.org/land-use |access-date=October 26, 2020 |website=Our World in Data}}&lt;/ref&gt;
+
+&lt;ref name="OWID_urbanization_2019"&gt;{{Cite web |last1=Ritchie |first1=H. |last2=Roser |first2=M. |date=2019 |title=What share of people will live in urban areas in the future? |url=https://ourworldindata.org/urbanization#what-share-of-people-will-live-in-urban-areas-in-the-future |access-date=October 26, 2020 |website=Our World in Data}}&lt;/ref&gt;
+
+&lt;ref name=physorg20100304&gt;{{cite news |author=Staff |title=Oldest measurement of Earth's magnetic field reveals battle between Sun and Earth for our atmosphere |date=4 March 2010 |work=[[Phys.org]]|url=http://www.physorg.com/news186922627.html |access-date=27 March 2010}}&lt;/ref&gt;
+
+&lt;ref name="Pidwirny 2006_8"&gt;{{cite web |last1=Pidwirny |first1=Michael |date=2 February 2006 |title=Surface area of our planet covered by oceans and continents.(Table 8o-1) |publisher=University of British Columbia, Okanagan |url=http://www.physicalgeography.net/fundamentals/8o.html |access-date=26 November 2007}}&lt;/ref&gt;
+
+&lt;ref name="Pidwirny2006_7"&gt;{{cite web |last1=Pidwirny |first1=Michael |year=2006 |url=http://www.physicalgeography.net/fundamentals/7h.html |title=Fundamentals of Physical Geography (2nd Edition) |publisher=University of British Columbia, Okanagan|access-date=19 March 2007}}&lt;/ref&gt;
+
+&lt;ref name=pnas1_24_9576&gt;{{cite journal |last1=Li |first1=King-Fai |last2=Pahlevan |first2=Kaveh |last3=Kirschvink |first3=Joseph L. |last4=Yung |first4=Yuk L. |year=2009 |title=Atmospheric pressure as a natural climate regulator for a terrestrial planet with a biosphere |journal=Proceedings of the National Academy of Sciences |volume=106 |issue=24 |pages=9576–79 |url=http://www.gps.caltech.edu/~kfl/paper/Li_PNAS2009.pdf |access-date=19 July 2009 |doi=10.1073/pnas.0809436106 |pmid=19487662 |pmc=2701016 |bibcode=2009PNAS..106.9576L}}&lt;/ref&gt;
+
+&lt;ref name=pnas71_12_6973&gt;{{cite journal |last1=Morgan |first1=J. W. |last2=Anders |first2=E. |title=Chemical composition of Earth, Venus, and Mercury |journal=Proceedings of the National Academy of Sciences |year=1980 |volume=77 |issue=12 |pages=6973–77 |doi=10.1073/pnas.77.12.6973 |pmid=16592930 |pmc=350422 |bibcode=1980PNAS...77.6973M}}&lt;/ref&gt;
+
+&lt;ref name=pnas76_9_4192&gt;{{cite journal |last1=Jordan |first1=T. H. |title=Structural geology of the Earth's interior |journal=Proceedings of the National Academy of Sciences of the United States of America |year=1979 |volume=76 |issue=9 |pages=4192–4200 |doi=10.1073/pnas.76.9.4192 |pmid=16592703 |pmc=411539 |bibcode=1979PNAS...76.4192J}}&lt;/ref&gt;
+
+&lt;ref name=podp2000&gt;{{cite web |last1=Meschede |first1=Martin |last2=Barckhausen |first2=Udo |date=20 November 2000 |url=http://www-odp.tamu.edu/publications/170_SR/chap_07/chap_07.htm |title=Plate Tectonic Evolution of the Cocos-Nazca Spreading Center |work=Proceedings of the Ocean Drilling Program |publisher=Texas A&amp;M University |access-date=2 April 2007}}&lt;/ref&gt;
+
+&lt;ref name=ps20_5_16&gt;{{cite journal |last1=Senne |first1=Joseph H. |title=Did Edmund Hillary Climb the Wrong Mountain |url=http://archives.profsurv.com/magazine/article.aspx?i=589 |journal=Professional Surveyor |year=2000 |volume=20 |issue=5 |pages=16–21}}&lt;/ref&gt;
+
+&lt;ref name=psc&gt;{{cite web |author=Staff |url=http://www.lakepowell.net/sciencecenter/paleoclimate.htm |title=Paleoclimatology&amp;nbsp;– The Study of Ancient Climates |publisher=Page Paleontology Science Center |access-date=2 March 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070304002646/http://www.lakepowell.net/sciencecenter/paleoclimate.htm |archive-date=4 March 2007 }}&lt;/ref&gt;
+
+&lt;ref name=ptrsl360_1795_1227&gt;{{cite journal |last1=Alfè |first1=D. |last2=Gillan |first2=M. J. |last3=Vocadlo |first3=L. |last4=Brodholt |first4=J. |last5=Price |first5=G. D. |title=The ''ab initio'' simulation of the Earth's core |journal=Philosophical Transactions of the Royal Society |year=2002 |volume=360 |issue=1795 |pages=1227–44 |url=http://chianti.geol.ucl.ac.uk/~dario/pubblicazioni/PTRSA2002.pdf |access-date=28 February 2007 |doi=10.1098/rsta.2002.0992 |pmid=12804276 |bibcode=2002RSPTA.360.1227A|s2cid=21132433 }}&lt;/ref&gt;
+
+&lt;ref name=rahmstorf2003&gt;{{cite web |first1=Stefan |last1=Rahmstorf |year=2003 |url=http://www.pik-potsdam.de/~stefan/thc_fact_sheet.html |title=The Thermohaline Ocean Circulation |publisher=Potsdam Institute for Climate Impact Research |access-date=21 April 2007}}&lt;/ref&gt;
+
+&lt;ref name=reilly20091022&gt;{{cite news |first1=Michael |last1=Reilly |date=22 October 2009 |title=Controversial Moon Origin Theory Rewrites History |url=http://news.discovery.com/space/moon-earth-formation.html |archive-url=https://web.archive.org/web/20100109042800/http://news.discovery.com/space/moon-earth-formation.html |archive-date=9 January 2010 |access-date=30 January 2010}}&lt;/ref&gt;
+
+&lt;ref name=robertson2001&gt;{{cite web |last1=Robertson |first1=Eugene C. |date=26 July 2001 |url=http://pubs.usgs.gov/gip/interior/ |title=The Interior of the Earth |publisher=USGS |access-date=24 March 2007}}&lt;/ref&gt;
+
+&lt;ref name=sa282_6_90&gt;{{cite journal |last1=Doolittle |first1=W. Ford |last2=Worm |first2=Boris |url=http://shiva.msu.montana.edu/courses/mb437_537_2005_fall/docs/uprooting.pdf |archive-url=https://web.archive.org/web/20110715111244/http://shiva.msu.montana.edu/courses/mb437_537_2005_fall/docs/uprooting.pdf |archive-date=15 July 2011 |title=Uprooting the tree of life |journal=Scientific American |date=February 2000 |volume=282 |issue=6 |pages=90–95 |doi=10.1038/scientificamerican0200-90 |pmid=10710791 |url-status=dead |bibcode=2000SciAm.282b..90D}}&lt;/ref&gt;
+
+&lt;ref name=sadava_heller2006&gt;{{cite book |last1=Sadava |first1=David E. |last2=Heller |first2=H. Craig |last3=Orians |first3=Gordon H. |title=Life, the Science of Biology |publisher=MacMillan |date=2006 |edition=8th |page=[https://archive.org/details/lifescienceofbio00davi/page/1114 1114] |isbn=978-0-7167-7671-0 |url=https://archive.org/details/lifescienceofbio00davi/page/1114}}&lt;/ref&gt;
+
+&lt;ref name=sample2005&gt;{{cite web |first1=Sharron |last1=Sample |date=21 June 2005 |url=http://science.hq.nasa.gov/oceans/physical/SST.html |title=Sea Surface Temperature |publisher=NASA |access-date=21 April 2007 |url-status=dead |archive-url=https://web.archive.org/web/20130427045816/http://science.nasa.gov/earth-science/oceanography/ |archive-date=27 April 2013}}&lt;/ref&gt;
+
+&lt;ref name=sanders20031210&gt;{{cite news |first1=Robert |last1=Sanders |title=Radioactive potassium may be major heat source in Earth's core |publisher=UC Berkeley News |date=10 December 2003 |url=http://www.berkeley.edu/news/media/releases/2003/12/10_heat.shtml |access-date=28 February 2007}}&lt;/ref&gt;
+
+&lt;ref name=sci215_4539_1501&gt;{{cite journal |last1=Raup |first1=D. M. |last2=Sepkoski Jr |first2=J. J. |s2cid=43002817 |title=Mass Extinctions in the Marine Fossil Record |journal=Science |year=1982 |volume=215 |issue=4539 |pages=1501–03 |bibcode=1982Sci...215.1501R |doi=10.1126/science.215.4539.1501 |pmid=17788674}}&lt;/ref&gt;
+
+&lt;ref name=sci293_5531_839&gt;{{cite journal |title=Biogenic Methane, Hydrogen Escape, and the Irreversible Oxidation of Early Earth |last1=Catling |first1=David C. |last2=Zahnle |first2=Kevin J. |last3=McKay |first3=Christopher P. |journal=Science |volume=293 |issue=5531 |pages=839–43 |doi=10.1126/science.1061976 |year=2001 |pmid=11486082 |bibcode=2001Sci...293..839C |citeseerx=10.1.1.562.2763|s2cid=37386726 }}&lt;/ref&gt;
+
+&lt;ref name=science164_1229&gt;{{cite journal |last1=Hurley |first1=P. M. |last2=Rand |first2=J. R. |date=June 1969 |title=Pre-drift continental nuclei |journal=Science |volume=164 |pages=1229–42 |doi=10.1126/science.164.3885.1229 |pmid=17772560 |issue=3885 |bibcode=1969Sci...164.1229H}}&lt;/ref&gt;
+
+&lt;ref name=science246_4926_103&gt;{{cite journal |last1=Richards |first1=M. A. |last2=Duncan |first2=R. A. |last3=Courtillot |first3=V. E. |s2cid=9147772 |title=Flood Basalts and Hot-Spot Tracks: Plume Heads and Tails |journal=Science |year=1989 |volume=246 |issue=4926 |pages=103–07 |bibcode=1989Sci...246..103R |doi=10.1126/science.246.4926.103 |pmid=17837768}}&lt;/ref&gt;
+
+&lt;ref name=science299_5607_673&gt;{{cite journal |last1=Rona |first1=Peter A. |title=Resources of the Sea Floor |journal=Science |year=2003 |volume=299 |issue=5607 |pages=673–74 |doi=10.1126/science.1080679 |pmid=12560541|s2cid=129262186 }}&lt;/ref&gt;
+
+&lt;ref name=science310_5756_1947&gt;{{cite journal |doi=10.1126/science.1117926 |date=December 2005 |display-authors=1 |last1=Harrison |first1=T. |last2=Blichert-Toft |first2=J. |last3=Müller |first3=W. |last4=Albarede |first4=F. |last5=Holden |first5=P. |last6=Mojzsis |first6=S. |s2cid=11208727 |title=Heterogeneous Hadean hafnium: evidence of continental crust at 4.4 to 4.5 ga |volume=310 |issue=5756 |pages=1947–50 |pmid=16293721 |journal=Science |bibcode=2005Sci...310.1947H|doi-access=free }}&lt;/ref&gt;
+
+&lt;ref name=sciweek2004&gt;{{cite web |author=Staff |year=2004 |url=http://scienceweek.com/2004/rmps-23.htm |archive-url=https://web.archive.org/web/20070713053611/http://scienceweek.com/2004/rmps-23.htm |title=Stratosphere and Weather; Discovery of the Stratosphere |work=Science Week |access-date=14 March 2007 |archive-date=13 July 2007 |url-status=dead }}&lt;/ref&gt;
+&lt;!---
+&lt;ref name=sec_nap2008&gt;{{cite book |author=National Academy of Sciences, Institute of Medicine |title=Science, Evolution, and Creationism |url=http://books.nap.edu/openbook.php?record_id=11876&amp;page=R1 |date=2008 |publisher=National Academies Press |location=Washington, D.C |isbn=978-0-309-10586-6 |access-date=13 March 2011}}&lt;/ref&gt;
+---&gt;
+&lt;ref name=seidelmann1992&gt;{{cite book |last1=Seidelmann |first1=P. Kenneth |date=1992 |title=Explanatory Supplement to the Astronomical Almanac |page=48 |publisher=University Science Books |location=Mill Valley, CA |isbn=978-0-935702-68-2}}&lt;/ref&gt;
+
+&lt;ref name=seligman2008&gt;{{cite web |first1=Courtney |last1=Seligman |year=2008 |url=http://cseligman.com/text/planets/innerstructure.htm |title=The Structure of the Terrestrial Planets |work=Online Astronomy eText Table of Contents |publisher=cseligman.com |access-date=28 February 2008}}&lt;/ref&gt;
+
+&lt;ref name=shayler_vis2005&gt;{{cite book |first1=David |last1=Shayler |first2=Bert |last2=Vis |date=2005 |title=Russia's Cosmonauts: Inside the Yuri Gagarin Training Center |publisher=Birkhäuser |isbn=978-0-387-21894-6}}&lt;/ref&gt;
+
+&lt;ref name=Stanley_2016&gt;{{Cite journal|last1 = Stanley|first1 = S. M.|year= 2016| title = Estimates of the magnitudes of major marine mass extinctions in earth history|journal = Proceedings of the National Academy of Sciences of the United States of America| volume = 113|issue = 42|pages= E6325–E6334|doi =10.1073/pnas.1613094113 |pmid = 27698119|pmc = 5081622|bibcode = 2016PNAS..113E6325S|s2cid = 23599425}}&lt;/ref&gt;
+
+&lt;ref name=stern2005&gt;{{cite web |last1=Stern |first1=David P. |date=8 July 2005 |url=http://www-spof.gsfc.nasa.gov/Education/wmap.html |title=Exploration of the Earth's Magnetosphere |publisher=NASA |access-date=21 March 2007}}&lt;/ref&gt;
+
+&lt;ref name="sun_future"&gt;{{cite journal |last1=Sackmann |first1=I.-J. |last2=Boothroyd |first2=A. I. |last3=Kraemer |first3=K. E. |title=Our Sun. III. Present and Future |journal=Astrophysical Journal |year=1993 |volume=418 |pages=457–68 |doi=10.1086/173407 |bibcode=1993ApJ...418..457S}}&lt;/ref&gt;
+
+&lt;ref name="sun_future_schroder"&gt;{{cite journal |first1=K.-P. |last1=Schröder |last2=Connon Smith |first2=Robert |year=2008 |title=Distant future of the Sun and Earth revisited |doi=10.1111/j.1365-2966.2008.13022.x |journal=[[Monthly Notices of the Royal Astronomical Society]] |arxiv=0801.4031 |volume=386 |issue=1 |pages=155–63 |bibcode=2008MNRAS.386..155S|s2cid=10073988 }}&lt;br /&gt;See also {{cite news |first=Jason |last=Palmer |url=https://www.newscientist.com/article/dn13369 |archive-url=https://web.archive.org/web/20120415105707/http://www.newscientist.com/article/dn13369 |archive-date=15 April 2012 |title=Hope dims that Earth will survive Sun's death |date=22 February 2008 |work=NewScientist.com news service |access-date=24 March 2008}}&lt;/ref&gt;
+
+&lt;ref name=tanimoto_ahrens1995&gt;{{cite book |last1=Tanimoto |first1=Toshiro |editor=Thomas J. Ahrens |date=1995 |chapter=Crustal Structure of the Earth |title=Global Earth Physics: A Handbook of Physical Constants |journal=Global Earth Physics: A Handbook of Physical Constants |issue=1 |publisher=American Geophysical Union |location=Washington, DC |isbn=978-0-87590-851-9 |chapter-url=http://www.agu.org/reference/gephys/15_tanimoto.pdf |archive-url=https://web.archive.org/web/20061016194153/http://www.agu.org/reference/gephys/15_tanimoto.pdf |archive-date=16 October 2006 |access-date=3 February 2007 |bibcode=1995geph.conf.....A}}&lt;/ref&gt;
+
+&lt;ref name=tp322_19&gt;{{cite journal |doi=10.1016/S0040-1951(00)00055-X |title=Early formation and long-term stability of continents resulting from decompression melting in a convecting mantle |year=2000 |last1=De Smet |first1=J. |journal=Tectonophysics |volume=322 |issue=1–2 |pages=19–33 |bibcode=2000Tectp.322...19D |last2=Van Den Berg |first2=A.P. |last3=Vlaar |first3=N.J. |hdl=1874/1653 |url=https://dspace.library.uu.nl/bitstream/1874/1653/1/desmet_etal_00.pdf}}&lt;/ref&gt;
+
+&lt;ref name="T&amp;S 137"&gt;{{cite book |last1=Turcotte |first1=D. L. |last2=Schubert |first2=G. |title=Geodynamics |publisher=Cambridge University Press |location=Cambridge, England, UK |date=2002 |edition=2 |page=137 |chapter=4 |isbn=978-0-521-66624-4}}&lt;/ref&gt;
+
+&lt;ref name=ucs&gt;{{cite web |url=https://www.ucsusa.org/nuclear-weapons/space-weapons/satellite-database |title=UCS Satellite Database |work=Nuclear Weapons &amp; Global Security |publisher=[[Union of Concerned Scientists]] |date=1 April 2020 |access-date=25 August 2020}}&lt;/ref&gt;
+
+&lt;ref name=usno&gt;{{cite web |title=Selected Astronomical Constants, 2011 |work=The Astronomical Almanac |url=http://asa.usno.navy.mil/SecK/2011/Astronomical_Constants_2011.txt |archive-url=https://web.archive.org/web/20130826043456/http://asa.usno.navy.mil/SecK/2011/Astronomical_Constants_2011.txt |archive-date=26 August 2013 |access-date=25 February 2011}}&lt;/ref&gt;
+
+&lt;ref name=USNO_TSD&gt;{{cite web |title=Leap seconds |publisher=Time Service Department, USNO |url=http://tycho.usno.navy.mil/leapsec.html |archive-url=https://web.archive.org/web/20150312003149/http://tycho.usno.navy.mil/leapsec.html |access-date=23 September 2008 |archive-date=12 March 2015}}&lt;/ref&gt;
+
+&lt;ref name=vazquez_etal2006&gt;{{cite journal |last1=Vázquez |first1=M. |first2=P. Montañés |last2=Rodríguez |last3=Palle |first3=E. |year=2006 |url=http://www.iac.es/folleto/research/preprints/files/PP06024.pdf |title=The Earth as an Object of Astrophysical Interest in the Search for Extrasolar Planets |journal=Lecture Notes and Essays in Astrophysics |volume=2 |pages=49 |access-date=21 March 2007 |bibcode=2006LNEA....2...49V |archive-url=https://www.webcitation.org/617ElSxyd?url=http://www.iac.es/folleto/research/preprints/files/PP06024.pdf |archive-date=22 August 2011 |url-status=dead }}&lt;/ref&gt;
+
+&lt;ref name=VSOP87&gt;{{cite journal |title=Numerical expressions for precession formulae and mean elements for the Moon and planets |journal=Astronomy and Astrophysics |volume=282 |issue=2 |pages=663–83 |date=February 1994 |last1=Simon |first1=J.L. |last2=Bretagnon |first2=P. |last3=Chapront |first3=J. |last4=Chapront-Touzé |first4=M. |last5=Francou |first5=G. |last6=Laskar |first6=J. |bibcode=1994A&amp;A...282..663S}}&lt;/ref&gt;
+
+&lt;ref name=ward_brownlee2002&gt;{{cite book |last1=Ward |first1=Peter D. |last2=Brownlee |first2=Donald |date=2002 |title=The Life and Death of Planet Earth: How the New Science of Astrobiology Charts the Ultimate Fate of Our World |publisher=Times Books, Henry Holt and Company |location=New York |isbn=978-0-8050-6781-1 |url=https://archive.org/details/isbn_9780805067811}}&lt;/ref&gt;
+
+&lt;ref name="watersource"&gt;{{cite journal |display-authors=1 |last1=Morbidelli |first1=A. |last2=Chambers |first2=J. |last3=Lunine |first3=J. I. |last4=Petit |first4=J. M. |last5=Robert |first5=F. |last6=Valsecchi |first6=G. B. |last7=Cyr |first7=K. E. |title=Source regions and time scales for the delivery of water to Earth |journal=Meteoritics &amp; Planetary Science |year=2000 |volume=35 |issue=6 |pages=1309–20 |bibcode=2000M&amp;PS...35.1309M |doi=10.1111/j.1945-5100.2000.tb01518.x|doi-access=free }}&lt;/ref&gt;
+
+&lt;ref name=wekn_bulakh2004&gt;{{cite book |last1=Wenk |first1=Hans-Rudolf |last2=Bulakh |first2=Andreĭ Glebovich |title=Minerals: their constitution and origin |page=359 |publisher=Cambridge University Press |date=2004 |isbn=978-0-521-52958-7}}&lt;/ref&gt;
+
+&lt;ref name="WGS-84-2"&gt;{{cite web |first1=Sigurd |last1=Humerfelt |date=26 October 2010 |title=How WGS 84 defines Earth |url=http://home.online.no/~sigurdhu/WGS84_Eng.html |access-date=29 April 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110424104419/http://home.online.no/~sigurdhu/WGS84_Eng.html |archive-date=24 April 2011 }}&lt;/ref&gt;
+
+&lt;ref name="Williams1994"&gt;{{cite journal |last1=Williams |first1=James G. |title=Contributions to the Earth's obliquity rate, precession, and nutation |journal=The Astronomical Journal |volume=108 |year=1994 |page=711 |issn=0004-6256 |doi=10.1086/117108 |bibcode=1994AJ....108..711W}}&lt;/ref&gt;
+
+&lt;ref name=williams_santosh2004&gt;{{cite book |first1=John James William |last1=Rogers |last2=Santosh |first2=M. |date=2004 |title=Continents and Supercontinents |page=48 |publisher=Oxford University Press US |isbn=978-0-19-516589-0}}&lt;/ref&gt;
+
+&lt;ref name=zeilik1998&gt;{{cite book |last1=Zeilik |first1=M. |last2=Gregory |first2=S. A. |title=Introductory Astronomy &amp; Astrophysics |edition=4th |page=56 |publisher=Saunders College Publishing |isbn=978-0-03-006228-5 |date=1998}}&lt;/ref&gt;
+
+&lt;ref name="Luzum2011"&gt;{{cite journal |last1=Luzum |first1=Brian |last2=Capitaine |first2=Nicole |last3=Fienga |first3=Agnès |last4=Folkner |first4=William |last5=Fukushima |first5=Toshio |last6=Hilton |first6=James |last7=Hohenkerk |first7=Catherine |last8=Krasinsky |first8=George |last9=Petit |first9=Gérard |last10=Pitjeva |first10=Elena |last11=Soffel |first11=Michael |last12=Wallace |first12=Patrick |display-authors=5 |title=The IAU 2009 system of astronomical constants: The report of the IAU working group on numerical standards for Fundamental Astronomy |journal=Celestial Mechanics and Dynamical Astronomy |volume=110 |issue=4 |date=August 2011 |pages=293–304 |bibcode=2011CeMDA.110..293L |doi=10.1007/s10569-011-9352-4|doi-access=free }}&lt;/ref&gt;
+
+&lt;ref name=Narottam2008&gt;{{cite book |url=https://books.google.com/books?id=i4kASIoKym8C&amp;pg=PA40 |title=Climate Change and International Politics |publisher=Kalpaz Publications |first=Narottam |last=Gaan |page=40 |year=2008 |isbn=978-81-7835-641-9}}&lt;/ref&gt;
+}}
+
+== External links ==
+* [https://solarsystem.nasa.gov/planets/earth/overview/ Earth&amp;nbsp;– Profile] – Solar System Exploration – [[NASA]]
+* [http://earthobservatory.nasa.gov/ Earth Observatory] – NASA
+* Earth – Videos – International Space Station:
+** [https://www.youtube.com/watch?v=74mhQyuyELQ Video (01:02)] – Earth (time-lapse)
+** [https://www.youtube.com/watch?v=l6ahFFFQBZY Video (00:27)] – Earth and [[aurora]]s (time-lapse)
+* [https://www.google.com/maps/@36.6233227,-44.9959756,5662076m/data=!3m1!1e3 Google Earth 3D], interactive map
+* [https://thehappykoala.github.io/Harmony-of-the-Spheres/#/category/Solar%20System/scenario/The%20Earth%20and%20Moon%20System Interactive 3D visualisation of the Sun, Earth and Moon system]
+* [http://portal.gplates.org/ GPlates Portal] (University of Sydney)
+{{Subject bar|wikt=Earth|q=Earth|m=Earth|n=Earth|v=Earth|s=Earth|b=Earth|commons=Category:Earth}}
+
+{{Earth}}
+{{Navboxes
+|title = Other articles related to Earth
+|list  =
+{{Earth science}}
+{{Earth's location}}
+{{Nature nav}}
+{{Solar System}}
+}}
+{{Portal bar|Biology|Earth sciences|Ecology|Geography|Volcanoes|Solar System|Weather}}
+
+{{Authority control}}
+
+[[Category:Earth| ]]
+[[Category:Astronomical objects known since antiquity]]
+[[Category:Global natural environment]]
+[[Category:Planets in the circumstellar habitable zone]]
+[[Category:Nature]]
+[[Category:Planets of the Solar System]]
+[[Category:Terrestrial planets]]
+</textarea>

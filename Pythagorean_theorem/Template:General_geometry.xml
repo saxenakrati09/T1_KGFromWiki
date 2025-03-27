@@ -1,0 +1,250 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">&lt;includeonly&gt;{{Sidebar with collapsible lists
+| name = General geometry
+| class = plainlist
+| style = background:white;&lt;!--(to match image's background)--&gt;
+| title = [[Geometry]]
+| image = [[File:Stereographic projection in 3D.svg|frameless]]
+| caption = [[Projective geometry|Projecting]] a [[sphere]] to a [[plane (geometry)|plane]]
+| headingstyle = padding-bottom:0.2em;&lt;!--(otherwise too close to listtitles)--&gt;
+| listtitlestyle = background:#ddf;&lt;!--(otherwise listtitles can resemble boldened link)--&gt; text-align:center;&lt;!--(for sake of template's visual center/e-of-gravity)--&gt;
+| listclass = hlist
+| expanded = {{{expanded|{{{cTopic|{{{1|}}}}}}}}}
+
+| abovestyle = border:none; background:#ddf;padding:0 0 0.15em;text-align:center;&lt;!--(to match listtitles)--&gt; display:block;margin:0 1px 0.4em;&lt;!--(to match width of and spacing between listtitles)--&gt;
+| above = {{hlist|[[Outline of geometry|Outline]] | [[History of geometry|History]] }}
+
+|below = 
+
+&lt;!----------------------- Branches ------------------------&gt;
+| list0name = branches
+| list0title = [[List of geometry topics |Branches]]
+| list0 = 
+* [[Euclidean geometry|Euclidean]]
+* [[Non-Euclidean geometry|Non-Euclidean]]
+** [[Elliptic geometry|Elliptic]]
+*** [[Spherical geometry|Spherical]] 
+** [[Hyperbolic geometry|Hyperbolic]]
+* [[Non-Archimedean geometry]] 
+* [[Projective geometry|Projective]]
+* [[Affine geometry|Affine]]
+* [[Synthetic geometry|Synthetic]]
+* [[Analytic geometry|Analytic]]
+* [[Algebraic geometry|Algebraic]]
+** [[Arithmetic geometry|Arithmetic]]
+** [[Diophantine geometry|Diophantine]]
+* [[Differential geometry|Differential]]
+** [[Riemannian geometry|Riemannian]]
+** [[Symplectic geometry|Symplectic]]
+** [[Discrete differential geometry|Discrete differential]]
+* [[Complex geometry|Complex]]
+* [[Finite geometry|Finite]]
+* [[Discrete geometry|Discrete/Combinatorial]]
+** [[Digital geometry|Digital]]
+* [[Convex geometry|Convex]]
+* [[Computational geometry|Computational]]
+* [[Fractal|Fractal]]
+* [[Incidence geometry|Incidence ]]
+&lt;!----------------- Concepts • Features -------------------&gt;
+| list1name = concepts
+| list1title = {{hlist|Concepts|Features}}
+| list1 = [[Dimension]]
+
+&lt;!--(specific:)--&gt;
+* [[Straightedge and compass construction]]s
+
+* [[Angle]]
+* [[Curve]]
+* [[Diagonal]]
+* [[Orthogonality]] ([[Perpendicular]])
+* [[Parallel (geometry)|Parallel]]
+* [[Vertex (geometry)|Vertex]]
+
+&lt;!--(relational:)--&gt;
+* [[Congruence (geometry)|Congruence]]
+* [[Similarity (geometry)|Similarity]]
+* [[Symmetry]]
+
+&lt;!---------------------- Dimensions -----------------------&gt;
+
+| list2name = 0d
+| list2title = [[Zero-dimensional space|Zero-dimensional]]
+| list2 =
+* [[Point (geometry)|Point]]
+
+| list3name = 1d
+| list3title = [[One-dimensional space|One-dimensional]]
+| list3 =
+* [[Line (geometry)|Line]]
+** [[Line segment|segment]]
+** [[Line (geometry)#Ray|ray]]
+* [[Length]]
+
+| list4name = 2d
+| list4title = [[Two-dimensional space|Two-dimensional]]
+| list4style = padding-bottom:0;&lt;!--(subsidebar)--&gt;
+| list4 =
+ {{Sidebar |bodystyle={{subsidebar bodystyle}} |navbar=off
+  |headingstyle=background:#e6e6ff;&lt;!--(to complement listtitlestyle above)--&gt; &lt;!--font-style:italic;--&gt;font-weight:normal;&lt;!--(otherwise too similar to listtitles)--&gt;
+  |contentstyle=padding:0.2em 0.4em 0.6em;&lt;!--(otherwise too close to headings)--&gt;
+  | content1 =
+* [[Plane (geometry)|Plane]]
+* [[Area]]
+* [[Polygon]]
+  | heading2 = [[Triangle]]
+  | content2 =
+* [[Altitude (triangle)|Altitude]]
+* [[Hypotenuse]]
+* [[Pythagorean theorem]]
+  | heading3 = [[Parallelogram]]
+  | content3 =
+* [[Square]]
+* [[Rectangle]]
+* [[Rhombus]]
+* [[Rhomboid]]
+  | heading4 = [[Quadrilateral]]
+  | content4 =
+* [[Trapezoid]]
+* [[Kite (geometry)|Kite]]
+  | heading5 = [[Circle]]
+  | content5 =
+* [[Diameter]]
+* [[Circumference]]
+* [[Area of a circle|Area]]
+ }}
+
+| list5name = 3d
+| list5title = [[Three-dimensional space|Three-dimensional]]
+| list5 =
+&lt;!--(features:)--&gt;
+* [[Volume]]
+
+&lt;!--(specific objects:)--&gt;
+* [[Cube]]
+** [[cuboid]]
+* [[Cylinder (geometry)|Cylinder]]
+* [[Pyramid (geometry)|Pyramid]]
+* [[Sphere]]
+
+| list6name = 4d/other
+| list6title = [[Four-dimensional space|Four]]-{{\}}other-dimensional
+| list6 =
+* [[Tesseract]]
+*[[Hypersphere]]
+
+
+&lt;!----------------------- Geometers -----------------------&gt;
+| heading7 = [[List of geometers|Geometers]]
+
+| list8name = geometers by name
+| list8title = by name
+| list8 = &lt;!--(contents should match list9)--&gt;
+* [[Yasuaki Aida|Aida]]
+* [[Aryabhata]]
+* [[Ahmes]]
+* [[Alhazen]]
+* [[Apollonius of Perga|Apollonius]]
+* [[Archimedes]]
+* [[Michael Atiyah|Atiyah]]
+* [[Baudhayana]]
+* [[János Bolyai|Bolyai]]
+* [[Brahmagupta]]
+* [[Élie Cartan|Cartan]]
+* [[Harold Scott MacDonald Coxeter|Coxeter]]
+* [[René Descartes|Descartes]]
+* [[Euclid]]
+* [[Leonhard Euler|Euler]]
+* [[Carl Friedrich Gauss|Gauss]]
+* [[Mikhail Leonidovich Gromov|Gromov]]
+* [[David Hilbert|Hilbert]]
+* [[Jyeṣṭhadeva]]
+* [[Kātyāyana]]
+* [[Omar Khayyám|Khayyám]]
+* [[Felix Klein|Klein]]
+* [[Nikolai Lobachevsky|Lobachevsky]]
+* [[Manava]]
+* [[Hermann Minkowski|Minkowski]]
+* [[Minggatu]]
+* [[Blaise Pascal|Pascal]]
+* [[Pythagoras]]
+* [[Parameshvara]]
+* [[Henri Poincaré|Poincaré]]
+* [[Bernhard Riemann|Riemann]]
+* [[Sakabe Kōhan|Sakabe]]
+* [[Sijzi]]
+* [[Nasir al-Din al-Tusi|al-Tusi]]
+* [[Oswald Veblen|Veblen]]
+* [[Virasena]]
+* [[Yang Hui]]
+* [[Ibn al-Yasamin|al-Yasamin]]
+* [[Zhang Heng|Zhang]]
+* [[List of geometers]]
+
+| list9name = geometers by period
+| list9title = by period
+| list9style = padding-bottom:0;&lt;!--(subsidebar)--&gt;
+| list9 = &lt;!--(contents should match list8)--&gt;
+ {{Sidebar |bodystyle={{subsidebar bodystyle}} |navbar=off
+  |headingstyle=background:#e6e6ff;&lt;!--(as above)--&gt; &lt;!--font-style:italic;--&gt;font-weight:normal;&lt;!--(as above)--&gt;
+  |contentstyle=padding:0.2em 0.4em 0.6em;&lt;!--(as above)--&gt;
+  | heading1 = [[Before Common Era|BCE]]
+  | content1 =
+* &lt;!--   fl. 1650 BCE --&gt; [[Ahmes]]
+* &lt;!--    fl. 800 BCE --&gt; [[Baudhayana]]
+* &lt;!-- c. 750–690 BCE --&gt; [[Manava]]
+* &lt;!-- c. 570–495 BCE --&gt; [[Pythagoras]]
+* &lt;!--    fl. 300 BCE --&gt; [[Euclid]]
+* &lt;!-- c. 287–212 BCE --&gt; [[Archimedes]]
+* &lt;!-- c. 262–190 BCE --&gt; [[Apollonius of Perga|Apollonius]]
+  | heading2 = 1–1400s
+  | content2 =
+* &lt;!--    78–139 --&gt; [[Zhang Heng|Zhang]]
+* &lt;!--      200s --&gt; [[Kātyāyana]]
+* &lt;!--   476–550 --&gt; [[Aryabhata]]
+* &lt;!-- c. 598–670 --&gt; [[Brahmagupta]]
+* &lt;!--      800s --&gt; [[Virasena]]
+* &lt;!--  965–1040 --&gt; [[Alhazen]]
+* &lt;!--  fl. 1000 --&gt; [[Sijzi]]
+* &lt;!-- 1048–1131 --&gt; [[Omar Khayyám|Khayyám]]
+* &lt;!--     1100s --&gt; [[Ibn al-Yasamin|al-Yasamin]]
+* &lt;!-- 1201–1274 --&gt; [[Nasir al-Din al-Tusi|al-Tusi]]
+* &lt;!-- c. 1238–98 --&gt; [[Yang Hui]]
+* &lt;!-- c. 1380–1460 --&gt; [[Parameshvara]]
+  | heading3 = 1400s–1700s
+  | content3 =
+* &lt;!--     1500s --&gt; [[Jyeṣṭhadeva]]
+* &lt;!-- 1596–1650 --&gt; [[René Descartes|Descartes]]
+* &lt;!-- 1623–1662 --&gt; [[Blaise Pascal|Pascal]]
+* &lt;!-- c. 1692–1763 --&gt; [[Minggatu]]
+* &lt;!-- 1707–1783 --&gt; [[Leonhard Euler|Euler]]
+* &lt;!-- 1729–1854 --&gt; [[Sakabe Kōhan|Sakabe]]
+* &lt;!-- 1747–1817 --&gt; [[Yasuaki Aida|Aida]]
+  | heading4 = 1700s–1900s
+  | content4 =
+* &lt;!-- 1777–1855 --&gt; [[Carl Friedrich Gauss|Gauss]]
+* &lt;!-- 1792–1856 --&gt; [[Nikolai Lobachevsky|Lobachevsky]]
+* &lt;!-- 1802–1860 --&gt; [[János Bolyai|Bolyai]]
+* &lt;!-- 1826–1866 --&gt; [[Bernhard Riemann|Riemann]]
+* &lt;!-- 1849–1925 --&gt; [[Felix Klein|Klein]]
+* &lt;!-- 1854–1912 --&gt; [[Henri Poincaré|Poincaré]]
+* &lt;!-- 1862–1943 --&gt; [[David Hilbert|Hilbert]]
+* &lt;!-- 1864–1909 --&gt; [[Hermann Minkowski|Minkowski]]
+* &lt;!-- 1869–1951 --&gt; [[Élie Cartan|Cartan]]
+* &lt;!-- 1880–1960 --&gt; [[Oswald Veblen|Veblen]]
+* &lt;!-- 1907-2003 --&gt; [[Harold Scott MacDonald Coxeter|Coxeter]]
+  | heading5 = Present day
+  | content5 =
+* &lt;!-- born 1929 --&gt; [[Michael Atiyah|Atiyah]]
+* &lt;!-- born 1943 --&gt; [[Mikhail Leonidovich Gromov|Gromov]]
+ }}
+
+}}&lt;/includeonly&gt;&lt;noinclude&gt;
+{{Documentation
+ | content = {{General geometry}}
+{{Collapsible lists option
+| listnames = {{hlist |branches |concepts |0d |1d |2d |3d |4d/other |geometers by name |geometers by period}}
+}}
+[[Category:Mathematics sidebar templates]]
+[[Category:Physics sidebar templates]]
+}}&lt;!--(end Documentation)--&gt;
+&lt;/noinclude&gt;
+</textarea>

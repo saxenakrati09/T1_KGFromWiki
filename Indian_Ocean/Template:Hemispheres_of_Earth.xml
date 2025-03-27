@@ -1,0 +1,24 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox
+|name = Hemispheres of Earth
+|title = [[Hemispheres of Earth]]
+|listclass = hlist
+|basestyle = 
+
+|list1 = 
+* [[Northern Hemisphere|Northern]]
+* [[Southern Hemisphere|Southern]]
+* [[Eastern Hemisphere|Eastern]]
+* [[Western Hemisphere|Western]]
+* ''[[Land and water hemispheres|Land]]''
+* ''[[Land and water hemispheres|Water]]''
+
+| belowclass = hlist
+| below = 
+* '''{{Icon|Book}} [[Book:Hemispheres of Earth]]'''
+* '''{{Icon|Portal}} [[Portal:Geography]]'''
+* '''{{Icon|Commons}} [[Commons:Category:Maps of Earth's hemispheres|Commons:Maps of Earth's hemispheres]]'''
+}}&lt;noinclude&gt;
+
+[[Category:Geography and place templates]]
+&lt;/noinclude&gt;
+</textarea>

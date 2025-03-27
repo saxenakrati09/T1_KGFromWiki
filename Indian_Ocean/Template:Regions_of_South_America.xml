@@ -1,0 +1,63 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox
+| name  = Regions of South America
+| title = Regions of [[South America]]
+| state = {{{state|autocollapse}}}
+| listclass = hlist
+
+     | group2 = [[Brazilian Highlands|East]]
+     | list2 = 
+* [[Amazon basin]]
+* [[Atlantic Forest]]
+* [[Caatinga]]
+* [[Cerrado]]
+
+     | group3 = [[Northern South America|North]]
+     | list3 = 
+* [[Caribbean South America]]
+* [[West Indies]]
+* [[Llanos]]
+* [[The Guianas]]
+* [[Amazon basin]]
+** [[Amazon rainforest]]
+* [[Gulf of Paria]]
+* [[Paria Peninsula]]
+* [[Paraguaná Peninsula]]
+* [[Orinoco Delta]]
+
+     | group4 = [[Southern Cone|South]]
+     | list4 = 
+* [[Tierra del Fuego]]
+* [[Patagonia]]
+* [[Pampas]]
+* [[Pantanal]]
+* [[Gran Chaco]]
+* [[Chiquitano dry forests]]
+* [[Valdes Peninsula]]
+* [[Triple Frontier]]
+* [[Río de la Plata]]
+**[[Río de la Plata Basin]]
+
+     | group5 = [[Andean states|West]]
+     | list5 = 
+* [[Andes]]
+** [[Tropical Andes]]
+** [[Wet Andes]]
+** [[Dry Andes]]
+** [[Pariacaca mountain range]]
+* [[Altiplano]]
+* [[Atacama Desert]]
+
+     | group6 = 
+     | list6 = 
+* [[Middle America (Americas)|Middle]]
+* [[Latin America|Latin]]
+* [[Hispanic America|Hispanic]]
+* [[Bolivarian countries|Bolivarian]]
+* [[American Cordillera]]
+* [[Ring of Fire]]
+* [[Latin America and the Caribbean|LAC]]
+
+}}&lt;noinclude&gt;
+{{Documentation}}
+&lt;/noinclude&gt;
+</textarea>

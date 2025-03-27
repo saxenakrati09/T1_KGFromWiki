@@ -1,0 +1,92 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox
+| name  = Earth
+| title = [[Earth]]
+| image = [[File:The Earth seen from Apollo 17.jpg|100px|link=Earth]]
+| state = {{{state&lt;includeonly&gt;|autocollapse&lt;/includeonly&gt;}}}
+| bodyclass = hlist
+| basestyle = text-align: center;
+
+| group1 = [[Continent]]s
+| list1  = 
+* [[Africa]]
+* [[Antarctica]]
+* [[Asia]]
+* [[Australia (continent)|Australia]]
+* [[Europe]]
+* [[North America]]
+* [[South America]]
+
+| group2 = [[Ocean]]s
+| list2  = 
+* [[Arctic Ocean]]
+* [[Atlantic Ocean]]
+* [[Indian Ocean]]
+* [[Pacific Ocean]]
+* [[Southern Ocean]]
+
+| group3 = [[Geology]]
+| list3  = 
+* [[Age of Earth]]
+* [[Geology]]
+* [[Earth science]]
+* [[Extremes on Earth]]
+* [[Future of Earth|Future]]
+* [[Geological history of Earth|Geological history]]
+* [[Geologic record]]
+* [[Geophysics]]
+* [[Gravity of Earth|Gravity]]
+* [[History of Earth]]
+* [[Earth's magnetic field|Magnetic field]]
+* [[Plate tectonics]]
+* [[Structure of Earth|Structure]]
+
+| group4 = [[Atmosphere of Earth|Atmosphere]]
+| list4  = 
+* [[Atmosphere of Earth]]
+* [[Climate]]
+* [[Global warming]]
+* [[Weather]]
+
+| group5 = [[Natural environment|Environment]]
+| list5  = 
+* [[Biome]]
+* [[Biosphere]]
+* [[Ecology]]
+* [[Ecosystem]]
+* [[Human impact on the environment]]
+* [[Evolutionary history of life]]
+* [[Nature]]
+
+| group6 = [[Earth in culture|Culture and society]]
+| list6  = 
+* [[Cartography]]
+* [[List of sovereign states|List of countries]]
+* [[Digital mapping]]
+* [[Earth in culture|In culture]]
+* [[Earth Day]]
+* [[World economy]]
+* [[Earth#Etymology|Etymology]]
+* [[Human history|World history]]
+* [[Time zone]]s
+* [[World]]
+
+| group7 = [[Planetary science]]
+| list7  = 
+* [[Earth's orbit]]
+* [[Formation and evolution of the Solar System|Evolution of Solar System]]
+* [[Geology of solar terrestrial planets]]
+* [[Location of Earth|Location in the Universe]]
+* [[Moon|The Moon]]
+* [[Solar System]]
+
+| below  = 
+* {{icon|category}} '''[[:Category:Earth|Category]]'''
+* {{icon|Outline}} '''[[Outline of Earth]]'''
+* {{icon|Portal}} '''[[Portal:Earth sciences|Earth sciences portal]]'''
+* {{icon|Portal}} '''[[Portal:Solar System|Solar System portal]]'''
+
+}}&lt;noinclude&gt;
+
+{{documentation}}
+&lt;/noinclude&gt;
+</textarea>

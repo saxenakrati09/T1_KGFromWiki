@@ -1,0 +1,131 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox
+| name  = Ocean
+| title = [[Ocean current]]s and [[Ocean gyre|gyres]]
+| state = {{{state|autocollapse}}}
+| image = &lt;!-- Avoid adding image, as it will cramp-up the text. Thanks --&gt;
+| listclass = hlist
+
+| group1 = [[Ocean current|Currents]]
+| list1  = {{Navbox|subgroup
+| group1 = Arctic Ocean
+| list1  =
+* [[East Greenland Current|East Greenland]]
+* [[North Icelandic Jet|North Icelandic]]
+* [[Norwegian Current|Norwegian]]
+* [[Transpolar Drift Stream]]
+
+| group2 = Atlantic Ocean
+| list2  =
+* [[Angola Current|Angola]]
+* [[Antilles Current|Antilles]]
+* [[Azores Current|Azores]]
+* [[Baffin Island Current|Baffin Island]]
+* [[Benguela Current|Benguela]]
+* [[Brazil Current|Brazil]]
+* [[Canary Current|Canary]]
+* [[Cape Horn Current|Cape Horn]]
+* [[Caribbean Current|Caribbean]]
+* [[East Greenland Current|East Greenland]]
+* [[East Iceland Current|East Iceland]]
+* [[Falkland Current|Falkland]]
+* [[Florida Current|Florida]]
+* [[Guinea Current|Guinea]]
+* [[Gulf Stream]]
+* [[Irminger Current|Irminger]]
+* [[Labrador Current|Labrador]]
+* [[Lomonosov Current|Lomonosov]]
+* [[Loop Current|Loop]]
+* [[North Atlantic Current|North Atlantic]]
+* [[North Brazil Current|North Brazil]]
+* [[North Equatorial Current|North Equatorial]]
+* [[Norwegian Current|Norwegian]]
+* [[Portugal Current|Portugal]]
+* [[Slope Jet Current|Slope Jet]]
+* [[South Atlantic Current|South Atlantic]]
+* [[South Equatorial Current|South Equatorial]]
+* [[West Greenland Current|West Greenland]]
+* [[West Spitsbergen Current|West Spitsbergen]]
+
+| group3 = Indian Ocean
+| list3  =
+* [[Agulhas Current|Agulhas]]
+* [[Agulhas Return Current|Agulhas Return]]
+* [[East Madagascar Current|East Madagascar]]
+* [[Equatorial Counter Current|Equatorial Counter]]
+* [[Indian Monsoon Current|Indian Monsoon]]
+* [[Indonesian Throughflow]]
+* [[Leeuwin Current|Leeuwin]]
+* [[Madagascar Current|Madagascar]]
+* [[Mozambique Current|Mozambique]]
+* [[North Madagascar Current|North Madagascar]]
+* [[Somali Current|Somali]]
+* [[South Australian Counter Current|South Australian]]&lt;!-- unsure this current exists or perhaps is not notable --&gt;
+* [[South Equatorial Current|South Equatorial]]
+* [[West Australian Current|West Australian]]
+
+| group4 = Pacific Ocean
+| list4  =
+* [[Alaska Current|Alaska]]
+* [[Aleutian Current|Aleutian]]
+* [[California Current|California]]
+* [[Cromwell Current|Cromwell]]
+* [[Davidson Current|Davidson]]
+* [[East Australian Current|East Australian]]
+* [[East Korea Warm Current|East Korea Warm]]
+* [[Equatorial Counter Current|Equatorial Counter]]
+* [[Humboldt Current|Humboldt]]
+* [[Indonesian Throughflow]]
+* [[Kamchatka Current|Kamchatka]]
+* [[Kuroshio Current|Kuroshio]]
+* [[Mindanao Current|Mindanao]]
+* [[North Equatorial Current|North Equatorial]]
+* [[North Korea Cold Current|North Korea Cold]]
+* [[North Pacific Current|North Pacific]]
+* [[Oyashio Current|Oyashio]]
+* [[South Equatorial Current|South Equatorial]]
+* [[Tasman Front]]
+
+| group5 = Southern Ocean
+| list5  =
+* [[Antarctic Circumpolar Current|Antarctic Circumpolar]]
+* [[Tasman Outflow]]
+}}
+
+| group2 = [[Ocean gyre|Gyres]]
+| list2  = {{Navbox|subgroup
+| group1 = Major gyres
+| list1  =
+* [[Indian Ocean Gyre]]
+* [[North Atlantic Gyre]]
+* [[South Atlantic Gyre]]
+* [[North Pacific Gyre]]
+* [[South Pacific Gyre]]
+
+| group2 = Other gyres
+| list2  =
+* [[Beaufort Gyre]]
+* [[Ross Gyre]]
+* [[Weddell Gyre]]
+}}
+
+| group3 = Related
+| list3  =
+* [[Atmospheric circulation]]
+* [[Boundary current]]
+* [[Coriolis force]]
+* [[Ekman transport]]
+* [[Marine debris]]
+* [[Garbage patch|Marine garbage patches]]
+** [[Great Pacific garbage patch|Great Pacific]]
+** [[Indian Ocean garbage patch|Indian Ocean]]
+** [[North Atlantic garbage patch|North Atlantic]]
+** [[South Pacific garbage patch|South Pacific]]
+* [[Thermohaline circulation]]
+
+| below=
+'''{{portal-inline|size=small|Oceans}}'''
+}}&lt;noinclude&gt;
+[[Category:Ocean and sea templates| ]]
+[[Category:Science and nature templates]]
+&lt;/noinclude&gt;
+</textarea>

@@ -1,0 +1,9 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">* [[proofwiki:{{{id}}}|{{FULLPAGENAME}}]] at ProofWiki&lt;noinclude&gt;
+*Usage:
+ &lt;nowiki&gt;{{ProofWiki|id=PageIdentifier}}&lt;/nowiki&gt; 
+:''PageIdentifier'' is the url address of the page. 
+:Note: ProofWiki.com may not satisfy [[WP:RS]], so in most cases this template should only be used in the '''External links''' section of an article.
+*Example: 
+ &lt;nowiki&gt;{{ProofWiki|id=Tychonoff's_Theorem}}&lt;/nowiki&gt; 
+&lt;/noinclude&gt;
+</textarea>

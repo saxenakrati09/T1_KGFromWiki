@@ -1,0 +1,112 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox
+| name = Tesla, Inc.
+| title = [[Tesla, Inc.]]
+| image = [[File:Tesla T symbol.svg|80px]]
+| bodyclass = hlist
+
+|group1 = Vehicles
+| list1 = {{navbox|child
+  |group1 = Current
+  | list1 =
+* [[Tesla Model S|Model S]] 
+* [[Tesla Model 3|Model 3]] 
+* [[Tesla Model X|Model X]] 
+* [[Tesla Model Y|Model Y]] 
+
+  |group2 = Future
+  | list2 =
+* [[Tesla Cybertruck|Cybertruck]]
+* [[Tesla Cyberquad|ATV/Cyberquad]]
+* [[Tesla Roadster (second generation)|Roadster (2nd generation)]]
+* [[Tesla Semi|Semi truck]]
+
+  |group3 = Discontinued
+  | list3 =
+* [[Tesla Roadster (first generation)|Roadster (1st generation)]]
+
+  |group4 = Joint projects
+  | list4 = 
+* [[Mercedes A-Class E-Cell]]
+* [[Mercedes-Benz B-Class Electric Drive]]
+* [[Smart electric drive]]
+* [[Toyota RAV4 EV#Second generation|Toyota RAV4 EV (second generation)]]
+
+}}
+
+|group2 = Other products
+| list2 =
+* [[Tesla Autopilot|Autopilot]]
+* [[Tesla Solar Roof|Solar roof]]
+* [[Tesla Powerwall|Powerwall]]&lt;sup&gt;[{{abbr|13 kWh|13 kilowatt hour}}]&lt;/sup&gt;
+* [[Tesla Powerpack|Powerpack]]&lt;sup&gt;[{{abbr|210 kWh|210 kilowatt hour}}]&lt;/sup&gt;
+* [[Tesla Megapack|Megapack]]&lt;sup&gt;[{{abbr|3 MWh|3 Megawatt hour}}]&lt;/sup&gt;
+
+|group3 = People
+| list3 = {{navbox|child
+  |group1 = Executives
+  | list1 =
+* [[Robyn Denholm]] (Chairman)
+* [[Elon Musk]] (CEO)
+* [[Zach Kirkhorn]] (CFO)
+* [[Drew Baglino]] (CTO)
+* [[Franz von Holzhausen]] (Chief Designer)
+* [[Jerome Guillen|Jérôme Guillen]] (President of Automotive)
+  |group2 = Others
+  | list2 =
+* [[Larry Ellison]] (board)
+* [[Hiromichi Mizuno]] (board)
+* [[Andrej Karpathy]] (AI)
+* [[Kathleen Wilson-Thompson]] (board)
+  |group3 = Former
+  | list3 =
+* [[Deepak Ahuja]] (two-time CFO)
+* [[Ze'ev Drori]] (second CEO)
+* [[Martin Eberhard]] (co-founder, inaugural CEO)
+* [[Arnnon Geshuri]] (HR)
+* [[Jim Keller (engineer)|Jim Keller]] (chipset)
+* [[Chris Lattner]] (Autopilot)
+* [[Marc Tarpenning]] (co-founder, inaugural CFO)
+* [[J. B. Straubel]] (co-founder, inaugural CTO)
+* [[Jay Vijayan]] (CIO)
+}}
+
+|group4 = Facilities
+| list4 = 
+* [[Tesla Factory]] (Fremont, California)
+* [[Tesla facilities in Tilburg|European distribution center]] (Tilburg, Netherlands)
+* Gigafactories
+** [[Giga Nevada]]
+** [[Giga New York]]
+** [[Giga Shanghai]]
+** [[Giga Berlin]]
+** [[Giga Texas]]
+* [[Tesla Supercharger|Superchargers]]
+
+| group5 = Controversies
+| list5 =
+* [[Lawsuits and Controversies of Tesla, Inc.|Lawsuits and controversies (list)]]
+* [[Tesla US dealership disputes|Dealership disputes]]
+* [[Sudden unintended acceleration#Tesla's Model X, S and 3|Sudden unintended acceleration cases]]
+* [[Tesla Autopilot#Safety concerns|Autopilot safety concerns]]
+* [[TSLAQ]]
+
+| group6 = Related
+| list6 = 
+* [[History of Tesla, Inc.|History]]
+** [[History of Tesla, Inc.|Timeline]]
+* [[SolarCity]]
+* [[Elon Musk's Tesla Roadster|Tesla Roadster in space]]
+* [[Giga Press]]
+* [[Hornsdale Power Reserve]]
+* [[Maxwell Technologies]]
+
+
+
+| below = 
+* {{icon|category}} [[:Category:Tesla, Inc.|Category]]
+}}&lt;noinclude&gt;
+[[Category:Automotive company templates]]
+[[Category:Technology company templates‎]]
+[[Category:United States company templates]]
+&lt;/noinclude&gt;
+</textarea>

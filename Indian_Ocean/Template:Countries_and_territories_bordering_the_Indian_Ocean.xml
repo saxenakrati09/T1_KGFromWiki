@@ -1,0 +1,74 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox
+| name       = Countries and territories bordering the Indian Ocean
+| title      = Countries and territories bordering the [[Indian Ocean]]
+| state      = {{{state|autocollapse}}}
+| listclass  = hlist
+| image      = [[File:Indianocean.PNG|100px|Map of the Indian Ocean]]
+
+| group1 = [[Africa]]
+| list1  = 
+* [[Comoros]]
+* [[Djibouti]]
+* [[Egypt]]
+* [[Eritrea]]
+* [[France]]
+** ''[[Mayotte]]''
+** ''[[Réunion]]''
+* [[Kenya]]
+* [[Madagascar]]
+* [[Mauritius]]
+* [[Mozambique]]
+* [[Seychelles]]
+* [[Somalia]]
+* [[South Africa]]
+* [[Sudan]]
+* [[Tanzania]]
+
+| group2 = [[Asia]]
+| list2  = 
+* [[Bahrain]]
+* [[Bangladesh]]
+* ''[[British Indian Ocean Territory]] {{small|United Kingdom}}''
+* ''[[Christmas Island]]'' {{small|(Australia)}}
+* ''[[Cocos (Keeling) Islands]]'' {{small|(Australia)}}
+* [[India]]
+* [[Indonesia]]
+* [[Iran]]
+* [[Iraq]]
+* [[Israel]]
+* [[Jordan]]
+* [[Kuwait]]
+* [[Malaysia]]
+* [[Maldives]]
+* [[Myanmar]]
+* [[Oman]]
+* [[Pakistan]]
+* [[Qatar]]
+* [[Saudi Arabia]]
+* [[Sri Lanka]]
+* [[Thailand]]
+* [[East Timor|Timor-Leste]]
+* [[United Arab Emirates]]
+* [[Yemen]]
+
+| group3 = Other
+| list3  = 
+* ''[[Antarctica]]''
+** [[Australian Antarctic Territory]]
+** [[French Southern and Antarctic Lands]]
+** [[Heard Island and McDonald Islands]]
+* [[Australia]]
+
+}}&lt;noinclude&gt;
+{{documentation|content=
+{{collapsible option}}
+
+[[Category:Africa country templates]]
+[[Category:Antarctica templates]]
+[[Category:Asia country templates]]
+[[Category:Oceania country templates]]
+[[Category:Territory (non-sovereign) templates]]
+[[Category:Ocean and sea templates|Indian Ocean]]
+}}
+&lt;/noinclude&gt;
+</textarea>

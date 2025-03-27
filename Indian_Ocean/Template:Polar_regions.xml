@@ -1,0 +1,37 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox
+| name  = Polar regions
+| title = [[Earth]]'s [[Polar regions of Earth|polar regions]]
+| state = {{{state|autocollapse}}}
+| listclass = hlist
+
+| group1 = [[Antarctic]]
+| list1 = 
+* [[Antarctic Peninsula]]
+* [[East Antarctica]]
+* [[West Antarctica]]
+* [[Eklund Islands]]
+* [[Antarctic realm|Ecozone]]
+* [[List of countries by southernmost point|Extreme points]]
+* [[List of Antarctic and subantarctic islands|Islands]]
+
+| group2 = [[Arctic]]
+| list2 = 
+* [[Arctic Alaska]]
+* [[British Arctic Territories]]
+* [[Arctic Archipelago|Canadian Arctic Archipelago]]
+* [[Finnmark]]
+* [[Greenland]]
+* [[Northern Canada]]
+* [[Northwest Territories]]
+* [[Nunavik]]
+* [[Nunavut]]
+* [[Far North (Russia)|Russian Arctic]]
+* [[Sakha Republic|Sakha]]
+* [[Sápmi]]
+* [[Yukon]]
+* [[North American Arctic]]
+
+}}&lt;noinclude&gt;
+{{Documentation}}
+&lt;/noinclude&gt;
+</textarea>

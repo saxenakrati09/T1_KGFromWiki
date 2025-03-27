@@ -1,0 +1,29 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox
+|name       = Location of US capital
+|state      = {{{state|autocollapse}}}
+|title      = [[List of capitals in the United States|Location of the capital of the United States]]
+|listclass = hlist
+
+| group1 = [[Temporary capital]]s
+| list1  = 
+* [[Philadelphia]]&amp;nbsp;(1776;&amp;nbsp;1777;&amp;nbsp;1778–1783;&amp;nbsp;1791–1800)
+* [[Baltimore]]&amp;nbsp;(1776–77)
+* [[Lancaster, Pennsylvania|Lancaster]]&amp;nbsp;(1777)
+* [[York, Pennsylvania|York]]&amp;nbsp;(1777–78)
+* [[Princeton, New Jersey|Princeton]]&amp;nbsp;(1783)
+* [[Annapolis, Maryland|Annapolis]]&amp;nbsp;(1783–84)
+* [[Trenton, New Jersey|Trenton]]&amp;nbsp;(1784–85)
+* [[New York City]]&amp;nbsp;(1785–91)
+
+| group2 = [[Capital city|Permanent capital]]
+| list2  =
+* [[Washington, D.C.]]&amp;nbsp;(since 1800)
+
+}}&lt;noinclude&gt;
+{{collapsible option}}
+
+[[Category:United States government navigational boxes|Capital]]
+[[Category:United States templates|{{PAGENAME}}]]
+
+&lt;/noinclude&gt;
+</textarea>

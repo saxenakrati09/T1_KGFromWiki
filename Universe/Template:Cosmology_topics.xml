@@ -1,0 +1,82 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox
+|name       = Cosmology topics
+|title      = [[Cosmology]]
+|listclass = hlist
+|image          = [[file:Ilc 9yr moll4096.png|110px|link=|alt=]]
+|state = {{{state|autocollapse}}}
+|basestyle = text-align:center;
+
+|group1     = Background
+|list1      =
+* [[Age of the universe]]
+* [[Big Bang]]
+* [[Chronology of the universe]]
+* [[Universe]]
+* [[Observable Universe]]
+
+|group2     = History of&lt;br /&gt;cosmological theories
+|list2      = 
+* [[Discovery of cosmic microwave background radiation|Discovery of cosmic microwave background]]
+* [[History of the Big Bang theory]]
+* [[Religious interpretations of the Big Bang theory|Religious interpretations of the Big Bang]]
+* [[Timeline of cosmological theories]]
+
+|group3     = Past universe
+|list3      =
+* [[Cosmic microwave background]]
+* [[Cosmic neutrino background]]
+* [[Gravitational wave background]]
+* [[Inflation (cosmology)|Inflation]]
+* [[Big Bang nucleosynthesis|Nucleosynthesis]]
+* [[Chronology of the universe#Habitable epoch|Habitable epoch]]
+
+|group4     = Present universe
+|list4      = 
+* [[Friedmann–Lemaître–Robertson–Walker metric|FLRW metric]]
+* [[Friedmann equations]]
+* [[Hubble's law]]
+* [[Metric expansion of space]]
+* [[Accelerating expansion of the universe|Accelerating expansion]]
+* [[Redshift]]
+
+|group5     = Future universe 
+|list5      =
+* [[Future of an expanding universe]]
+* [[Ultimate fate of the universe]]
+
+|group6     = Components
+|list6      = 
+* [[Dark energy]]
+* [[Dark fluid]]
+* [[Dark matter]]
+* [[Lambda-CDM model]]
+
+|group7     = Structure formation
+|list7      = 
+* [[Galaxy filament]]
+* [[Galaxy formation and evolution|Galaxy formation]]
+* [[Large quasar group]]
+* [[Large-scale structure of the cosmos|Large-scale structure]]
+* [[Reionization]]
+* [[Shape of the universe]]
+* [[Structure formation]]
+
+|group8     = Experiments
+|list8      = 
+* [[2dF Galaxy Redshift Survey|2dF]]
+* [[6dF Galaxy Survey|6dF]]
+* [[BOOMERanG experiment|BOOMERanG]]
+* [[Cosmic Background Explorer|COBE]]
+* [[Illustris project]]
+* [[Observational cosmology]]
+* [[Planck (spacecraft)|Planck]]
+* [[Sloan Digital Sky Survey|SDSS]]
+* [[Wilkinson Microwave Anisotropy Probe|WMAP]]
+
+|below      = '''{{portal-inline|size=tiny|astronomy}}'''
+}}&lt;noinclude&gt;
+{{collapsible option}}
+
+[[Category:Astronomy templates]]
+&lt;/noinclude&gt;
+</textarea>

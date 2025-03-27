@@ -1,0 +1,39 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox
+|name = Fundamental interactions
+|title = The [[fundamental interaction]]s of [[physics]]
+|bodyclass = hlist
+
+|group1 = [[force|Physical force]]s
+|list1 = 
+* [[Strong interaction]]
+** Fundamental
+** [[Nuclear force|Residual]]
+* [[Electroweak interaction]]
+** [[Weak interaction]]
+** [[Electromagnetism]]
+* [[Gravity|Gravitation]]
+* [[Electric charge]]
+
+|group2 = [[Radiation]]s
+|list2 =
+* [[Electromagnetic radiation]]
+* [[Gravitational wave|Gravitational radiation]]
+
+|group3 = Hypothetical forces
+|list3 = 
+* [[Fifth force]]
+* [[Quintessence (physics)|Quintessence]]
+* [[Weak gravity conjecture]]
+
+|below =
+* [[Glossary of physics]]
+* [[Particle physics]] 
+* [[Philosophy of physics]] 
+* [[Universe]]
+* [[Weakless Universe]]
+
+}}&lt;noinclude&gt;
+
+[[Category:Physics navbox templates]]
+&lt;/noinclude&gt;
+</textarea>

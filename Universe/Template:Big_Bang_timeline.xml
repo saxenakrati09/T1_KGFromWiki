@@ -1,0 +1,33 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{navbox
+ | name = Big Bang timeline
+ | title = [[Chronology of the universe|Timeline of the Big Bang]]
+ | listclass = hlist
+
+ | group1 = [[Chronology of the universe]]
+ | list1 =
+* [[Big Bang]]
+* [[Planck epoch]]
+* [[Grand unification epoch]]
+* [[Electroweak epoch]] ([[Inflationary epoch]], [[Inflation (cosmology)#Reheating|Reheating]], [[Baryogenesis]])
+* [[Quark epoch]]
+* [[Hadron epoch]]
+* [[Lepton epoch]]
+* [[Photon epoch]] ([[Big Bang nucleosynthesis]], [[Chronology of the universe#Matter domination|Matter domination]], [[Recombination (cosmology)|Recombination]])
+* [[Chronology of the universe#Dark Ages|Dark ages]]
+**[[Chronology of the universe#Habitable epoch|Habitable epoch]]
+* [[Reionization]]
+
+ | group2 = [[Ultimate fate of the universe|Fate of the universe]]
+ | list2 =
+* [[Big Crunch]]
+* [[Big Rip]]
+* [[Heat death of the universe]]
+
+ |group3
+ | list3=
+* [[File:Universe expansion2.png|15px]] '''[[Graphical timeline of the Big Bang]]'''
+}}&lt;noinclude&gt;
+[[Category:Astronomy templates]]
+[[Category:Physics navbox templates]]
+&lt;/noinclude&gt;
+</textarea>

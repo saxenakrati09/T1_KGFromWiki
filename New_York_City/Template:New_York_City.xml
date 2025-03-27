@@ -1,0 +1,127 @@
+<textarea accesskey="," aria-label="Wikitext source editor" class="mw-editfont-monospace" cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" rows="25" style="" tabindex="1">{{Navbox
+ | name = New York City
+ | title = {{flagicon image|Flag of New York City.svg}} [[New York City]] articles
+ | state = {{{state|autocollapse}}}
+ | bodyclass = hlist
+ | image = [[File:Seal of New York City BW.svg|100px|Seal of New York City]]
+
+ | group1 = By topic
+ | list1 =
+* [[History of New York City|History]]
+** [[Timeline of New York City|timeline]]
+* [[Neighborhoods in New York City|Neighborhoods]]
+** [[New York City ethnic enclaves|ethnic enclaves]]
+* [[Architecture of New York City|Architecture]]
+** [[Art Deco architecture of New York City|Art Deco]]
+** [[List of buildings, sites, and monuments in New York City|monuments]]
+** [[List of tallest buildings in New York City|skyscrapers]]
+* [[List of people from New York City|People]]
+* [[Media in New York City|Media]]
+* [[Economy of New York City|Economy]]
+** [[List of companies based in New York City|companies]]
+* [[Geography of New York City|Geography]]
+* [[Climate of New York City|Climate]]
+* [[Flags of New York City|Flags]]
+* [[Environmental issues in New York City|Environment]]
+** [[Food and water in New York City|food and water]]
+** [[Rats in New York City|rats]]
+* [[Demographics of New York City|Demographics]]
+** [[Demographic history of New York City|history]]
+
+ | group2 = [[Boroughs of New York City|Boroughs]]
+ | list2 =
+* [[The Bronx]] (Bronx County)
+* [[Brooklyn]] (Kings County)
+* [[Manhattan]] (New York County)
+* [[Queens]] (Queens County)
+* [[Staten Island]] (Richmond County)
+
+ | group3 = [[Government of New York City|Government]]
+ | list3 =
+* [[Mayor of New York City|Mayor]]
+* [[New York City mayoral elections|Elections]]
+* [[New York City Council|Council]]
+* [[Borough president|Borough presidents]]
+* [[Community boards of New York City|Community Districts]]
+* [[Politics of New York City|Politics]]
+* [[List of New York City agencies|City agencies]]
+
+ | group4 = Emergency services
+ | list4 =
+* [[List of hospitals in New York City|Hospitals]]
+* [[New York City Fire Department|Fire]]
+* [[New York City Police Department|Police]]
+** [[Crime in New York City|crime]]
+** [[Law enforcement in New York City|law enforcement]]
+* [[New York City Emergency Management|Emergency Management]]
+
+ | group5 = [[Transportation in New York City|Transportation]]
+ | list5 =
+* [[History of transportation in New York City|History]]
+* Entities
+** [[New York City Department of Transportation|DOT]]
+** [[New York City Board of Transportation|former BOT]]
+** [[Vision Zero (New York City)|Vision Zero Initiative]]
+* [[Metropolitan Transportation Authority]]
+** [[New York City Subway|Subway]]
+** [[MTA Regional Bus Operations|Bus]]
+** [[Staten Island Railway]]
+** [[Long Island Rail Road]]
+** [[Metro-North Railroad]]
+* [[PATH (rail system)|PATH]]
+* [[List of bridges and tunnels in New York City|Bridges and tunnels]]
+* [[:Category:Streets in New York City|Streets]]
+
+ | group6 = [[Culture of New York City|Culture]]
+ | list6 =
+* [[New York City arts organizations|Arts]]
+* [[Books about New York City|Books]]
+* [[Cuisine of New York City|Cuisine]]
+* [[New York City English|Dialect]]
+* Libraries 
+** [[Brooklyn Public Library|Brooklyn]]
+** [[New York Public Library|New York (Manhattan, the Bronx, Staten Island)]]
+** [[Queens Public Library|Queens]]
+* [[List of museums and cultural institutions in New York City|Museums]]
+* [[Music of New York City|Music]]
+* [[List of nicknames of New York City|Nicknames]]
+* [[Sixth borough|"Sixth borough"]]
+* [[Sports in New York City|Sports]]
+* [[Tourism in New York City|Tourism]]
+** [[List of New York City gardens|gardens]]
+** [[Lists of New York City landmarks|landmarks]]
+** [[List of New York City parks|parks]]
+
+ | group7 = [[Education in New York City|Education]]
+ | list7 =
+* [[New York City Department of Education|Dept. of Education]]
+* [[List of public elementary schools in New York City|Elementary schools]]
+* [[List of high schools in New York City|High schools]]
+* [[List of colleges and universities in New York City|Colleges]]
+
+ | group8 = [[History of New York City|History]]
+ | list8 =
+* [[Timeline of New York City|Timeline]]
+* [[History of New York City (prehistory–1664)|Prehistory-1664]]
+* [[New Amsterdam]]
+* [[History of New York City (1784–1854)|1784-1854]]
+* [[New York City in the American Civil War|Civil War]]
+* [[History of New York City (1855–1897)|1855-1897]]
+* [[History of New York City (1898–1945)|1898-1945]]
+* [[History of New York City (1978–present)|1978-present]]
+* [[History of New York City (1946–1977)|1946-1977]]
+* [[Moving Day (New York City)|Moving Day]]
+* [[Tammany Hall]]
+
+| belowstyle = font-weight: bold;
+| below =
+* {{Icon|category}} [[:Category:New York City|Category]]
+* {{Icon|Portal}} [[Portal:New York City|Portal]]
+}}&lt;noinclude&gt;
+
+{{collapsible option|statename=optional}}
+
+[[Category:New York City templates| ]]
+
+&lt;/noinclude&gt;
+</textarea>
